@@ -19,6 +19,6 @@ DEBUG_PRINT=true FILE_PATH=kv-efz-2023-06-01.json python parse.py
 
 ## License
 
-This code is licensed under the MIT license (see [LICENSE.md]).
+This code is licensed under the MIT license (see [LICENSE](LICENSE.md)).
 
 The linked PDF document and the extracted content in text and json format are under the copyright of [BIKAS](https://www.skkab.ch).
