@@ -15,8 +15,9 @@ import re
 import os
 
 # Input file path
-FILE_PATH = os.getenv("FILE_PATH", "kv-efz-2023-06-01.txt")
-OUTPUT_PATH = os.getenv("OUTPUT_PATH", "kv-efz-2023-06-01.json")
+dir = os.path.dirname(os.path.realpath(__file__))
+FILE_PATH = os.getenv("FILE_PATH", os.path.join(dir, "kv-efz-2023-06-01.txt"))
+OUTPUT_PATH = os.getenv("OUTPUT_PATH", FILE_PATH.replace(".txt", ".json"))
 DEBUG_PRINT = os.getenv("DEBUG_PRINT", "false").lower() == "true"
 
 # Regular expression to match competency identifiers (e.g. a1.bs1)
@@ -55,13 +56,16 @@ def parse_plan(file_path: str) -> list[dict]:
             competencies_list = re.split(RX_COMPETENCY_IDENTIFIER, section_raw, flags=re.DOTALL)
             # The first element contains the section title (first line) and the description (rest)
             section_title, section_desc = re.split(r'\n', competencies_list[0], maxsplit=1)
+            section_data = {'code': section_code, 'title': clean_text(section_title), "desc": clean_text(section_desc), 'competencies': []}
 
             # Create a dictionary from the competencies
-            competency_keys = competencies_list[1::2]
-            competency_descs = [clean_text(text) for text in competencies_list[2::2]]
-            competencies = dict(zip(competency_keys, competency_descs))
-            section_data = {'code': section_code, 'title': clean_text(section_title), "desc": clean_text(section_desc), 'competencies': competencies}
-
+            for code, desc_raw in zip(competencies_list[1::2], competencies_list[2::2]):
+                desc = clean_text(desc_raw)
+                where = "Berufsschule" if "bs" in code else "Betrieb"
+                competency = {"code": code, "description": desc, "where": where}
+                section_data['competencies'].append(competency)
+                
+            
             # Append the section to the area
             area_data['sections'].append(section_data)
 
