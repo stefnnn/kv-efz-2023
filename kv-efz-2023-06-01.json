@@ -6,7 +6,7 @@
       {
         "code": "Handlungskompetenz a1",
         "title": "Kaufm\u00e4nnische Kompetenzentwicklung \u00fcberpr\u00fcfen und weiterentwickeln",
-        "desc": "Die Kaufleute informieren sich \u00fcber Entwicklungsm\u00f6glichkeiten in ihrem Berufsfeld. Sie nehmen regelm\u00e4ssig eine pers\u00f6nliche Standortbestimmung vor und legen in Absprache mit der vorgesetzten Person Massnahmen zur Weiterentwicklung ihrer beruflichen Kompetenzen fest. Leistungsziele Betrieb Leistungsziele Berufsfachschule",
+        "desc": "Die Kaufleute informieren sich \u00fcber Entwicklungsm\u00f6glichkeiten in ihrem Berufsfeld. Sie nehmen regelm\u00e4ssig eine pers\u00f6nliche Standortbestimmung vor und legen in Absprache mit der vorgesetzten Person Massnahmen zur Weiterentwicklung ihrer beruflichen Kompetenzen fest.",
         "competencies": [
           {
             "code": "a1.bt1",
@@ -58,7 +58,7 @@
       {
         "code": "Handlungskompetenz a2",
         "title": "Netzwerke im kaufm\u00e4nnischen Bereich aufbauen und nutzen",
-        "desc": "Die Kaufleute bauen ein berufsspezifisches Netzwerk auf und pflegen ihre Kontakte mit anderen Berufspersonen \u00fcber verschiedene Kan\u00e4le. Sie nutzen ihre Kontakte, um sich f\u00fcr Auftr\u00e4ge zu pr\u00e4sentieren, an relevante Informationen zu gelangen und Erfahrungen auszutauschen. Leistungsziele Betrieb Leistungsziele Berufsfachschule",
+        "desc": "Die Kaufleute bauen ein berufsspezifisches Netzwerk auf und pflegen ihre Kontakte mit anderen Berufspersonen \u00fcber verschiedene Kan\u00e4le. Sie nutzen ihre Kontakte, um sich f\u00fcr Auftr\u00e4ge zu pr\u00e4sentieren, an relevante Informationen zu gelangen und Erfahrungen auszutauschen.",
         "competencies": [
           {
             "code": "a2.bt1",
@@ -105,7 +105,7 @@
       {
         "code": "Handlungskompetenz a3",
         "title": "Kaufm\u00e4nnische Auftr\u00e4ge entgegennehmen und bearbeiten",
-        "desc": "Die Kaufleute vermarkten ihr Kompetenzprofil in inner- und ausserbetrieblichen Wettbewerbssituationen f\u00fcr kaufm\u00e4nnische Auftr\u00e4ge. Sie erbringen Dienstleistungen im Sinne der erteilten Auftr\u00e4ge und \u00fcberpr\u00fcfen die Ausf\u00fchrung sowie die Zufriedenheit der Auftraggebenden. Die Kaufleute reflektieren den Erfolg, analysieren ihr Handeln und leiten Verbesserungsmassnahmen ab. Leistungsziele Betrieb Leistungsziele Berufsfachschule",
+        "desc": "Die Kaufleute vermarkten ihr Kompetenzprofil in inner- und ausserbetrieblichen Wettbewerbssituationen f\u00fcr kaufm\u00e4nnische Auftr\u00e4ge. Sie erbringen Dienstleistungen im Sinne der erteilten Auftr\u00e4ge und \u00fcberpr\u00fcfen die Ausf\u00fchrung sowie die Zufriedenheit der Auftraggebenden. Die Kaufleute reflektieren den Erfolg, analysieren ihr Handeln und leiten Verbesserungsmassnahmen ab.",
         "competencies": [
           {
             "code": "a3.bt1",
@@ -157,7 +157,7 @@
       {
         "code": "Handlungskompetenz a4",
         "title": "Als selbstverantwortliche Person in der Gesellschaft handeln",
-        "desc": "Die Kaufleute agieren selbstverantwortlich in pers\u00f6nlichen und gesellschaftlichen Bereichen. Sie planen ihr Handeln bewusst und leiten daraus Schlussfolgerungen f\u00fcr sich und ihr Handeln als Kaufleute ab. Zudem bauen Kaufleute ihre Identit\u00e4t bewusst auf und reflektieren deren Wirkung in Gesellschaft und Betrieb. Leistungsziele Betrieb Leistungsziele Berufsfachschule",
+        "desc": "Die Kaufleute agieren selbstverantwortlich in pers\u00f6nlichen und gesellschaftlichen Bereichen. Sie planen ihr Handeln bewusst und leiten daraus Schlussfolgerungen f\u00fcr sich und ihr Handeln als Kaufleute ab. Zudem bauen Kaufleute ihre Identit\u00e4t bewusst auf und reflektieren deren Wirkung in Gesellschaft und Betrieb.",
         "competencies": [
           {
             "code": "a4.bs1",
@@ -224,7 +224,7 @@
       {
         "code": "Handlungskompetenz a5",
         "title": "Politische Themen und kulturelles Bewusstsein im Handeln einbeziehen",
-        "desc": "Die Kaufleute analysieren aktuelle politische Fragen sowie die Interessen und Werte der Beteiligten. Sie entwickeln ihre Einstellungen und Werte, um sich ihren eigenen ethischen Bezugsrahmen zu schaffen. Sie \u00fcben ihre politischen Rechte aus und beziehen die relevanten politischen Themen als Kaufleute in ihr Handeln ein. Des Weiteren entwickeln und erweitern die Kaufleute ihre eigenen Gestaltungs- und Ausdrucksformen. Sie leiten daraus Schlussfolgerungen f\u00fcr sich und ihr Handeln als Kaufleute ab. Leistungsziele Betrieb Leistungsziele Berufsfachschule",
+        "desc": "Die Kaufleute analysieren aktuelle politische Fragen sowie die Interessen und Werte der Beteiligten. Sie entwickeln ihre Einstellungen und Werte, um sich ihren eigenen ethischen Bezugsrahmen zu schaffen. Sie \u00fcben ihre politischen Rechte aus und beziehen die relevanten politischen Themen als Kaufleute in ihr Handeln ein. Des Weiteren entwickeln und erweitern die Kaufleute ihre eigenen Gestaltungs- und Ausdrucksformen. Sie leiten daraus Schlussfolgerungen f\u00fcr sich und ihr Handeln als Kaufleute ab.",
         "competencies": [
           {
             "code": "a5.bs1",
@@ -282,7 +282,7 @@
       {
         "code": "Handlungskompetenz b1",
         "title": "In unterschiedlichen Teams zur Bearbeitung kaufm\u00e4nnischer Auftr\u00e4ge zusammenarbeiten und kommunizieren",
-        "desc": "Die Kaufleute \u00fcben ihre T\u00e4tigkeiten in wechselnden Teamkonstellationen aus. Sie kommunizieren mit ihnen in der regionalen Landessprache, in Englisch oder in einer zweiten Landessprache. Die Kaufleute informieren sich \u00fcber die Gepflogenheiten in anderen Kulturkreisen und ber\u00fccksichtigen diese in Zusammenarbeit und Kommunikation. In jedem Fall halten sie Vorgaben, Vereinbarungen sowie Termine ein und leiten bei Abweichungen zeitgerecht Massnahmen ein. Leistungsziele Betrieb Leistungsziele Berufsfachschule",
+        "desc": "Die Kaufleute \u00fcben ihre T\u00e4tigkeiten in wechselnden Teamkonstellationen aus. Sie kommunizieren mit ihnen in der regionalen Landessprache, in Englisch oder in einer zweiten Landessprache. Die Kaufleute informieren sich \u00fcber die Gepflogenheiten in anderen Kulturkreisen und ber\u00fccksichtigen diese in Zusammenarbeit und Kommunikation. In jedem Fall halten sie Vorgaben, Vereinbarungen sowie Termine ein und leiten bei Abweichungen zeitgerecht Massnahmen ein.",
         "competencies": [
           {
             "code": "b1.bt1",
@@ -354,7 +354,7 @@
       {
         "code": "Handlungskompetenz b2",
         "title": "Schnittstellen in betrieblichen Prozessen koordinieren",
-        "desc": "Die Kaufleute arbeiten als Bindeglied an Schnittstellen mit verschiedenen Funktionsbereichen und Anspruchsgruppen zusammen und beziehen in ihre Arbeit die unterschiedlichen Interessen der Beteiligten mit ein. Sie koordinieren die Schnittstellen mit kaufm\u00e4nnischen Hilfsmitteln, \u00fcbersetzen technisch und fachlich anspruchsvolle Inhalte in adressatengerechte Informationen und dokumentieren entsprechende Aktivit\u00e4ten. Sie bringen bei den zust\u00e4ndigen Stellen Verbesserungsvorschl\u00e4ge an. Leistungsziele Betrieb Leistungsziele Berufsfachschule",
+        "desc": "Die Kaufleute arbeiten als Bindeglied an Schnittstellen mit verschiedenen Funktionsbereichen und Anspruchsgruppen zusammen und beziehen in ihre Arbeit die unterschiedlichen Interessen der Beteiligten mit ein. Sie koordinieren die Schnittstellen mit kaufm\u00e4nnischen Hilfsmitteln, \u00fcbersetzen technisch und fachlich anspruchsvolle Inhalte in adressatengerechte Informationen und dokumentieren entsprechende Aktivit\u00e4ten. Sie bringen bei den zust\u00e4ndigen Stellen Verbesserungsvorschl\u00e4ge an.",
         "competencies": [
           {
             "code": "b2.bt1",
@@ -421,7 +421,7 @@
       {
         "code": "Handlungskompetenz b3",
         "title": "In wirtschaftlichen Fachdiskussionen mitdiskutieren",
-        "desc": "Die Kaufleute diskutieren wirtschaftliche Themen mit Arbeitskolleg/innen, wobei sie auch Themen der Ethik, Moral, Technologie, \u00d6kologie, Nachhaltigkeit sowie des Rechts ber\u00fccksichtigen. Bei Unklarheiten recherchieren sie im Internet und hinterfragen die Seriosit\u00e4t sowie die Qualit\u00e4t ihrer Ergebnisse. Die Kaufleute reflektieren aktuelle wirtschaftspolitische Entwicklungen und deren Auswirkung auf den Wirtschaftszweig sowie den Betrieb, in denen sie arbeiten. Und sie erl\u00e4utern die spezifische Interessenlage des Betriebs gegen\u00fcber verschiedenen Anspruchsgruppen. Leistungsziele Betrieb Leistungsziele Berufsfachschule",
+        "desc": "Die Kaufleute diskutieren wirtschaftliche Themen mit Arbeitskolleg/innen, wobei sie auch Themen der Ethik, Moral, Technologie, \u00d6kologie, Nachhaltigkeit sowie des Rechts ber\u00fccksichtigen. Bei Unklarheiten recherchieren sie im Internet und hinterfragen die Seriosit\u00e4t sowie die Qualit\u00e4t ihrer Ergebnisse. Die Kaufleute reflektieren aktuelle wirtschaftspolitische Entwicklungen und deren Auswirkung auf den Wirtschaftszweig sowie den Betrieb, in denen sie arbeiten. Und sie erl\u00e4utern die spezifische Interessenlage des Betriebs gegen\u00fcber verschiedenen Anspruchsgruppen.",
         "competencies": [
           {
             "code": "b3.bt1",
@@ -473,7 +473,7 @@
       {
         "code": "Handlungskompetenz b4",
         "title": "Kaufm\u00e4nnische Projektmanagementaufgaben ausf\u00fchren und Teilprojekte bearbeiten",
-        "desc": "Die Kaufleute bearbeiten kleinere Arbeitspakete und Teilprojekte. Sie erstellen und betreuen Arbeitsumgebungen, erarbeiten Terminpl\u00e4ne und koordinieren die Zusammenarbeit der Beteiligten. Die Kaufleute \u00fcberwachen den Projektverlauf und informieren bei Abweichungen die Projektleitung sowie weitere betroffene Personen. Leistungsziele Betrieb Leistungsziele Berufsfachschule",
+        "desc": "Die Kaufleute bearbeiten kleinere Arbeitspakete und Teilprojekte. Sie erstellen und betreuen Arbeitsumgebungen, erarbeiten Terminpl\u00e4ne und koordinieren die Zusammenarbeit der Beteiligten. Die Kaufleute \u00fcberwachen den Projektverlauf und informieren bei Abweichungen die Projektleitung sowie weitere betroffene Personen.",
         "competencies": [
           {
             "code": "b4.bt1",
@@ -530,7 +530,7 @@
       {
         "code": "Handlungskompetenz b5",
         "title": "Betriebliche Ver\u00e4nderungsprozesse mitgestalten",
-        "desc": "Die Kaufleute informieren sich \u00fcber betriebliche Ver\u00e4nderungsprozesse und deren Bedeutung f\u00fcr ihren T\u00e4tigkeitsbereich. Sie analysieren die Auswirkungen auf ihren Arbeitsbereich, unterbreiten Ideen zur Umsetzung und setzen Ver\u00e4nderungen nach Vorgaben der vorgesetzten Person um. Leistungsziele Betrieb Leistungsziele Berufsfachschule",
+        "desc": "Die Kaufleute informieren sich \u00fcber betriebliche Ver\u00e4nderungsprozesse und deren Bedeutung f\u00fcr ihren T\u00e4tigkeitsbereich. Sie analysieren die Auswirkungen auf ihren Arbeitsbereich, unterbreiten Ideen zur Umsetzung und setzen Ver\u00e4nderungen nach Vorgaben der vorgesetzten Person um.",
         "competencies": [
           {
             "code": "b5.bt1",
@@ -588,7 +588,7 @@
       {
         "code": "Handlungskompetenz c1",
         "title": "Aufgaben und Ressourcen im kaufm\u00e4nnischen Arbeitsbereich planen, koordinieren und optimieren",
-        "desc": "Die Kaufleute planen und koordinieren Aufgaben sowie Ressourcen. Sie recherchieren Informationen und achten auf einen effizienten Einsatz der Ressourcen. Sie arbeiten bei der Organisation von internen und externen Anl\u00e4ssen mit und setzen dabei umweltschonende Massnahmen um. Die Kaufleute pr\u00fcfen ihre Organisationsf\u00e4higkeit, ihr Zeitmanagement, ihre Arbeitstechniken sowie den Einsatz der pers\u00f6nlichen und betrieblichen Ressourcen und leiten Optimierungsmassnahmen ab. Leistungsziele Betrieb Leistungsziele Berufsfachschule",
+        "desc": "Die Kaufleute planen und koordinieren Aufgaben sowie Ressourcen. Sie recherchieren Informationen und achten auf einen effizienten Einsatz der Ressourcen. Sie arbeiten bei der Organisation von internen und externen Anl\u00e4ssen mit und setzen dabei umweltschonende Massnahmen um. Die Kaufleute pr\u00fcfen ihre Organisationsf\u00e4higkeit, ihr Zeitmanagement, ihre Arbeitstechniken sowie den Einsatz der pers\u00f6nlichen und betrieblichen Ressourcen und leiten Optimierungsmassnahmen ab.",
         "competencies": [
           {
             "code": "c1.bt1a",
@@ -680,7 +680,7 @@
       {
         "code": "Handlungskompetenz c2",
         "title": "Kaufm\u00e4nnische Unterst\u00fctzungsprozesse koordinieren und umsetzen",
-        "desc": "Die Kaufleute erstellen unterschiedliche Dokumente zur Unterst\u00fctzung administrativer Prozesse, f\u00fchren Terminkalender und organisieren die Ablage. Sie interpretieren administrative und personalbezogene Dokumente und beantworten Anfragen dazu. Die Kaufleute reflektieren ihre Unterst\u00fctzungst\u00e4tigkeiten und schlagen erforderliche Massnahmen vor. Leistungsziele Betrieb Leistungsziele Berufsfachschule",
+        "desc": "Die Kaufleute erstellen unterschiedliche Dokumente zur Unterst\u00fctzung administrativer Prozesse, f\u00fchren Terminkalender und organisieren die Ablage. Sie interpretieren administrative und personalbezogene Dokumente und beantworten Anfragen dazu. Die Kaufleute reflektieren ihre Unterst\u00fctzungst\u00e4tigkeiten und schlagen erforderliche Massnahmen vor.",
         "competencies": [
           {
             "code": "c2.bt1",
@@ -757,7 +757,7 @@
       {
         "code": "Handlungskompetenz c3",
         "title": "Betriebliche Prozesse dokumentieren, koordinieren und umsetzen",
-        "desc": "Die Kaufleute erstellen Dokumentationen und Terminpl\u00e4ne f\u00fcr betriebliche Prozesse. Sie f\u00fchren die Prozessaufgaben mit den vorgegebenen Hilfsmitteln unter Einbezug der Vorgaben der Arbeitssicherheit, Gesundheitsschutz und Nachhaltigkeit aus und instruieren Mitarbeitende. Die Kaufleute analysieren Probleme in den Prozessabl\u00e4ufen und erarbeiten Verbesserungsvorschl\u00e4ge. Leistungsziele Betrieb Leistungsziele Berufsfachschule",
+        "desc": "Die Kaufleute erstellen Dokumentationen und Terminpl\u00e4ne f\u00fcr betriebliche Prozesse. Sie f\u00fchren die Prozessaufgaben mit den vorgegebenen Hilfsmitteln unter Einbezug der Vorgaben der Arbeitssicherheit, Gesundheitsschutz und Nachhaltigkeit aus und instruieren Mitarbeitende. Die Kaufleute analysieren Probleme in den Prozessabl\u00e4ufen und erarbeiten Verbesserungsvorschl\u00e4ge.",
         "competencies": [
           {
             "code": "c3.bt1",
@@ -834,7 +834,7 @@
       {
         "code": "Handlungskompetenz c4",
         "title": "Marketing- und Kommunikationsaktivit\u00e4ten umsetzen",
-        "desc": "Die Kaufleute kommunizieren mit betriebsinternen und externen Anspruchsgruppen gem\u00e4ss des betrieblichen Informations- und Kommunikationskonzepts in ihrer regionalen Landessprache und in einer Fremdsprache, reflektieren ihr Kommunikationsverhalten und leiten Verbesserungsmassnahmen ab. Zudem informieren sich sie \u00fcber die Entwicklungen im Kommunikationsbereich, leiten Ideen f\u00fcr Neuerungen im Betrieb ab und testen neue Kommunikationsmittel und -formen. Sie unterst\u00fctzen ebenfalls Marketing- und Kommunikationsaktivit\u00e4ten. Leistungsziele Betrieb Leistungsziele Berufsfachschule",
+        "desc": "Die Kaufleute kommunizieren mit betriebsinternen und externen Anspruchsgruppen gem\u00e4ss des betrieblichen Informations- und Kommunikationskonzepts in ihrer regionalen Landessprache und in einer Fremdsprache, reflektieren ihr Kommunikationsverhalten und leiten Verbesserungsmassnahmen ab. Zudem informieren sich sie \u00fcber die Entwicklungen im Kommunikationsbereich, leiten Ideen f\u00fcr Neuerungen im Betrieb ab und testen neue Kommunikationsmittel und -formen. Sie unterst\u00fctzen ebenfalls Marketing- und Kommunikationsaktivit\u00e4ten.",
         "competencies": [
           {
             "code": "c4.bt1",
@@ -921,7 +921,7 @@
       {
         "code": "Handlungskompetenz c5",
         "title": "Finanzielle Vorg\u00e4nge betreuen und kontrollieren",
-        "desc": "Die Kaufleute erstellen f\u00fcr Anl\u00e4sse, Teilprojekte und weitere Auftr\u00e4ge Budgets sowie Abrechnungen \u00fcber effektive Kosten und Ertr\u00e4ge. Sie \u00fcberpr\u00fcfen Abweichungen und schlagen der zust\u00e4ndigen Stelle rechtzeitig Massnahmen vor. Sie erstellen Rechnungen und handeln kostenbewusst. Sie pr\u00fcfen die finanziellen Vorg\u00e4nge in ihrem Arbeitsbereich und korrigieren sie bei Bedarf in Absprache mit der vorgesetzten Stelle. Leistungsziele Betrieb Leistungsziele Berufsfachschule",
+        "desc": "Die Kaufleute erstellen f\u00fcr Anl\u00e4sse, Teilprojekte und weitere Auftr\u00e4ge Budgets sowie Abrechnungen \u00fcber effektive Kosten und Ertr\u00e4ge. Sie \u00fcberpr\u00fcfen Abweichungen und schlagen der zust\u00e4ndigen Stelle rechtzeitig Massnahmen vor. Sie erstellen Rechnungen und handeln kostenbewusst. Sie pr\u00fcfen die finanziellen Vorg\u00e4nge in ihrem Arbeitsbereich und korrigieren sie bei Bedarf in Absprache mit der vorgesetzten Stelle.",
         "competencies": [
           {
             "code": "c5.bt1",
@@ -988,7 +988,7 @@
       {
         "code": "Handlungskompetenz c6",
         "title": "Aufgaben im finanziellen Rechnungswesen bearbeiten (Option \u00abFinanzen\u00bb)",
-        "desc": "Die Kaufleute verbuchen Gesch\u00e4ftsf\u00e4lle und legen die Belege ab. Sie f\u00fchren die Hilfsb\u00fccher sowie die Lohnbuchhaltung und geben zu Lohndeklarationen Auskunft. Die Kaufleute arbeiten bei der Erstellung des Jahresabschlusses mit. Jederzeit halten sie die rechtlichen Vorgaben ein, \u00fcberpr\u00fcfen ihre Arbeitsergebnisse und leiten bei Bedarf korrigierende Schritte ein. Leistungsziele Betrieb Leistungsziele Berufsfachschule",
+        "desc": "Die Kaufleute verbuchen Gesch\u00e4ftsf\u00e4lle und legen die Belege ab. Sie f\u00fchren die Hilfsb\u00fccher sowie die Lohnbuchhaltung und geben zu Lohndeklarationen Auskunft. Die Kaufleute arbeiten bei der Erstellung des Jahresabschlusses mit. Jederzeit halten sie die rechtlichen Vorgaben ein, \u00fcberpr\u00fcfen ihre Arbeitsergebnisse und leiten bei Bedarf korrigierende Schritte ein.",
         "competencies": [
           {
             "code": "c6.bt1",
@@ -1056,7 +1056,7 @@
       {
         "code": "Handlungskompetenz d1",
         "title": "Anliegen von Kunden oder Lieferanten entgegennehmen",
-        "desc": "Die Kaufleute kommunizieren mit Kund/innen und Lieferant/innen in der regionalen Landessprache oder in einer Fremdsprache. Sie beantworten deren Anfragen, holen ihre Bed\u00fcrfnisse ab, leiten sie bei Bedarf an die richtige Stelle weiter und stellen den Informationsfluss sicher. Leistungsziele Betrieb Leistungsziele Berufsfachschule",
+        "desc": "Die Kaufleute kommunizieren mit Kund/innen und Lieferant/innen in der regionalen Landessprache oder in einer Fremdsprache. Sie beantworten deren Anfragen, holen ihre Bed\u00fcrfnisse ab, leiten sie bei Bedarf an die richtige Stelle weiter und stellen den Informationsfluss sicher.",
         "competencies": [
           {
             "code": "d1.bt1",
@@ -1138,7 +1138,7 @@
       {
         "code": "Handlungskompetenz d2",
         "title": "Informations- und Beratungsgespr\u00e4che mit Kunden oder Lieferanten f\u00fchren",
-        "desc": "Die Kaufleute f\u00fchren Beratungsgespr\u00e4che mit Kund/innen und Informationsgespr\u00e4che mit Lieferant/innen \u00fcber unterschiedliche Kan\u00e4le in der regionalen Landessprache oder in einer Fremdsprache. Sie schaffen eine vertrauensvolle Atmosph\u00e4re, kl\u00e4ren die Bed\u00fcrfnisse und pr\u00e4sentieren passende Angebote sowie L\u00f6sungen. Die Kaufleute gehen auf Einw\u00e4nde der Kund/innen oder Lieferant/innen ein und argumentieren l\u00f6sungsorientiert. Sie analysieren positive und negative Reaktionen von Kund/innen beziehungsweise Lieferant/innen und leiten Verbesserungsvorschl\u00e4ge f\u00fcr ihre zuk\u00fcnftigen Gespr\u00e4che ab. Leistungsziele Betrieb Leistungsziele Berufsfachschule",
+        "desc": "Die Kaufleute f\u00fchren Beratungsgespr\u00e4che mit Kund/innen und Informationsgespr\u00e4che mit Lieferant/innen \u00fcber unterschiedliche Kan\u00e4le in der regionalen Landessprache oder in einer Fremdsprache. Sie schaffen eine vertrauensvolle Atmosph\u00e4re, kl\u00e4ren die Bed\u00fcrfnisse und pr\u00e4sentieren passende Angebote sowie L\u00f6sungen. Die Kaufleute gehen auf Einw\u00e4nde der Kund/innen oder Lieferant/innen ein und argumentieren l\u00f6sungsorientiert. Sie analysieren positive und negative Reaktionen von Kund/innen beziehungsweise Lieferant/innen und leiten Verbesserungsvorschl\u00e4ge f\u00fcr ihre zuk\u00fcnftigen Gespr\u00e4che ab.",
         "competencies": [
           {
             "code": "d2.bt1",
@@ -1240,7 +1240,7 @@
       {
         "code": "Handlungskompetenz d3",
         "title": "Verkaufs- und Verhandlungsgespr\u00e4che mit Kunden oder Lieferanten f\u00fchren",
-        "desc": "Die Kaufleute f\u00fchren Verkaufs- und Verhandlungsgespr\u00e4che \u00fcber unterschiedliche Kan\u00e4le in der regionalen Landessprache oder in einer Fremdsprache. Sie kl\u00e4ren die Bed\u00fcrfnisse, erstellen f\u00fcr Kund/innen Offerten und argumentieren in Verkaufsgespr\u00e4chen nutzenorientiert. Bei Bedarf holen die Kaufleute bei m\u00f6glichen Lieferant/innen Offerten ein, pr\u00fcfen diese und leiten Argumente f\u00fcr die Verkaufs- oder die Verhandlungsgespr\u00e4che ab. Diese schliessen sie rechtzeitig ab. Die Kaufleute analysieren die R\u00fcckmeldungen von Kund/innen sowie Lieferant/innen und leiten Optimierungsmassnahmen f\u00fcr ihre zuk\u00fcnftigen Gespr\u00e4che ab. Leistungsziele Betrieb Leistungsziele Berufsfachschule",
+        "desc": "Die Kaufleute f\u00fchren Verkaufs- und Verhandlungsgespr\u00e4che \u00fcber unterschiedliche Kan\u00e4le in der regionalen Landessprache oder in einer Fremdsprache. Sie kl\u00e4ren die Bed\u00fcrfnisse, erstellen f\u00fcr Kund/innen Offerten und argumentieren in Verkaufsgespr\u00e4chen nutzenorientiert. Bei Bedarf holen die Kaufleute bei m\u00f6glichen Lieferant/innen Offerten ein, pr\u00fcfen diese und leiten Argumente f\u00fcr die Verkaufs- oder die Verhandlungsgespr\u00e4che ab. Diese schliessen sie rechtzeitig ab. Die Kaufleute analysieren die R\u00fcckmeldungen von Kund/innen sowie Lieferant/innen und leiten Optimierungsmassnahmen f\u00fcr ihre zuk\u00fcnftigen Gespr\u00e4che ab.",
         "competencies": [
           {
             "code": "d3.bt1",
@@ -1337,7 +1337,7 @@
       {
         "code": "Handlungskompetenz d4",
         "title": "Beziehungen mit Kunden oder Lieferanten pflegen",
-        "desc": "Die Kaufleute pflegen ihre Kunden- und Lieferantenbeziehungen \u00fcber geeignete Kommunikationskan\u00e4le in der regionalen Landessprache oder in einer Fremdsprache. Sie setzen Massnahmen zur Bindung der Kund/innen und Lieferant/innen sowie zur Erh\u00f6hung der Kundenzufriedenheit um. Sie \u00fcberpr\u00fcfen die Wirksamkeit der Massnahmen und schlagen Verbesserungsvorschl\u00e4ge vor. Leistungsziele Betrieb Leistungsziele Berufsfachschule",
+        "desc": "Die Kaufleute pflegen ihre Kunden- und Lieferantenbeziehungen \u00fcber geeignete Kommunikationskan\u00e4le in der regionalen Landessprache oder in einer Fremdsprache. Sie setzen Massnahmen zur Bindung der Kund/innen und Lieferant/innen sowie zur Erh\u00f6hung der Kundenzufriedenheit um. Sie \u00fcberpr\u00fcfen die Wirksamkeit der Massnahmen und schlagen Verbesserungsvorschl\u00e4ge vor.",
         "competencies": [
           {
             "code": "d4.bt1",
@@ -1384,7 +1384,7 @@
       {
         "code": "Handlungskompetenz d5",
         "title": "Anspruchsvolle Beratungs-, Verkaufs- und Verhandlungssituationen mit Kunden oder Lieferanten in der Landessprache gestalten (Option \u00abKommunikation in der Landessprache\u00bb)",
-        "desc": "Die Kaufleute f\u00fchren anspruchsvolle Beratungs- und Verkaufsgespr\u00e4che sowie Verhandlungen auf verschiedenen Kan\u00e4len in der regionalen Landessprache. Sie interagieren mit anspruchsvollen Kund/innen und Lieferant/innen in allen Gespr\u00e4chen, auch bei Konflikten sowie Reklamationen, sach- und l\u00f6sungsorientiert. Die Kaufleute reflektieren ihre anspruchsvollen Gespr\u00e4che und leiten Optimierungsmassnahmen f\u00fcr zuk\u00fcnftige Gespr\u00e4che ab. Leistungsziele Betrieb Leistungsziele Berufsfachschule",
+        "desc": "Die Kaufleute f\u00fchren anspruchsvolle Beratungs- und Verkaufsgespr\u00e4che sowie Verhandlungen auf verschiedenen Kan\u00e4len in der regionalen Landessprache. Sie interagieren mit anspruchsvollen Kund/innen und Lieferant/innen in allen Gespr\u00e4chen, auch bei Konflikten sowie Reklamationen, sach- und l\u00f6sungsorientiert. Die Kaufleute reflektieren ihre anspruchsvollen Gespr\u00e4che und leiten Optimierungsmassnahmen f\u00fcr zuk\u00fcnftige Gespr\u00e4che ab.",
         "competencies": [
           {
             "code": "d5.bt1",
@@ -1461,7 +1461,7 @@
       {
         "code": "Handlungskompetenz d6",
         "title": "Anspruchsvolle Beratungs-, Verkaufs- und Verhandlungssituationen mit Kunden oder Lieferanten in der Fremdsprache gestalten (Option \u00abKommunikation in der Fremdsprache\u00bb)",
-        "desc": "Die Kaufleute f\u00fchren anspruchsvolle Beratungs- und Verkaufsgespr\u00e4che sowie Verhandlungen auf verschiedenen Kan\u00e4len in Englisch oder in einer zweiten Landessprache. Sie interagieren mit anspruchsvollen Kund/innen und Lieferant/innen in allen Gespr\u00e4chen, auch bei Konflikten sowie Reklamationen, sach- und l\u00f6sungsorientiert. Die Kaufleute reflektieren ihre anspruchsvollen Gespr\u00e4che und leiten Optimierungsmassnahmen f\u00fcr zuk\u00fcnftige Gespr\u00e4che ab. Leistungsziele Betrieb Leistungsziele Berufsfachschule",
+        "desc": "Die Kaufleute f\u00fchren anspruchsvolle Beratungs- und Verkaufsgespr\u00e4che sowie Verhandlungen auf verschiedenen Kan\u00e4len in Englisch oder in einer zweiten Landessprache. Sie interagieren mit anspruchsvollen Kund/innen und Lieferant/innen in allen Gespr\u00e4chen, auch bei Konflikten sowie Reklamationen, sach- und l\u00f6sungsorientiert. Die Kaufleute reflektieren ihre anspruchsvollen Gespr\u00e4che und leiten Optimierungsmassnahmen f\u00fcr zuk\u00fcnftige Gespr\u00e4che ab.",
         "competencies": [
           {
             "code": "d6.bt1",
@@ -1549,7 +1549,7 @@
       {
         "code": "Handlungskompetenz e1",
         "title": "Applikationen im kaufm\u00e4nnischen Bereich anwenden",
-        "desc": "Die Kaufleute wenden die Software und die Systeme der Informations- und Kommunikationstechnologien ihres Arbeitsbereichs an und unterst\u00fctzen unterschiedliche Anspruchsgruppen bei deren Nutzung. Sie aktualisieren Daten und Inhalte in Datenbanken sowie Inhaltsverwaltungssystemen. Die Kaufleute halten die rechtlichen Vorschriften ein, erkennen Risiken bez\u00fcglich der Datensicherheit und leiten Massnahmen ein. Technologische Problemstellungen l\u00f6sen sie selbst oder leiten sie an die zust\u00e4ndige Stelle weiter. Zudem ergreifen sie Massnahmen zur Senkung des Energieverbrauchs im IT-Bereich. Leistungsziele Betrieb Leistungsziele Berufsfachschule",
+        "desc": "Die Kaufleute wenden die Software und die Systeme der Informations- und Kommunikationstechnologien ihres Arbeitsbereichs an und unterst\u00fctzen unterschiedliche Anspruchsgruppen bei deren Nutzung. Sie aktualisieren Daten und Inhalte in Datenbanken sowie Inhaltsverwaltungssystemen. Die Kaufleute halten die rechtlichen Vorschriften ein, erkennen Risiken bez\u00fcglich der Datensicherheit und leiten Massnahmen ein. Technologische Problemstellungen l\u00f6sen sie selbst oder leiten sie an die zust\u00e4ndige Stelle weiter. Zudem ergreifen sie Massnahmen zur Senkung des Energieverbrauchs im IT-Bereich.",
         "competencies": [
           {
             "code": "e1.bt1",
@@ -1631,7 +1631,7 @@
       {
         "code": "Handlungskompetenz e2",
         "title": "Informationen im wirtschaftlichen und kaufm\u00e4nnischen Bereich recherchieren und auswerten",
-        "desc": "Die Kaufleute f\u00fchren auftragsorientierte Recherchen mithilfe unterschiedlicher Informationsquellen durch. Sie pr\u00fcfen die Rechercheergebnisse auf deren Qualit\u00e4t sowie betriebliche Relevanz, bereiten die relevanten Informationen auf und dokumentieren sie f\u00fcr eine sp\u00e4tere Verwendung unter Einhaltung der rechtlichen Vorschriften. Die Kaufleute analysieren ihr Vorgehen bei Recherchen und leiten Optimierungsmassnahmen ab. Leistungsziele Betrieb Leistungsziele Berufsfachschule",
+        "desc": "Die Kaufleute f\u00fchren auftragsorientierte Recherchen mithilfe unterschiedlicher Informationsquellen durch. Sie pr\u00fcfen die Rechercheergebnisse auf deren Qualit\u00e4t sowie betriebliche Relevanz, bereiten die relevanten Informationen auf und dokumentieren sie f\u00fcr eine sp\u00e4tere Verwendung unter Einhaltung der rechtlichen Vorschriften. Die Kaufleute analysieren ihr Vorgehen bei Recherchen und leiten Optimierungsmassnahmen ab.",
         "competencies": [
           {
             "code": "e2.bt1",
@@ -1703,7 +1703,7 @@
       {
         "code": "Handlungskompetenz e3",
         "title": "Markt- und betriebsbezogene Statistiken und Daten auswerten und aufbereiten",
-        "desc": "Die Kaufleute f\u00fchren inhaltliche Analysen sowie kleinere quantitative Auswertungen aus, bereiten die Ergebnisse auf, ziehen Schlussfolgerungen und \u00fcbergeben die aufbereiteten Informationen der zust\u00e4ndigen Stelle. Sie \u00fcberpr\u00fcfen Datenbanken und Statistiken auf Plausibilit\u00e4t und leiten korrigierende Massnahmen ab. Leistungsziele Betrieb Leistungsziele Berufsfachschule",
+        "desc": "Die Kaufleute f\u00fchren inhaltliche Analysen sowie kleinere quantitative Auswertungen aus, bereiten die Ergebnisse auf, ziehen Schlussfolgerungen und \u00fcbergeben die aufbereiteten Informationen der zust\u00e4ndigen Stelle. Sie \u00fcberpr\u00fcfen Datenbanken und Statistiken auf Plausibilit\u00e4t und leiten korrigierende Massnahmen ab.",
         "competencies": [
           {
             "code": "e3.bt1",
@@ -1755,7 +1755,7 @@
       {
         "code": "Handlungskompetenz e4",
         "title": "Betriebsbezogene Inhalte multimedial aufbereiten",
-        "desc": "Die Kaufleute bereiten Inhalte mit geeigneten Programmen auf. Dabei ber\u00fccksichtigen sie Zielsetzung, Zielgruppen, Informations- und Medienkanal. Die Kaufleute erstellen Vorlagen f\u00fcr die Informationsmittel und die Medienformate. Zudem pr\u00fcfen sie die Qualit\u00e4t von internen und externen Medienbeitr\u00e4gen und leiten bei Bedarf korrigierende Massnahmen ein. Leistungsziele Betrieb Leistungsziele Berufsfachschule",
+        "desc": "Die Kaufleute bereiten Inhalte mit geeigneten Programmen auf. Dabei ber\u00fccksichtigen sie Zielsetzung, Zielgruppen, Informations- und Medienkanal. Die Kaufleute erstellen Vorlagen f\u00fcr die Informationsmittel und die Medienformate. Zudem pr\u00fcfen sie die Qualit\u00e4t von internen und externen Medienbeitr\u00e4gen und leiten bei Bedarf korrigierende Massnahmen ein.",
         "competencies": [
           {
             "code": "e4.bt1",
@@ -1812,7 +1812,7 @@
       {
         "code": "Handlungskompetenz e5",
         "title": "Technologien im kaufm\u00e4nnischen Bereich einrichten und betreuen (Option \u00abTechnologie\u00bb)",
-        "desc": "Die Kaufleute richten in Zusammenarbeit mit Fachverantwortlichen Datenbanken und Inhaltsverwaltungssysteme ein und betreuen diese f\u00fcr ihren Arbeitsbereich. Sie instruieren ihre Arbeitskolleg/innen bei der Anwendung dieser Datenbanken und Systeme sowie von Software. Die Kaufleute beheben Probleme der Soft- und Hardware. Zudem pr\u00fcfen sie technische Angebote und leiten Empfehlungen ab. Leistungsziele Betrieb Leistungsziele Berufsfachschule",
+        "desc": "Die Kaufleute richten in Zusammenarbeit mit Fachverantwortlichen Datenbanken und Inhaltsverwaltungssysteme ein und betreuen diese f\u00fcr ihren Arbeitsbereich. Sie instruieren ihre Arbeitskolleg/innen bei der Anwendung dieser Datenbanken und Systeme sowie von Software. Die Kaufleute beheben Probleme der Soft- und Hardware. Zudem pr\u00fcfen sie technische Angebote und leiten Empfehlungen ab.",
         "competencies": [
           {
             "code": "e5.bt1",
@@ -1874,7 +1874,7 @@
       {
         "code": "Handlungskompetenz e6",
         "title": "Grosse Datenmengen im Unternehmen auftragsbezogen auswerten (Option \u00abTechnologie\u00bb)",
-        "desc": "Die Kaufleute werten grosse Datens\u00e4tze aus unterschiedlichen Quellen auftragsbezogen aus und bereiten die relevanten Ergebnisse auf. Dabei nutzen sie geeignete Programme und Hilfsmittel. Sie \u00fcberpr\u00fcfen die relevanten Informationen auf Vollst\u00e4ndigkeit sowie Korrektheit und leiten auftragsbezogene Schlussfolgerungen ab. Leistungsziele Betrieb Leistungsziele Berufsfachschule",
+        "desc": "Die Kaufleute werten grosse Datens\u00e4tze aus unterschiedlichen Quellen auftragsbezogen aus und bereiten die relevanten Ergebnisse auf. Dabei nutzen sie geeignete Programme und Hilfsmittel. Sie \u00fcberpr\u00fcfen die relevanten Informationen auf Vollst\u00e4ndigkeit sowie Korrektheit und leiten auftragsbezogene Schlussfolgerungen ab.",
         "competencies": [
           {
             "code": "e6.bt1",

@@ -56,6 +56,7 @@ def parse_plan(file_path: str) -> list[dict]:
             competencies_list = re.split(RX_COMPETENCY_IDENTIFIER, section_raw, flags=re.DOTALL)
             # The first element contains the section title (first line) and the description (rest)
             section_title, section_desc = re.split(r'\n', competencies_list[0], maxsplit=1)
+            section_desc.replace(" Leistungsziele Betrieb Leistungsziele Berufsfachschule", "")
             section_data = {'code': section_code, 'title': clean_text(section_title), "desc": clean_text(section_desc), 'competencies': []}
 
             # Create a dictionary from the competencies
