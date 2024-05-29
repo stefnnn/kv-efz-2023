@@ -16,7 +16,8 @@
           {
             "code": "a1.bs1a",
             "description": "Sie zeigen die Wichtigkeit des lebenslangen Lernens auf.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 1
           },
           {
             "code": "a1.bt2",
@@ -26,12 +27,14 @@
           {
             "code": "a1.bs2a",
             "description": "Sie setzen Standortbestimmungsmethoden im Rahmen der eigenen Kompetenzentwicklung um.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 1
           },
           {
             "code": "a1.bs2b",
             "description": "Sie analysieren g\u00e4ngige Methoden der eigenen Kompetenzentwicklung.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 1
           },
           {
             "code": "a1.bt3",
@@ -41,17 +44,20 @@
           {
             "code": "a1.bs3a",
             "description": "Sie setzen die Technik der Dokumentation und Reflexion an eigenen Entwicklungsmassnahmen um.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 1
           },
           {
             "code": "a1.bs3b",
             "description": "Sie formulieren messbare Zielsetzungen f\u00fcr die Weiterentwicklung ihrer Kompetenzen.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 1
           },
           {
             "code": "a1.bs3c",
             "description": "Sie w\u00e4hlen geeignete Weiterbildungsm\u00f6glichkeiten aus.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 3
           }
         ]
       },
@@ -68,17 +74,20 @@
           {
             "code": "a2.bs1a",
             "description": "Sie legen die Bedeutung von g\u00e4ngigen berufsrelevanten Netzwerken dar.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 1
           },
           {
             "code": "a2.bs1b",
             "description": "Sie erl\u00e4utern die Chancen und die Risiken f\u00fcr den Auftritt in analogen und digitalen Netzwerken.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 1
           },
           {
             "code": "a2.bs1c",
             "description": "Sie vergleichen Auftritte von Berufspersonen in beruflichen Netzwerken.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 1
           },
           {
             "code": "a2.bt2",
@@ -98,7 +107,8 @@
           {
             "code": "a2.bs2a",
             "description": "Sie entwickeln und pr\u00e4sentieren eine Strategie, um das pers\u00f6nliche Netzwerk aufzubauen und zu pflegen.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 1
           }
         ]
       },
@@ -115,17 +125,20 @@
           {
             "code": "a3.bs1a",
             "description": "Sie wenden zentrale Faktoren des Selbstmarketings an.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 3
           },
           {
             "code": "a3.bs1b",
             "description": "Sie pr\u00e4sentieren ihre Kompetenzen auftragsbezogen und zielgerichtet.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 3
           },
           {
             "code": "a3.bs1c",
             "description": "Sie bewerben sich ad\u00e4quat auf eine neue Arbeitsstelle.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 2
           },
           {
             "code": "a3.bt2",
@@ -140,7 +153,8 @@
           {
             "code": "a3.bs3a",
             "description": "Sie wenden g\u00e4ngige Instrumente zur Messung der Zufriedenheit der Auftraggebenden an.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 3
           },
           {
             "code": "a3.bt4",
@@ -150,7 +164,8 @@
           {
             "code": "a3.bs4a",
             "description": "Sie sch\u00e4tzen die Fremdwahrnehmung ihrer Leistung ein und geben ihrem Umfeld eine ad\u00e4quate R\u00fcckmeldung auf Inputs.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 3
           }
         ]
       },
@@ -162,22 +177,26 @@
           {
             "code": "a4.bs1",
             "description": "Sie beschreiben das Grundprinzip von Selbstverantwortung und Haftung.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 2
           },
           {
             "code": "a4.bs2",
             "description": "Sie reflektieren ihre eigenen Erwartungen an ihre sozialen Beziehungen.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 2
           },
           {
             "code": "a4.bs3",
             "description": "Sie wenden in ihren sozialen Beziehungen Methoden zur respektvollen und konstruktiven Konfliktl\u00f6sung an.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 2
           },
           {
             "code": "a4.bs4",
             "description": "Sie beurteilen verschiedene Wohnungsangebote aufgrund ihrer Bed\u00fcrfnisse und finanziellen M\u00f6glichkeiten.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 3
           },
           {
             "code": "a4.bs5",
@@ -187,12 +206,14 @@
           {
             "code": "a4.bs6",
             "description": "Sie beurteilen Massnahmen zur Vermeidung und Verringerung privater Schulden.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 1
           },
           {
             "code": "a4.bs7",
             "description": "Sie analysieren anhand vorgegebener Kriterien die Wahl einer geeigneten Versicherung.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 2
           },
           {
             "code": "a4.bs8",
@@ -202,7 +223,8 @@
           {
             "code": "a4.bs9",
             "description": "Sie f\u00fcllen ihre eigene Steuererkl\u00e4rung aus.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 3
           },
           {
             "code": "a4.bs10",
@@ -217,7 +239,8 @@
           {
             "code": "a4.bs12",
             "description": "Sie entwickeln ein Zukunftsszenario f\u00fcr ihr eigenes Leben.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 3
           }
         ]
       },
@@ -239,37 +262,44 @@
           {
             "code": "a5.bs3",
             "description": "Sie erkl\u00e4ren die M\u00f6glichkeiten zur aktiven Teilnahme am politischen Leben.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 2
           },
           {
             "code": "a5.bs4",
             "description": "Sie setzen sich mit aktuellen politischen Ereignissen auseinander und unterscheiden dabei die wichtigsten Interessengruppen und die daraus entstehenden Spannungsfelder.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 2
           },
           {
             "code": "a5.bs5",
             "description": "Sie analysieren den Einfluss von politischen Entscheidungstr\u00e4gern auf ihre eigene Meinung.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 3
           },
           {
             "code": "a5.bs6",
             "description": "Sie bilden sich zu politischen Themen eine eigene Meinung und begr\u00fcnden sie mit Argumenten.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 3
           },
           {
             "code": "a5.bs7",
             "description": "Sie analysieren die Funktionsweisen von Medien und deren Einfluss auf die Meinungsbildung.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 3
           },
           {
             "code": "a5.bs8",
             "description": "Sie informieren sich \u00fcber aktuelle Fragen der Migration und des Asylwesens.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 3
           },
           {
             "code": "a5.bs9",
             "description": "Sie schildern Wirkungen unterschiedlicher Kunstformen auf sie selbst.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 1
           }
         ]
       }
@@ -292,7 +322,8 @@
           {
             "code": "b1.bs1a",
             "description": "Sie erl\u00e4utern wichtige interkulturelle Unterschiede, die in der Kommunikation und der Zusammenarbeit im Team eine Rolle spielen.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 1
           },
           {
             "code": "b1.bt2",
@@ -302,7 +333,8 @@
           {
             "code": "b1.bs2a",
             "description": "Sie kommunizieren in der regionalen Landessprache und in einer Fremdsprache mit Teammitgliedern (Niveau B1).",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 1
           },
           {
             "code": "b1.bt3",
@@ -312,12 +344,14 @@
           {
             "code": "b1.bs3a",
             "description": "Sie wenden in kaufm\u00e4nnischen Team-Situationen Gespr\u00e4chstechniken adressatengerecht an.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 1
           },
           {
             "code": "b1.bs3b",
             "description": "Sie interagieren in kaufm\u00e4nnischen Kommunikationssituationen mit interkulturellen Unterschieden im Team adressatengerecht.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 1
           },
           {
             "code": "b1.bt4",
@@ -327,7 +361,8 @@
           {
             "code": "b1.bs4a",
             "description": "Sie wenden Konfliktl\u00f6sungsstrategien im Team an.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 1
           },
           {
             "code": "b1.bt5",
@@ -337,7 +372,8 @@
           {
             "code": "b1.bs5a",
             "description": "Sie analysieren eigene soziale, kulturelle und generationenbedingte Werte, die ihre Handlungen beeinflussen.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 1
           },
           {
             "code": "b1.bt6",
@@ -347,7 +383,8 @@
           {
             "code": "b1.bs6a",
             "description": "Sie identifizieren f\u00fcr kaufm\u00e4nnische Auftragssituationen Konsequenzen bei Abweichungen von Terminen und leiten geeignete Massnahmen ab.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 1
           }
         ]
       },
@@ -369,17 +406,20 @@
           {
             "code": "b2.bs2a",
             "description": "Sie erl\u00e4utern die Anliegen der verschiedenen Anspruchsgruppen in einem betrieblichen Prozess.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 1
           },
           {
             "code": "b2.bs2b",
             "description": "Sie identifizieren Schnittstellen, Abh\u00e4ngigkeiten und Verbesserungsm\u00f6glichkeiten in einem betrieblichen Prozess.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 1
           },
           {
             "code": "b2.bs2c",
             "description": "Sie leiten aus Bed\u00fcrfnissen von Anspruchsgruppen im kaufm\u00e4nnischen Bereich zweckm\u00e4ssige Aufgaben ab.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 1
           },
           {
             "code": "b2.bt3",
@@ -394,7 +434,8 @@
           {
             "code": "b2.bs4a",
             "description": "Sie kommunizieren anspruchsvolle technische und fachliche Inhalte in Informationen f\u00fcr verschiedene Anspruchsgruppen zielgruppengerecht, auch in einer Fremdsprache (Niveau B1).",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 2
           },
           {
             "code": "b2.bt5",
@@ -404,7 +445,8 @@
           {
             "code": "b2.bs5a",
             "description": "Sie erl\u00e4utern die Rolle von normativen und strategischen Zielen f\u00fcr eine Unternehmung.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 2
           },
           {
             "code": "b2.bt6",
@@ -431,12 +473,14 @@
           {
             "code": "b3.bs1a",
             "description": "Sie beschreiben grundlegende gesamtwirtschaftliche Zusammenh\u00e4nge und Entwicklungen (volkswirtschaftliche Zusammenh\u00e4nge, marktwirtschaftliche Prinzipien, konjunkturelle Entwicklung, Wirtschafts-, Geld- und Finanzpolitik, Sozial- und Arbeitsmarktpolitik).",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 3
           },
           {
             "code": "b3.bs1b",
             "description": "Sie identifizieren in aktuellen wirtschaftlichen Fachthemen Aspekte und Themen der Ethik, Moral, Technologie, \u00d6kologie, Nachhaltigkeit sowie des Rechts und bringen diese in wirtschaftliche Fachdiskussionen ein.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 3
           },
           {
             "code": "b3.bt2",
@@ -451,7 +495,8 @@
           {
             "code": "b3.bs2a",
             "description": "Sie recherchieren Informationen zu aktuellen und grundlegenden wirtschaftlichen Fachthemen kritisch.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 2
           },
           {
             "code": "b3.bt4",
@@ -461,7 +506,8 @@
           {
             "code": "b3.bs4a",
             "description": "Sie beurteilen die Auswirkungen wirtschaftlicher und wirtschaftspolitischer Entwicklungen auf ein Unternehmen.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 3
           },
           {
             "code": "b3.bt5",
@@ -483,7 +529,8 @@
           {
             "code": "b4.bs1a",
             "description": "Sie erl\u00e4utern die Grundlagen zur Planung, Organisation, Durchf\u00fchrung und Kontrolle von Projekten.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 2
           },
           {
             "code": "b4.bt2",
@@ -493,7 +540,8 @@
           {
             "code": "b4.bs2a",
             "description": "Sie definieren eine f\u00fcr Projekte zweckm\u00e4ssige digitale Arbeitsumgebung und Dokumentationsstruktur.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 2
           },
           {
             "code": "b4.bt3",
@@ -503,7 +551,8 @@
           {
             "code": "b4.bs3a",
             "description": "Sie erstellen f\u00fcr einfache Projekte oder Teilprojekte Terminpl\u00e4ne.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 2
           },
           {
             "code": "b4.bt4",
@@ -513,17 +562,20 @@
           {
             "code": "b4.bs4a",
             "description": "Sie definieren f\u00fcr einfache Projekte Instrumente f\u00fcr die \u00dcberwachung des Projektverlaufs.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 2
           },
           {
             "code": "b4.bs4b",
             "description": "Sie kontrollieren den Projektverlauf anhand der projektspezifischen Vorgaben.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 2
           },
           {
             "code": "b4.bs4c",
             "description": "Sie erstellen Protokolle und weitere projektbezogene Dokumente.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 2
           }
         ]
       },
@@ -540,7 +592,8 @@
           {
             "code": "b5.bs1a",
             "description": "Sie erl\u00e4utern grundlegende Ursachen, Merkmale und Auswirkungen von unternehmensbezogenen Ver\u00e4nderungsprozessen.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 2
           },
           {
             "code": "b5.bt2",
@@ -550,17 +603,20 @@
           {
             "code": "b5.bs2a",
             "description": "Sie recherchieren aktuelle Entwicklungen im wirtschaftlichen und gesellschaftlichen Bereich und reflektieren Auswirkungen auf Betrieb und Arbeitsbereich.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 2
           },
           {
             "code": "b5.bs2b",
             "description": "Sie erl\u00e4utern organisatorische Ver\u00e4nderungsm\u00f6glichkeiten im betrieblichen Bereich kritisch.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 2
           },
           {
             "code": "b5.bs2c",
             "description": "Sie leiten von unternehmens- und betriebsbezogenen Ver\u00e4nderungsprozessen Auswirkungen auf kaufm\u00e4nnische T\u00e4tigkeiten ab.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 2
           },
           {
             "code": "b5.bt3",
@@ -575,7 +631,8 @@
           {
             "code": "b5.bs4a",
             "description": "Sie reflektieren charakteristische Vorgehensweisen im pers\u00f6nlichen Umgang mit Ver\u00e4nderungen in einem Betrieb.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 2
           }
         ]
       }
@@ -608,27 +665,32 @@
           {
             "code": "c1.bs1a",
             "description": "Sie stellen die Grundlagen der Arbeitsorganisation dar.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 1
           },
           {
             "code": "c1.bs1b",
             "description": "Sie wenden g\u00e4ngige Arbeitstechniken und digitale Hilfsmittel zur Planung, Priorisierung und Bearbeitung von Aufgaben und Terminen an.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 1
           },
           {
             "code": "c1.bs1c",
             "description": "Sie entwickeln f\u00fcr Auftr\u00e4ge im kaufm\u00e4nnischen Bereich systematisch Terminpl\u00e4ne und Ressourceneinsatzpl\u00e4ne.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 1
           },
           {
             "code": "c1.bs1d",
             "description": "Sie begr\u00fcnden ihre Priorit\u00e4tensetzung betreffend Terminpl\u00e4ne und Ressourceneinsatz.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 1
           },
           {
             "code": "c1.bs1e",
             "description": "Sie erstellen zweckm\u00e4ssige Aufbauorganisationen mit g\u00e4ngigen Anwendungsprogrammen.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 1
           },
           {
             "code": "c1.bt4",
@@ -643,7 +705,8 @@
           {
             "code": "c1.bs4a",
             "description": "Sie planen einen kleinen Anlass.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 1
           },
           {
             "code": "c1.bt6",
@@ -653,7 +716,8 @@
           {
             "code": "c1.bs5a",
             "description": "Sie analysieren die Umweltbelastung einer Veranstaltung und leiten geeignete Massnahmen zur Reduktion der Belastung ab.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 1
           },
           {
             "code": "c1.bt7",
@@ -668,12 +732,14 @@
           {
             "code": "c1.bs7a",
             "description": "Sie ermitteln und definieren M\u00f6glichkeiten, Zeit und Ressourcen bei ihrer Organisation und Planung einzusparen.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 1
           },
           {
             "code": "c1.bs7b",
             "description": "Sie \u00fcberpr\u00fcfen ihr Zeitmanagement sowie ihre Planungs- und Arbeitstechniken und leiten geeignete Massnahmen ab.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 1
           }
         ]
       },
@@ -690,7 +756,8 @@
           {
             "code": "c2.bs1a",
             "description": "Sie beschreiben die grundlegenden Merkmale von betrieblichen Identit\u00e4tskonzepten (Corporate Identity und Corporate Design) anschaulich.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 1
           },
           {
             "code": "c2.bt2",
@@ -705,7 +772,8 @@
           {
             "code": "c2.bs3a",
             "description": "Sie entwerfen physische und digitale Ablagestrukturen.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 1
           },
           {
             "code": "c2.bt4",
@@ -715,7 +783,8 @@
           {
             "code": "c2.bs4a",
             "description": "Sie erstellen Text-, Tabellen- und Pr\u00e4sentationsdokumente zielgruppengerecht.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 1
           },
           {
             "code": "c2.bt5",
@@ -725,27 +794,32 @@
           {
             "code": "c2.bs5a",
             "description": "Sie erkl\u00e4ren die Elemente des Lehrvertrags sowie die Rechte und die Pflichten der Vertragsparteien.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 1
           },
           {
             "code": "c2.bs5b",
             "description": "Sie erl\u00e4utern die zentralen Elemente von anderen g\u00e4ngigen Vertr\u00e4gen (Einzelarbeitsvertrag, Fahrniskauf, Einfacher Auftrag, Mietvertrag, Darlehensvertrag, Einfache Gesellschaft, Werkvertrag und Leasing) und weiteren rechtlichen Grundlagen.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 1
           },
           {
             "code": "c2.bs5c",
             "description": "Sie erl\u00e4utern den Aufbau und die Sprache von personalbezogenen Dokumenten.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 1
           },
           {
             "code": "c2.bs5d",
             "description": "Sie definieren f\u00fcr g\u00e4ngige administrative und personalbezogene Dokumente die wesentlichen Inhalte.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 1
           },
           {
             "code": "c2.bs5e",
             "description": "Sie \u00fcberpr\u00fcfen die sachliche und die sprachlichformale Richtigkeit von Dokumenten.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 1
           },
           {
             "code": "c2.bt6",
@@ -767,22 +841,26 @@
           {
             "code": "c3.bs1a",
             "description": "Sie beschreiben die typischen Leistungserstellungsprozesse eines Unternehmens.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 2
           },
           {
             "code": "c3.bs1b",
             "description": "Sie zeigen die grundlegenden Elemente und Schnittstellen eines betrieblichen Prozesses auf.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 2
           },
           {
             "code": "c3.bs1c",
             "description": "Sie erl\u00e4utern die Grundlagen des Prozessmanagements.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 2
           },
           {
             "code": "c3.bs1d",
             "description": "Sie erstellen mit g\u00e4ngigen Anwendungsprogrammen Prozessbeschreibungen in grafischer und in Textform.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 2
           },
           {
             "code": "c3.bt2",
@@ -797,7 +875,8 @@
           {
             "code": "c3.bs3a",
             "description": "Sie erstellen Terminpl\u00e4ne f\u00fcr Arbeitsprozesse.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 2
           },
           {
             "code": "c3.bt4",
@@ -807,7 +886,8 @@
           {
             "code": "c3.bs4a",
             "description": "Sie geben Informationen und Instruktionen zu Arbeitsprozessen adressatengerecht weiter.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 2
           },
           {
             "code": "c3.bt5",
@@ -817,7 +897,8 @@
           {
             "code": "c3.bs5a",
             "description": "Sie zeigen die Bedeutung von Arbeitssicherheit, Gesundheitsschutz sowie Nachhaltigkeit in betrieblichen Prozessen stufengerecht auf.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 2
           },
           {
             "code": "c3.bt6",
@@ -827,7 +908,8 @@
           {
             "code": "c3.bs6a",
             "description": "Sie analysieren Prozessabl\u00e4ufe, identifizieren Probleme und erarbeiten Optimierungsmassnahmen.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 2
           }
         ]
       },
@@ -844,22 +926,26 @@
           {
             "code": "c4.bs1a",
             "description": "Sie beschreiben die grundlegenden Merkmale von betrieblichen Informations- und Kommunikationskonzepten.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 2
           },
           {
             "code": "c4.bs1b",
             "description": "Sie stellen die Wesensmerkmale der g\u00e4ngigen Kommunikationskan\u00e4le dar.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 2
           },
           {
             "code": "c4.bs1c",
             "description": "Sie planen passende Vorgehensweisen und Kommunikationsformen in der m\u00fcndlichen, schriftlichen und digitalen Kommunikation mit betriebsinternen und externen Anspruchsgruppen.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 2
           },
           {
             "code": "c4.bs1d",
             "description": "Sie kommunizieren adressatengerecht auf unterschiedlichen Kan\u00e4len (digital und analog).",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 2
           },
           {
             "code": "c4.bt2",
@@ -869,12 +955,14 @@
           {
             "code": "c4.bs2a",
             "description": "Sie legen Anliegen adressatengerecht in geeigneter Form schriftlich und m\u00fcndlich dar.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 2
           },
           {
             "code": "c4.bs2b",
             "description": "Sie kommunizieren m\u00fcndlich und schriftlich in der regionalen Landessprache sowie in einer Fremdsprache mit betriebsinternen und externen Anspruchsgruppen (Niveau B1).",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 2
           },
           {
             "code": "c4.bt3",
@@ -884,7 +972,8 @@
           {
             "code": "c4.bs3a",
             "description": "Sie analysieren ihre zielgruppengerechte Kommunikation und leiten Verbesserungsmassnahmen ab.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 3
           },
           {
             "code": "c4.bt4",
@@ -894,7 +983,8 @@
           {
             "code": "c4.bs4a",
             "description": "Sie recherchieren Entwicklungen im Kommunikationsbereich.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 3
           },
           {
             "code": "c4.bt5",
@@ -909,12 +999,14 @@
           {
             "code": "c4.bs6a",
             "description": "Sie beschreiben die wichtigsten Merkmale von Marketingstrategien und -aktivit\u00e4ten.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 2
           },
           {
             "code": "c4.bs6b",
             "description": "Sie erstellen g\u00e4ngige analoge und digitale Kommunikations- und Marketingdokumente.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 2
           }
         ]
       },
@@ -936,27 +1028,32 @@
           {
             "code": "c5.bs1a",
             "description": "Sie erl\u00e4utern die grundlegenden Funktionen des finanziellen und des betrieblichen Rechnungswesens.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 1
           },
           {
             "code": "c5.bs1b",
             "description": "Sie zeigen den Aufbau einer Erfolgsrechnung und einer Bilanz auf.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 1
           },
           {
             "code": "c5.bs1c",
             "description": "Sie erl\u00e4utern Funktion und Ablauf von Zwischenund Jahresabschluss.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 1
           },
           {
             "code": "c5.bs1d",
             "description": "Sie erstellen Budgets, Abrechnungen, Aufstellungen und Kalkulationen \u00fcber Kosten und Erl\u00f6s und leiten Handlungsempfehlungen ab.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 2
           },
           {
             "code": "c5.bs1e",
             "description": "Sie nutzen g\u00e4ngige digitale Hilfsmittel und Anwendungsprogramme zur Verarbeitung von Zahlen und Daten.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 1
           },
           {
             "code": "c5.bt3",
@@ -966,7 +1063,8 @@
           {
             "code": "c5.bs3a",
             "description": "Sie erstellen Rechnungsdokumente und Zahlungsauftr\u00e4ge.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 2
           },
           {
             "code": "c5.bt4",
@@ -981,7 +1079,8 @@
           {
             "code": "c5.bs5a",
             "description": "Sie \u00fcberpr\u00fcfen Zahlungsprozesse und leiten Optimierungsmassnahmen ab.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 2
           }
         ]
       },
@@ -998,17 +1097,20 @@
           {
             "code": "c6.bs1a",
             "description": "Sie erl\u00e4utern die grundlegenden Elemente und Zusammenh\u00e4nge des Finanz- und Rechnungswesen (Bilanz, Erfolgsrechnung, Liquidit\u00e4t, Hilfsb\u00fccher Deckungsbeitragsrechnung und Betriebsabrechnungsbogen) unter Ber\u00fccksichtigung der relevanten rechtlichen Vorgaben.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 3
           },
           {
             "code": "c6.bs1b",
             "description": "Sie wenden die grundlegenden Elemente des Rechnungswesens (Erfolgsrechnung, Bilanz, Hilfsb\u00fccher, Deckungsbeitragsrechnung) an.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 3
           },
           {
             "code": "c6.bs1c",
             "description": "Sie verbuchen Gesch\u00e4ftsf\u00e4lle entsprechend den relevanten rechtlichen Vorgaben.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 3
           },
           {
             "code": "c6.bt2",
@@ -1018,12 +1120,14 @@
           {
             "code": "c6.bs2a",
             "description": "Sie beschreiben die zentralen Merkmale einer Lohnbuchhaltung inklusive der Sozialabgaben korrekt.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 3
           },
           {
             "code": "c6.bs2b",
             "description": "Sie erkl\u00e4ren den Aufbau einer Lohnabrechnung und einer Lohndeklaration.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 3
           },
           {
             "code": "c6.bt3",
@@ -1033,7 +1137,8 @@
           {
             "code": "c6.bs3a",
             "description": "Sie erl\u00e4utern die grundlegenden Prinzipien beim Jahresabschluss im finanziellen Rechnungswesen.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 3
           },
           {
             "code": "c6.bt4",
@@ -1043,7 +1148,8 @@
           {
             "code": "c6.bs4a",
             "description": "Sie ermitteln Abweichungen der Budget- von den effektiven Zahlen und interpretieren diese.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 3
           }
         ]
       }
@@ -1066,12 +1172,14 @@
           {
             "code": "d1.bs1a",
             "description": "Sie setzen die wichtigsten Faktoren f\u00fcr eine gute Dienstleistungsqualit\u00e4t um.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 1
           },
           {
             "code": "d1.bs1b",
             "description": "Sie zeigen die zentralen Faktoren f\u00fcr die Gestaltung einer Kunden- oder Lieferantenbeziehung auf.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 1
           },
           {
             "code": "d1.bt2",
@@ -1091,12 +1199,14 @@
           {
             "code": "d1.bs2a",
             "description": "Sie nehmen Kunden- oder Lieferantenanliegen systematisch entgegen und stellen die erforderliche Weiterbearbeitung sicher.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 1
           },
           {
             "code": "d1.bs2b",
             "description": "Sie geben eine umfassende Erstauskunft und wenden dabei g\u00e4ngige Kommunikationstechniken an.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 1
           },
           {
             "code": "d1.bt5",
@@ -1106,7 +1216,8 @@
           {
             "code": "d1.bs5a",
             "description": "Sie deuten nonverbale Signale.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 1
           },
           {
             "code": "d1.bt6",
@@ -1116,7 +1227,8 @@
           {
             "code": "d1.bs6a",
             "description": "Sie wenden g\u00e4ngige Fragetechniken im Rahmen der Bed\u00fcrfnisabkl\u00e4rung an.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 1
           },
           {
             "code": "d1.bt7",
@@ -1131,7 +1243,8 @@
           {
             "code": "d1.bs8a",
             "description": "Sie kommunizieren in der regionalen Landessprache und in einer Fremdsprache (Niveau B1).",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 1
           }
         ]
       },
@@ -1148,17 +1261,20 @@
           {
             "code": "d2.bs1a",
             "description": "Sie erl\u00e4utern die Erfolgsfaktoren von Gespr\u00e4chssituationen \u00fcber die g\u00e4ngigen Kan\u00e4le.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 1
           },
           {
             "code": "d2.bs1b",
             "description": "Sie setzen die Schritte von Informationsgespr\u00e4chen um.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 1
           },
           {
             "code": "d2.bs1c",
             "description": "Sie setzen die Schritte von Beratungsgespr\u00e4chen um.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 1
           },
           {
             "code": "d2.bt2",
@@ -1168,17 +1284,20 @@
           {
             "code": "d2.bs2a",
             "description": "Sie leiten Gespr\u00e4che mithilfe g\u00e4ngiger Fragetechniken.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 1
           },
           {
             "code": "d2.bs2b",
             "description": "Sie h\u00f6ren aktiv zu.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 1
           },
           {
             "code": "d2.bs2c",
             "description": "Sie f\u00fchren eine umfassende Bedarfsanalyse durch.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 2
           },
           {
             "code": "d2.bt3",
@@ -1188,12 +1307,14 @@
           {
             "code": "d2.bs3a",
             "description": "Sie setzen die zentralen Elemente einer wertsch\u00e4tzenden Kommunikation um.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 1
           },
           {
             "code": "d2.bs3b",
             "description": "Sie setzen wichtige Faktoren f\u00fcr den Vertrauensaufbau um.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 1
           },
           {
             "code": "d2.bt4",
@@ -1208,7 +1329,8 @@
           {
             "code": "d2.bs5a",
             "description": "Sie setzen verschiedene Pr\u00e4sentationstechniken im Kundengespr\u00e4ch ein.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 2
           },
           {
             "code": "d2.bt6",
@@ -1218,7 +1340,8 @@
           {
             "code": "d2.bs6a",
             "description": "Sie setzen Argumentationstechniken ein.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 1
           },
           {
             "code": "d2.bt7",
@@ -1228,7 +1351,8 @@
           {
             "code": "d2.bs7a",
             "description": "Sie kommunizieren in der regionalen Landessprache und in einer Fremdsprache (Niveau B1).",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 1
           },
           {
             "code": "d2.bt8",
@@ -1250,22 +1374,26 @@
           {
             "code": "d3.bs1a",
             "description": "Sie setzen die Schritte von Verkaufsgespr\u00e4chen um.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 2
           },
           {
             "code": "d3.bs1b",
             "description": "Sie setzen die Schritte von Verhandlungsgespr\u00e4chen um.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 2
           },
           {
             "code": "d3.bs1c",
             "description": "Sie setzen g\u00e4ngige Gespr\u00e4chs- und Verkaufstechniken ein.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 2
           },
           {
             "code": "d3.bs1d",
             "description": "Sie w\u00e4hlen f\u00fcr ein Verkaufs- oder Verhandlungsgespr\u00e4ch mit Kund/innen oder Lieferant/innen eine zielf\u00fchrende Kommunikationstechnik und setzen sie um.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 2
           },
           {
             "code": "d3.bt2",
@@ -1285,7 +1413,8 @@
           {
             "code": "d3.bs4a",
             "description": "Sie erstellen eine kundenorientierte Offerte.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 2
           },
           {
             "code": "d3.bt5",
@@ -1305,7 +1434,8 @@
           {
             "code": "d3.bs7a",
             "description": "Sie wenden die Vorgehensmethodik bei einem Einwand des Gegen\u00fcbers an.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 2
           },
           {
             "code": "d3.bt8",
@@ -1325,7 +1455,8 @@
           {
             "code": "d3.bs9a",
             "description": "Sie kommunizieren in der regionalen Landessprache und in einer Fremdsprache (Niveau B1).",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 2
           },
           {
             "code": "d3.bt11",
@@ -1347,7 +1478,8 @@
           {
             "code": "d4.bs1a",
             "description": "Sie erl\u00e4utern die relevanten Faktoren f\u00fcr die Pflege von Kunden- und Lieferantenbeziehungen.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 2
           },
           {
             "code": "d4.bt2",
@@ -1357,7 +1489,8 @@
           {
             "code": "d4.bs2a",
             "description": "Sie entwickeln Kundenbindungs- und Loyalit\u00e4tsmassnahmen.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 2
           },
           {
             "code": "d4.bt3",
@@ -1367,7 +1500,8 @@
           {
             "code": "d4.bs3a",
             "description": "Sie zeigen die Aspekte f\u00fcr die Erreichung von Kundenzufriedenheit auf.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 2
           },
           {
             "code": "d4.bt4",
@@ -1377,7 +1511,8 @@
           {
             "code": "d4.bs4a",
             "description": "Sie analysieren die Wirkung g\u00e4ngiger Kommunikationskan\u00e4le auf die Kund/innen.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 2
           }
         ]
       },
@@ -1394,12 +1529,14 @@
           {
             "code": "d5.bs1a",
             "description": "Sie wenden Small Talk-Techniken an.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 3
           },
           {
             "code": "d5.bs1b",
             "description": "Sie pr\u00fcfen die Angemessenheit der Inhalte und die Qualit\u00e4t des Small Talks.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 3
           },
           {
             "code": "d5.bt2",
@@ -1409,12 +1546,14 @@
           {
             "code": "d5.bs2a",
             "description": "Sie wenden die wichtigsten Punkte bei der schriftlichen Kommunikation mit anspruchsvollen Kund/innen und Lieferant/innen an.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 3
           },
           {
             "code": "d5.bs2b",
             "description": "Sie f\u00fchren anspruchsvolle Beratungs- und Verhandlungsgespr\u00e4che durch.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 3
           },
           {
             "code": "d5.bt3",
@@ -1429,12 +1568,14 @@
           {
             "code": "d5.bs4a",
             "description": "Sie erkl\u00e4ren das Modell der Eskalationsstufen eines Konflikts.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 3
           },
           {
             "code": "d5.bs4b",
             "description": "Sie wenden Konfliktl\u00f6sungstechniken an.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 3
           },
           {
             "code": "d5.bt5",
@@ -1444,7 +1585,8 @@
           {
             "code": "d5.bs5a",
             "description": "Sie f\u00fchren anspruchsvolle Konflikt- und Reklamationsgespr\u00e4che durch.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 3
           },
           {
             "code": "d5.bt6",
@@ -1454,7 +1596,8 @@
           {
             "code": "d5.bs6a",
             "description": "Sie analysieren anspruchsvolle Beratungs, Verkaufs- und Verhandlungsgespr\u00e4che und leiten Optimierungen f\u00fcr zuk\u00fcnftige Beratungs-, Verkaufs- und Verhandlungsgespr\u00e4che ab.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 3
           }
         ]
       },
@@ -1471,12 +1614,14 @@
           {
             "code": "d6.bs1a",
             "description": "Sie wenden Small Talk-Techniken an.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 3
           },
           {
             "code": "d6.bs1b",
             "description": "Sie pr\u00fcfen die Angemessenheit der Inhalte und die Qualit\u00e4t des Small Talks.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 3
           },
           {
             "code": "d6.bt2",
@@ -1486,17 +1631,20 @@
           {
             "code": "d6.bs2a",
             "description": "Sie wenden die wichtigsten Punkte bei der schriftlichen Kommunikation mit anspruchsvollen Kund/innen und Lieferant/innen an.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 3
           },
           {
             "code": "d6.bs2b",
             "description": "Sie f\u00fchren anspruchsvolle Beratungs- und Verhandlungsgespr\u00e4che durch.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 3
           },
           {
             "code": "d6.bs2c",
             "description": "Sie kommunizieren sowohl in der regionalen Landessprache als auch in Englisch oder in einer zweiten Landessprache.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 3
           },
           {
             "code": "d6.bt3",
@@ -1511,12 +1659,14 @@
           {
             "code": "d6.bs4a",
             "description": "Sie erkl\u00e4ren das Modell der Eskalationsstufen eines Konflikts.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 3
           },
           {
             "code": "d6.bs4b",
             "description": "Sie wenden Konfliktl\u00f6sungstechniken an.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 3
           },
           {
             "code": "d6.bt5",
@@ -1526,7 +1676,8 @@
           {
             "code": "d6.bs5a",
             "description": "Sie f\u00fchren anspruchsvolle Konflikt- und Reklamationsgespr\u00e4che durch.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 3
           },
           {
             "code": "d6.bt6",
@@ -1536,7 +1687,8 @@
           {
             "code": "d6.bs6a",
             "description": "Sie analysieren anspruchsvolle Beratungs, Verkaufs- und Verhandlungsgespr\u00e4che und leiten Optimierungen f\u00fcr zuk\u00fcnftige Beratungs-, Verkaufs- und Verhandlungsgespr\u00e4che ab.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 3
           }
         ]
       }
@@ -1559,12 +1711,14 @@
           {
             "code": "e1.bs1a",
             "description": "Sie wenden g\u00e4ngige Applikationen im kaufm\u00e4nnischen Bereich an.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 1
           },
           {
             "code": "e1.bs1b",
             "description": "Sie erl\u00e4utern die wesentlichen Aspekte und Herausforderungen beim Arbeiten in der Cloud.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 1
           },
           {
             "code": "e1.bt2",
@@ -1574,7 +1728,8 @@
           {
             "code": "e1.bs2a",
             "description": "Sie geben adressatengerechte Hilfestellungen zur Anwendung von Software und Systemen.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 2
           },
           {
             "code": "e1.bt3",
@@ -1584,12 +1739,14 @@
           {
             "code": "e1.bs3a",
             "description": "Sie erkl\u00e4ren die wichtigsten Schritte bei der Aktualisierung von Anwendungsprogrammen und Betriebssystemen.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 1
           },
           {
             "code": "e1.bs3b",
             "description": "Sie aktualisieren Anwendungsprogramme sowie Daten und Inhalte in Datenbanken und Inhaltsverwaltungssystemen (Content Management Systemen).",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 1
           },
           {
             "code": "e1.bt4",
@@ -1599,7 +1756,8 @@
           {
             "code": "e1.bs4a",
             "description": "Sie wenden Massnahmen und Regelungen zu Datensicherheit und Datenschutz an.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 1
           },
           {
             "code": "e1.bt5",
@@ -1609,7 +1767,8 @@
           {
             "code": "e1.bs5a",
             "description": "Sie l\u00f6sen regelm\u00e4ssig auftretende Probleme und Aufgaben bei der Nutzung g\u00e4ngiger digitaler Programme und Ger\u00e4te im kaufm\u00e4nnischen Bereich.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 1
           },
           {
             "code": "e1.bt6",
@@ -1624,7 +1783,8 @@
           {
             "code": "e1.bs7a",
             "description": "Sie leiten Massnahmen ab, um den Energieverbrauch am Arbeitsplatz zu reduzieren.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 1
           }
         ]
       },
@@ -1641,7 +1801,8 @@
           {
             "code": "e2.bs1a",
             "description": "Sie nutzen verschiedene Methoden und Hilfsmittel f\u00fcr die Recherche von Informationen aus dem wirtschaftlichen und kaufm\u00e4nnischen Bereich.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 1
           },
           {
             "code": "e2.bt2",
@@ -1651,7 +1812,8 @@
           {
             "code": "e2.bs2a",
             "description": "Sie wenden sicherheitsrelevante Massnahmen bei Recherchen im Internet an.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 1
           },
           {
             "code": "e2.bt3",
@@ -1661,17 +1823,20 @@
           {
             "code": "e2.bs3a",
             "description": "Sie beschreiben die wichtigsten M\u00f6glichkeiten zur \u00dcberpr\u00fcfung der Qualit\u00e4t von Informationsquellen.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 2
           },
           {
             "code": "e2.bs3b",
             "description": "Sie erkennen und definieren an einfachen Rechercheauftr\u00e4gen die wichtigen Daten und Informationen.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 1
           },
           {
             "code": "e2.bs3c",
             "description": "Sie plausibilisieren Rechercheergebnisse.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 1
           },
           {
             "code": "e2.bt4",
@@ -1681,7 +1846,8 @@
           {
             "code": "e2.bs4a",
             "description": "Sie bereiten Daten und Informationen empf\u00e4ngergerecht auf.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 2
           },
           {
             "code": "e2.bt5",
@@ -1691,7 +1857,8 @@
           {
             "code": "e2.bs5a",
             "description": "Sie setzen die Regeln des Urheberrechts und des Datenschutzes bei Recherchen und Verwertung von Informationen sicher um.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 2
           },
           {
             "code": "e2.bt6",
@@ -1713,17 +1880,20 @@
           {
             "code": "e3.bs1a",
             "description": "Sie erl\u00e4utern g\u00e4ngige Methoden zur Analyse von Daten und Statistiken.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 2
           },
           {
             "code": "e3.bs1b",
             "description": "Sie erstellen und interpretieren Statistiken und Datens\u00e4tze.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 2
           },
           {
             "code": "e3.bs1c",
             "description": "Sie f\u00fchren inhaltliche Analysen und kleinere quantitative Auswertungen aus.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 2
           },
           {
             "code": "e3.bt2",
@@ -1733,7 +1903,8 @@
           {
             "code": "e3.bs2a",
             "description": "Sie bereiten Statistiken und Datens\u00e4tze auf und pr\u00e4sentieren sie zielgruppengerecht.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 2
           },
           {
             "code": "e3.bt3",
@@ -1743,7 +1914,8 @@
           {
             "code": "e3.bs3a",
             "description": "Sie berechnen und interpretieren betriebliche Kennzahlen.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 2
           },
           {
             "code": "e3.bt4",
@@ -1765,27 +1937,32 @@
           {
             "code": "e4.bs1a",
             "description": "Sie setzen die wichtigsten Aspekte bei der visuellen und auditiven Gestaltung (Bild, Ton, Film) von Informationen zielgruppenorientiert um.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 1
           },
           {
             "code": "e4.bs1b",
             "description": "Sie erl\u00e4utern den Aufbau eines Drehbuchs f\u00fcr Audio- und Videoproduktionen.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 1
           },
           {
             "code": "e4.bs1c",
             "description": "Sie bestimmen situationsgerecht digitale Tools f\u00fcr die Aufbereitung von Unterlagen und Informationsmittel.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 1
           },
           {
             "code": "e4.bs1d",
             "description": "Sie erstellen mit g\u00e4ngigen Anwendungsprogrammen einen Gestaltungsentwurf f\u00fcr verschiedene Unterlagen und Informationsmittel.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 1
           },
           {
             "code": "e4.bs1e",
             "description": "Sie erstellen und pr\u00e4sentieren Inhalte (Texte, Bilder, Ton, Video) in einem g\u00e4ngigen Format.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 2
           },
           {
             "code": "e4.bt2",
@@ -1800,7 +1977,8 @@
           {
             "code": "e4.bs3a",
             "description": "Sie erarbeiten Vorlagen f\u00fcr g\u00e4ngige Informationsmittel und Medienformate.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 2
           },
           {
             "code": "e4.bt4",
@@ -1822,7 +2000,8 @@
           {
             "code": "e5.bs1a",
             "description": "Sie erstellen Strukturen f\u00fcr Datenbanken und Inhaltsverwaltungssysteme.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 3
           },
           {
             "code": "e5.bt2",
@@ -1832,7 +2011,8 @@
           {
             "code": "e5.bs2a",
             "description": "Sie bauen Datenbanken und Inhaltsverwaltungssysteme (CMS) auf und pflegen sie.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 3
           },
           {
             "code": "e5.bt3",
@@ -1842,7 +2022,8 @@
           {
             "code": "e5.bs3a",
             "description": "Sie beantworten anspruchsvolle Fragen zur Anwendung von g\u00e4ngigen Anwendungsprogrammen sowie von Datenbanken und Inhaltsverwaltungssystemen im Rahmen des First-Level-Supports.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 3
           },
           {
             "code": "e5.bt4",
@@ -1852,7 +2033,8 @@
           {
             "code": "e5.bs4a",
             "description": "Sie erl\u00e4utern die grundlegende Logik von Programmiersprachen.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 3
           },
           {
             "code": "e5.bt5",
@@ -1862,12 +2044,14 @@
           {
             "code": "e5.bs5a",
             "description": "Sie erl\u00e4utern qualitative und quantitative Kriterien f\u00fcr die Auswahl von Technologien im kaufm\u00e4nnischen Bereich.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 3
           },
           {
             "code": "e5.bs5b",
             "description": "Sie vergleichen verschiedene Angebote f\u00fcr die Anschaffung und Anpassung von technologischen Infrastrukturen im kaufm\u00e4nnischen Bereich und leiten Empfehlungen ab.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 3
           }
         ]
       },
@@ -1884,17 +2068,20 @@
           {
             "code": "e6.bs1a",
             "description": "Sie wenden die Vorgehensschritte bei Erfassung, Verarbeitung und Analyse von Daten an.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 3
           },
           {
             "code": "e6.bs1b",
             "description": "Sie werten grosse Datenmengen aus.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 3
           },
           {
             "code": "e6.bs1c",
             "description": "Sie wenden fortgeschrittene Strategien f\u00fcr die Informationssuche im Internet an.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 3
           },
           {
             "code": "e6.bt2",
@@ -1904,7 +2091,8 @@
           {
             "code": "e6.bs2a",
             "description": "Sie suchen und filtern relevante Informationen aus grossen Datenmengen.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 3
           },
           {
             "code": "e6.bt3",
@@ -1914,7 +2102,8 @@
           {
             "code": "e6.bs3a",
             "description": "Sie pr\u00e4sentieren Datenauswertungen adressatengerecht mit geeigneten Hilfsmitteln und Programmen.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 3
           },
           {
             "code": "e6.bt4",
@@ -1924,7 +2113,8 @@
           {
             "code": "e6.bs4a",
             "description": "Sie analysieren die Ergebnisse ihrer Recherche und leiten Schlussfolgerungen ab.",
-            "where": "Berufsschule"
+            "where": "Berufsschule",
+            "year": 3
           }
         ]
       }

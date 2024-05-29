@@ -19,6 +19,8 @@ dir = os.path.dirname(os.path.realpath(__file__))
 FILE_PATH = os.getenv("FILE_PATH", os.path.join(dir, "kv-efz-2023-06-01.txt"))
 OUTPUT_PATH = os.getenv("OUTPUT_PATH", FILE_PATH.replace(".txt", ".json"))
 DEBUG_PRINT = os.getenv("DEBUG_PRINT", "false").lower() == "true"
+ADDITIONAL_INFO_PATH = os.path.join(dir, "../kv_2023_umsetzung/")
+USE_ADDITIONAL_INFO = os.path.exists(ADDITIONAL_INFO_PATH)
 
 # Regular expression to match competency identifiers (e.g. a1.bs1)
 RX_COMPETENCY_IDENTIFIER = r'(\w\d+\.(?:bs|bt)\d+\w?)\n'
@@ -80,6 +82,25 @@ def parse_plan(file_path: str) -> list[dict]:
     print(f"Parsed {len(plan)} areas with a total of {num_sections} sections and {num_competencies} competencies.")
     return plan
 
+def add_additional_info(plan: list[dict], additional_info_path: str):
+    for area in plan:
+        for section in area['sections']:
+            for competency in section['competencies']:
+                code = competency['code']
+                hkb = code[0].upper()
+                path = os.path.join(additional_info_path, f"HKB{hkb}-{code}.md")
+                try:
+                    with open(path, 'r') as file:
+                        additional_info = file.read()
+                        match = re.search(r"\[\[(\d)\. Ausbildungsjahr\]\]", additional_info, re.DOTALL)
+                        if match:
+                            competency['year'] = int(match.group(1))
+                            print(f"Found additional information for {code}: year {competency['year']}")
+                except FileNotFoundError:
+                    pass
+                    #print(f"No additional information file found for {code} / {path}")
+
+
 # Print the parsed plan in a human-readable format
 def debug_plan(parsed: list[dict]):
     for area in parsed:
@@ -92,6 +113,10 @@ def debug_plan(parsed: list[dict]):
 # Parse and write the plan to a JSON file
 def main():
     plan = parse_plan(FILE_PATH)
+
+    if (USE_ADDITIONAL_INFO):
+        print("Using additional information from 'kv_2023_umsetzung' folder.");
+        add_additional_info(plan, ADDITIONAL_INFO_PATH)
 
     # Write output to JSON file
     with open(OUTPUT_PATH, 'w') as file:
