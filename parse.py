@@ -56,12 +56,14 @@ def parse_plan(file_path: str) -> list[dict]:
             competencies_list = re.split(RX_COMPETENCY_IDENTIFIER, section_raw, flags=re.DOTALL)
             # The first element contains the section title (first line) and the description (rest)
             section_title, section_desc = re.split(r'\n', competencies_list[0], maxsplit=1)
-            section_desc.replace(" Leistungsziele Betrieb Leistungsziele Berufsfachschule", "")
+            section_desc = re.sub(r"\s*Leistungsziele Betrieb Leistungsziele Berufsfachschule", "", section_desc)
             section_data = {'code': section_code, 'title': clean_text(section_title), "desc": clean_text(section_desc), 'competencies': []}
 
             # Create a dictionary from the competencies
             for code, desc_raw in zip(competencies_list[1::2], competencies_list[2::2]):
                 desc = clean_text(desc_raw)
+                # remove all occurrences of "(K1-6)" (Bloom-Categorization)
+                desc = re.sub(r'\s*\(K\d\)', '', desc)
                 where = "Berufsschule" if "bs" in code else "Betrieb"
                 competency = {"code": code, "description": desc, "where": where}
                 section_data['competencies'].append(competency)

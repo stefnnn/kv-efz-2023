@@ -10,47 +10,47 @@
         "competencies": [
           {
             "code": "a1.bt1",
-            "description": "Sie informieren sich im Arbeitsmarkt \u00fcber Trends und Entwicklungsm\u00f6glichkeiten in ihrem Berufsfeld. (K3)",
+            "description": "Sie informieren sich im Arbeitsmarkt \u00fcber Trends und Entwicklungsm\u00f6glichkeiten in ihrem Berufsfeld.",
             "where": "Betrieb"
           },
           {
             "code": "a1.bs1a",
-            "description": "Sie zeigen die Wichtigkeit des lebenslangen Lernens auf. (K2)",
+            "description": "Sie zeigen die Wichtigkeit des lebenslangen Lernens auf.",
             "where": "Berufsschule"
           },
           {
             "code": "a1.bt2",
-            "description": "Sie analysieren und dokumentieren ihre F\u00e4higkeiten, St\u00e4rken und Schw\u00e4chen im berufs- und t\u00e4tigkeitsrelevanten Bereich. (K4)",
+            "description": "Sie analysieren und dokumentieren ihre F\u00e4higkeiten, St\u00e4rken und Schw\u00e4chen im berufs- und t\u00e4tigkeitsrelevanten Bereich.",
             "where": "Betrieb"
           },
           {
             "code": "a1.bs2a",
-            "description": "Sie setzen Standortbestimmungsmethoden im Rahmen der eigenen Kompetenzentwicklung um. (K3)",
+            "description": "Sie setzen Standortbestimmungsmethoden im Rahmen der eigenen Kompetenzentwicklung um.",
             "where": "Berufsschule"
           },
           {
             "code": "a1.bs2b",
-            "description": "Sie analysieren g\u00e4ngige Methoden der eigenen Kompetenzentwicklung. (K4)",
+            "description": "Sie analysieren g\u00e4ngige Methoden der eigenen Kompetenzentwicklung.",
             "where": "Berufsschule"
           },
           {
             "code": "a1.bt3",
-            "description": "Sie leiten Vorschl\u00e4ge f\u00fcr Massnahmen zur Weiterentwicklung ihrer berufsbezogenen Kompetenzen ab und legen diese mit ihren Vorgesetzten und/oder Berufsbildner/innen fest. (K4)",
+            "description": "Sie leiten Vorschl\u00e4ge f\u00fcr Massnahmen zur Weiterentwicklung ihrer berufsbezogenen Kompetenzen ab und legen diese mit ihren Vorgesetzten und/oder Berufsbildner/innen fest.",
             "where": "Betrieb"
           },
           {
             "code": "a1.bs3a",
-            "description": "Sie setzen die Technik der Dokumentation und Reflexion an eigenen Entwicklungsmassnahmen um. (K3)",
+            "description": "Sie setzen die Technik der Dokumentation und Reflexion an eigenen Entwicklungsmassnahmen um.",
             "where": "Berufsschule"
           },
           {
             "code": "a1.bs3b",
-            "description": "Sie formulieren messbare Zielsetzungen f\u00fcr die Weiterentwicklung ihrer Kompetenzen. (K3)",
+            "description": "Sie formulieren messbare Zielsetzungen f\u00fcr die Weiterentwicklung ihrer Kompetenzen.",
             "where": "Berufsschule"
           },
           {
             "code": "a1.bs3c",
-            "description": "Sie w\u00e4hlen geeignete Weiterbildungsm\u00f6glichkeiten aus. (K4)",
+            "description": "Sie w\u00e4hlen geeignete Weiterbildungsm\u00f6glichkeiten aus.",
             "where": "Berufsschule"
           }
         ]
@@ -62,42 +62,42 @@
         "competencies": [
           {
             "code": "a2.bt1",
-            "description": "Sie pr\u00e4sentieren sich in ihren betrieblichen Netzwerk-Kontakten situationsbezogen. (K3)",
+            "description": "Sie pr\u00e4sentieren sich in ihren betrieblichen Netzwerk-Kontakten situationsbezogen.",
             "where": "Betrieb"
           },
           {
             "code": "a2.bs1a",
-            "description": "Sie legen die Bedeutung von g\u00e4ngigen berufsrelevanten Netzwerken dar. (K2)",
+            "description": "Sie legen die Bedeutung von g\u00e4ngigen berufsrelevanten Netzwerken dar.",
             "where": "Berufsschule"
           },
           {
             "code": "a2.bs1b",
-            "description": "Sie erl\u00e4utern die Chancen und die Risiken f\u00fcr den Auftritt in analogen und digitalen Netzwerken. (K2)",
+            "description": "Sie erl\u00e4utern die Chancen und die Risiken f\u00fcr den Auftritt in analogen und digitalen Netzwerken.",
             "where": "Berufsschule"
           },
           {
             "code": "a2.bs1c",
-            "description": "Sie vergleichen Auftritte von Berufspersonen in beruflichen Netzwerken. (K3)",
+            "description": "Sie vergleichen Auftritte von Berufspersonen in beruflichen Netzwerken.",
             "where": "Berufsschule"
           },
           {
             "code": "a2.bt2",
-            "description": "Sie nutzen f\u00fcr ihre Netzwerkpflege verschiedene Kan\u00e4le. (K3)",
+            "description": "Sie nutzen f\u00fcr ihre Netzwerkpflege verschiedene Kan\u00e4le.",
             "where": "Betrieb"
           },
           {
             "code": "a2.bt3",
-            "description": "Sie nutzen ihr berufsspezifisches Netzwerk situations- beziehungsweise auftragsbezogen. (K3)",
+            "description": "Sie nutzen ihr berufsspezifisches Netzwerk situations- beziehungsweise auftragsbezogen.",
             "where": "Betrieb"
           },
           {
             "code": "a2.bt4",
-            "description": "Sie setzen ihr berufsspezifisches Netzwerk f\u00fcr den Informations- und Erfahrungsaustausch ein. (K3)",
+            "description": "Sie setzen ihr berufsspezifisches Netzwerk f\u00fcr den Informations- und Erfahrungsaustausch ein.",
             "where": "Betrieb"
           },
           {
             "code": "a2.bs2a",
-            "description": "Sie entwickeln und pr\u00e4sentieren eine Strategie, um das pers\u00f6nliche Netzwerk aufzubauen und zu pflegen. (K3)",
+            "description": "Sie entwickeln und pr\u00e4sentieren eine Strategie, um das pers\u00f6nliche Netzwerk aufzubauen und zu pflegen.",
             "where": "Berufsschule"
           }
         ]
@@ -109,47 +109,47 @@
         "competencies": [
           {
             "code": "a3.bt1",
-            "description": "Sie engagieren sich f\u00fcr kaufm\u00e4nnische Auftr\u00e4ge und Aufgaben, die zu ihrem Kompetenzprofil passen. (K3)",
+            "description": "Sie engagieren sich f\u00fcr kaufm\u00e4nnische Auftr\u00e4ge und Aufgaben, die zu ihrem Kompetenzprofil passen.",
             "where": "Betrieb"
           },
           {
             "code": "a3.bs1a",
-            "description": "Sie wenden zentrale Faktoren des Selbstmarketings an. (K3)",
+            "description": "Sie wenden zentrale Faktoren des Selbstmarketings an.",
             "where": "Berufsschule"
           },
           {
             "code": "a3.bs1b",
-            "description": "Sie pr\u00e4sentieren ihre Kompetenzen auftragsbezogen und zielgerichtet. (K3)",
+            "description": "Sie pr\u00e4sentieren ihre Kompetenzen auftragsbezogen und zielgerichtet.",
             "where": "Berufsschule"
           },
           {
             "code": "a3.bs1c",
-            "description": "Sie bewerben sich ad\u00e4quat auf eine neue Arbeitsstelle. (K5)",
+            "description": "Sie bewerben sich ad\u00e4quat auf eine neue Arbeitsstelle.",
             "where": "Berufsschule"
           },
           {
             "code": "a3.bt2",
-            "description": "Sie bearbeiten kaufm\u00e4nnische Auftr\u00e4ge und Aufgaben dienstleistungsorientiert. (K3)",
+            "description": "Sie bearbeiten kaufm\u00e4nnische Auftr\u00e4ge und Aufgaben dienstleistungsorientiert.",
             "where": "Betrieb"
           },
           {
             "code": "a3.bt3",
-            "description": "Sie holen R\u00fcckmeldungen zur Auftragsausf\u00fchrung ein. (K3)",
+            "description": "Sie holen R\u00fcckmeldungen zur Auftragsausf\u00fchrung ein.",
             "where": "Betrieb"
           },
           {
             "code": "a3.bs3a",
-            "description": "Sie wenden g\u00e4ngige Instrumente zur Messung der Zufriedenheit der Auftraggebenden an. (K3)",
+            "description": "Sie wenden g\u00e4ngige Instrumente zur Messung der Zufriedenheit der Auftraggebenden an.",
             "where": "Berufsschule"
           },
           {
             "code": "a3.bt4",
-            "description": "Sie analysieren die eigene Qualit\u00e4t und Vorgehensweise der Ausf\u00fchrung des Auftrags oder der Aufgabe und die R\u00fcckmeldungen und schlagen Verbesserungsmassnahmen vor. (K4)",
+            "description": "Sie analysieren die eigene Qualit\u00e4t und Vorgehensweise der Ausf\u00fchrung des Auftrags oder der Aufgabe und die R\u00fcckmeldungen und schlagen Verbesserungsmassnahmen vor.",
             "where": "Betrieb"
           },
           {
             "code": "a3.bs4a",
-            "description": "Sie sch\u00e4tzen die Fremdwahrnehmung ihrer Leistung ein und geben ihrem Umfeld eine ad\u00e4quate R\u00fcckmeldung auf Inputs. (K4)",
+            "description": "Sie sch\u00e4tzen die Fremdwahrnehmung ihrer Leistung ein und geben ihrem Umfeld eine ad\u00e4quate R\u00fcckmeldung auf Inputs.",
             "where": "Berufsschule"
           }
         ]
@@ -161,62 +161,62 @@
         "competencies": [
           {
             "code": "a4.bs1",
-            "description": "Sie beschreiben das Grundprinzip von Selbstverantwortung und Haftung. (K2)",
+            "description": "Sie beschreiben das Grundprinzip von Selbstverantwortung und Haftung.",
             "where": "Berufsschule"
           },
           {
             "code": "a4.bs2",
-            "description": "Sie reflektieren ihre eigenen Erwartungen an ihre sozialen Beziehungen. (K4)",
+            "description": "Sie reflektieren ihre eigenen Erwartungen an ihre sozialen Beziehungen.",
             "where": "Berufsschule"
           },
           {
             "code": "a4.bs3",
-            "description": "Sie wenden in ihren sozialen Beziehungen Methoden zur respektvollen und konstruktiven Konfliktl\u00f6sung an. (K3)",
+            "description": "Sie wenden in ihren sozialen Beziehungen Methoden zur respektvollen und konstruktiven Konfliktl\u00f6sung an.",
             "where": "Berufsschule"
           },
           {
             "code": "a4.bs4",
-            "description": "Sie beurteilen verschiedene Wohnungsangebote aufgrund ihrer Bed\u00fcrfnisse und finanziellen M\u00f6glichkeiten. (K3)",
+            "description": "Sie beurteilen verschiedene Wohnungsangebote aufgrund ihrer Bed\u00fcrfnisse und finanziellen M\u00f6glichkeiten.",
             "where": "Berufsschule"
           },
           {
             "code": "a4.bs5",
-            "description": "Sie reflektieren ihren pers\u00f6nlichen Umgang mit Geld und erstellen ein monatliches Budget anhand ihrer Lohnabrechnung sowie ihres Konsumund Freizeitverhaltens. (K4)",
+            "description": "Sie reflektieren ihren pers\u00f6nlichen Umgang mit Geld und erstellen ein monatliches Budget anhand ihrer Lohnabrechnung sowie ihres Konsumund Freizeitverhaltens.",
             "where": "Berufsschule"
           },
           {
             "code": "a4.bs6",
-            "description": "Sie beurteilen Massnahmen zur Vermeidung und Verringerung privater Schulden. (K4)",
+            "description": "Sie beurteilen Massnahmen zur Vermeidung und Verringerung privater Schulden.",
             "where": "Berufsschule"
           },
           {
             "code": "a4.bs7",
-            "description": "Sie analysieren anhand vorgegebener Kriterien die Wahl einer geeigneten Versicherung. (K3)",
+            "description": "Sie analysieren anhand vorgegebener Kriterien die Wahl einer geeigneten Versicherung.",
             "where": "Berufsschule"
           },
           {
             "code": "a4.bs8",
-            "description": "Sie erl\u00e4utern das Dreis\u00e4ulenprinzip der Vorsorge in der Schweiz sowie den Zusammenhang zwischen den Vorsorgearten und den Abz\u00fcgen im Lohnausweis. (K2)",
+            "description": "Sie erl\u00e4utern das Dreis\u00e4ulenprinzip der Vorsorge in der Schweiz sowie den Zusammenhang zwischen den Vorsorgearten und den Abz\u00fcgen im Lohnausweis.",
             "where": "Berufsschule"
           },
           {
             "code": "a4.bs9",
-            "description": "Sie f\u00fcllen ihre eigene Steuererkl\u00e4rung aus. (K3)",
+            "description": "Sie f\u00fcllen ihre eigene Steuererkl\u00e4rung aus.",
             "where": "Berufsschule"
           },
           {
             "code": "a4.bs10",
-            "description": "Sie erl\u00e4utern Entwicklungen der regionalen, natio  nalen und globalen Mobilit\u00e4t, deren Hauptursachen sowie Einfl\u00fcsse der Mobilit\u00e4t auf Natur, Mensch und Wirtschaft. (K2)",
+            "description": "Sie erl\u00e4utern Entwicklungen der regionalen, natio  nalen und globalen Mobilit\u00e4t, deren Hauptursachen sowie Einfl\u00fcsse der Mobilit\u00e4t auf Natur, Mensch und Wirtschaft.",
             "where": "Berufsschule"
           },
           {
             "code": "a4.bs11",
-            "description": "Sie analysieren, welchen Einfluss ihre Lebensgestaltung auf Natur, Wirtschaft und Gesellschaft hat und entwickeln Massnahmen f\u00fcr pers\u00f6nliches nachhaltiges Handeln. (K4)",
+            "description": "Sie analysieren, welchen Einfluss ihre Lebensgestaltung auf Natur, Wirtschaft und Gesellschaft hat und entwickeln Massnahmen f\u00fcr pers\u00f6nliches nachhaltiges Handeln.",
             "where": "Berufsschule"
           },
           {
             "code": "a4.bs12",
-            "description": "Sie entwickeln ein Zukunftsszenario f\u00fcr ihr eigenes Leben. (K5)",
+            "description": "Sie entwickeln ein Zukunftsszenario f\u00fcr ihr eigenes Leben.",
             "where": "Berufsschule"
           }
         ]
@@ -228,47 +228,47 @@
         "competencies": [
           {
             "code": "a5.bs1",
-            "description": "Sie skizzieren die Gliederung und den Aufbau der Rechtsordnung sowie die Bedeutung der Bundesverfassung und der Bundesgesetze in der Rechtsordnung. (K2)",
+            "description": "Sie skizzieren die Gliederung und den Aufbau der Rechtsordnung sowie die Bedeutung der Bundesverfassung und der Bundesgesetze in der Rechtsordnung.",
             "where": "Berufsschule"
           },
           {
             "code": "a5.bs2",
-            "description": "Sie erl\u00e4utern wichtige Grunds\u00e4tze der schweizerischen Demokratie sowie die Gewaltenteilung mit den Aufgaben von Legislative, Exekutive und Justiz auf Bundesebene. (K2)",
+            "description": "Sie erl\u00e4utern wichtige Grunds\u00e4tze der schweizerischen Demokratie sowie die Gewaltenteilung mit den Aufgaben von Legislative, Exekutive und Justiz auf Bundesebene.",
             "where": "Berufsschule"
           },
           {
             "code": "a5.bs3",
-            "description": "Sie erkl\u00e4ren die M\u00f6glichkeiten zur aktiven Teilnahme am politischen Leben. (K2)",
+            "description": "Sie erkl\u00e4ren die M\u00f6glichkeiten zur aktiven Teilnahme am politischen Leben.",
             "where": "Berufsschule"
           },
           {
             "code": "a5.bs4",
-            "description": "Sie setzen sich mit aktuellen politischen Ereignissen auseinander und unterscheiden dabei die wichtigsten Interessengruppen und die daraus entstehenden Spannungsfelder. (K4)",
+            "description": "Sie setzen sich mit aktuellen politischen Ereignissen auseinander und unterscheiden dabei die wichtigsten Interessengruppen und die daraus entstehenden Spannungsfelder.",
             "where": "Berufsschule"
           },
           {
             "code": "a5.bs5",
-            "description": "Sie analysieren den Einfluss von politischen Entscheidungstr\u00e4gern auf ihre eigene Meinung. (K4)",
+            "description": "Sie analysieren den Einfluss von politischen Entscheidungstr\u00e4gern auf ihre eigene Meinung.",
             "where": "Berufsschule"
           },
           {
             "code": "a5.bs6",
-            "description": "Sie bilden sich zu politischen Themen eine eigene Meinung und begr\u00fcnden sie mit Argumenten. (K3)",
+            "description": "Sie bilden sich zu politischen Themen eine eigene Meinung und begr\u00fcnden sie mit Argumenten.",
             "where": "Berufsschule"
           },
           {
             "code": "a5.bs7",
-            "description": "Sie analysieren die Funktionsweisen von Medien und deren Einfluss auf die Meinungsbildung. (K4)",
+            "description": "Sie analysieren die Funktionsweisen von Medien und deren Einfluss auf die Meinungsbildung.",
             "where": "Berufsschule"
           },
           {
             "code": "a5.bs8",
-            "description": "Sie informieren sich \u00fcber aktuelle Fragen der Migration und des Asylwesens. (K3)",
+            "description": "Sie informieren sich \u00fcber aktuelle Fragen der Migration und des Asylwesens.",
             "where": "Berufsschule"
           },
           {
             "code": "a5.bs9",
-            "description": "Sie schildern Wirkungen unterschiedlicher Kunstformen auf sie selbst. (K3)",
+            "description": "Sie schildern Wirkungen unterschiedlicher Kunstformen auf sie selbst.",
             "where": "Berufsschule"
           }
         ]
@@ -286,67 +286,67 @@
         "competencies": [
           {
             "code": "b1.bt1",
-            "description": "Sie arbeiten mit allen Teammitgliedern situationsgerecht zusammen. (K3)",
+            "description": "Sie arbeiten mit allen Teammitgliedern situationsgerecht zusammen.",
             "where": "Betrieb"
           },
           {
             "code": "b1.bs1a",
-            "description": "Sie erl\u00e4utern wichtige interkulturelle Unterschiede, die in der Kommunikation und der Zusammenarbeit im Team eine Rolle spielen. (K2)",
+            "description": "Sie erl\u00e4utern wichtige interkulturelle Unterschiede, die in der Kommunikation und der Zusammenarbeit im Team eine Rolle spielen.",
             "where": "Berufsschule"
           },
           {
             "code": "b1.bt2",
-            "description": "Sie kommunizieren mit allen Teammitgliedern in der regionalen Landessprache, in Englisch oder in einer zweiten Landessprache. (K3)",
+            "description": "Sie kommunizieren mit allen Teammitgliedern in der regionalen Landessprache, in Englisch oder in einer zweiten Landessprache.",
             "where": "Betrieb"
           },
           {
             "code": "b1.bs2a",
-            "description": "Sie kommunizieren in der regionalen Landessprache und in einer Fremdsprache mit Teammitgliedern (Niveau B1). (K3)",
+            "description": "Sie kommunizieren in der regionalen Landessprache und in einer Fremdsprache mit Teammitgliedern (Niveau B1).",
             "where": "Berufsschule"
           },
           {
             "code": "b1.bt3",
-            "description": "Sie kommunizieren mit allen Teammitgliedern adressatengerecht. (K3)",
+            "description": "Sie kommunizieren mit allen Teammitgliedern adressatengerecht.",
             "where": "Betrieb"
           },
           {
             "code": "b1.bs3a",
-            "description": "Sie wenden in kaufm\u00e4nnischen Team-Situationen Gespr\u00e4chstechniken adressatengerecht an. (K3)",
+            "description": "Sie wenden in kaufm\u00e4nnischen Team-Situationen Gespr\u00e4chstechniken adressatengerecht an.",
             "where": "Berufsschule"
           },
           {
             "code": "b1.bs3b",
-            "description": "Sie interagieren in kaufm\u00e4nnischen Kommunikationssituationen mit interkulturellen Unterschieden im Team adressatengerecht. (K3)",
+            "description": "Sie interagieren in kaufm\u00e4nnischen Kommunikationssituationen mit interkulturellen Unterschieden im Team adressatengerecht.",
             "where": "Berufsschule"
           },
           {
             "code": "b1.bt4",
-            "description": "Sie sprechen Konfliktsituationen an und setzen sich f\u00fcr sachbezogene L\u00f6sungen ein. (K3)",
+            "description": "Sie sprechen Konfliktsituationen an und setzen sich f\u00fcr sachbezogene L\u00f6sungen ein.",
             "where": "Betrieb"
           },
           {
             "code": "b1.bs4a",
-            "description": "Sie wenden Konfliktl\u00f6sungsstrategien im Team an. (K3)",
+            "description": "Sie wenden Konfliktl\u00f6sungsstrategien im Team an.",
             "where": "Berufsschule"
           },
           {
             "code": "b1.bt5",
-            "description": "Sie reflektieren ihre Kommunikation und ihren Umgang mit den Teammitgliedern und leiten Optimierungsmassnahmen f\u00fcr die Zukunft ab. (K4)",
+            "description": "Sie reflektieren ihre Kommunikation und ihren Umgang mit den Teammitgliedern und leiten Optimierungsmassnahmen f\u00fcr die Zukunft ab.",
             "where": "Betrieb"
           },
           {
             "code": "b1.bs5a",
-            "description": "Sie analysieren eigene soziale, kulturelle und generationenbedingte Werte, die ihre Handlungen beeinflussen. (K4)",
+            "description": "Sie analysieren eigene soziale, kulturelle und generationenbedingte Werte, die ihre Handlungen beeinflussen.",
             "where": "Berufsschule"
           },
           {
             "code": "b1.bt6",
-            "description": "Sie setzen in ihren Auftr\u00e4gen Vorgaben, Vereinbarungen und Termine um und leiten bei Abweichungen zeitgerecht Massnahmen ein. (K4)",
+            "description": "Sie setzen in ihren Auftr\u00e4gen Vorgaben, Vereinbarungen und Termine um und leiten bei Abweichungen zeitgerecht Massnahmen ein.",
             "where": "Betrieb"
           },
           {
             "code": "b1.bs6a",
-            "description": "Sie identifizieren f\u00fcr kaufm\u00e4nnische Auftragssituationen Konsequenzen bei Abweichungen von Terminen und leiten geeignete Massnahmen ab. (K4)",
+            "description": "Sie identifizieren f\u00fcr kaufm\u00e4nnische Auftragssituationen Konsequenzen bei Abweichungen von Terminen und leiten geeignete Massnahmen ab.",
             "where": "Berufsschule"
           }
         ]
@@ -358,62 +358,62 @@
         "competencies": [
           {
             "code": "b2.bt1",
-            "description": "Sie arbeiten als Bindeglied mit unterschiedlichen Schnittstellenpartnern und Anspruchsgruppen effizient zusammen \u00fcber unterschiedliche Kan\u00e4le. (K3)",
+            "description": "Sie arbeiten als Bindeglied mit unterschiedlichen Schnittstellenpartnern und Anspruchsgruppen effizient zusammen \u00fcber unterschiedliche Kan\u00e4le.",
             "where": "Betrieb"
           },
           {
             "code": "b2.bt2",
-            "description": "Sie sch\u00e4tzen die Bed\u00fcrfnisse und Anliegen der verschiedenen Anspruchsgruppen an den Schnittstellen ein und leiten zweckm\u00e4ssige Arbeitsschritte systematisch ab. (K4)",
+            "description": "Sie sch\u00e4tzen die Bed\u00fcrfnisse und Anliegen der verschiedenen Anspruchsgruppen an den Schnittstellen ein und leiten zweckm\u00e4ssige Arbeitsschritte systematisch ab.",
             "where": "Betrieb"
           },
           {
             "code": "b2.bs2a",
-            "description": "Sie erl\u00e4utern die Anliegen der verschiedenen Anspruchsgruppen in einem betrieblichen Prozess. (K2)",
+            "description": "Sie erl\u00e4utern die Anliegen der verschiedenen Anspruchsgruppen in einem betrieblichen Prozess.",
             "where": "Berufsschule"
           },
           {
             "code": "b2.bs2b",
-            "description": "Sie identifizieren Schnittstellen, Abh\u00e4ngigkeiten und Verbesserungsm\u00f6glichkeiten in einem betrieblichen Prozess. (K4)",
+            "description": "Sie identifizieren Schnittstellen, Abh\u00e4ngigkeiten und Verbesserungsm\u00f6glichkeiten in einem betrieblichen Prozess.",
             "where": "Berufsschule"
           },
           {
             "code": "b2.bs2c",
-            "description": "Sie leiten aus Bed\u00fcrfnissen von Anspruchsgruppen im kaufm\u00e4nnischen Bereich zweckm\u00e4ssige Aufgaben ab. (K4)",
+            "description": "Sie leiten aus Bed\u00fcrfnissen von Anspruchsgruppen im kaufm\u00e4nnischen Bereich zweckm\u00e4ssige Aufgaben ab.",
             "where": "Berufsschule"
           },
           {
             "code": "b2.bt3",
-            "description": "Sie koordinieren an den Schnittstellen zwischen allen Beteiligten mit kaufm\u00e4nnischen Hilfsmitteln. (K3)",
+            "description": "Sie koordinieren an den Schnittstellen zwischen allen Beteiligten mit kaufm\u00e4nnischen Hilfsmitteln.",
             "where": "Betrieb"
           },
           {
             "code": "b2.bt4",
-            "description": "Sie kommunizieren und dokumentieren als Bindeglied anspruchsvolle technische und fachliche Inhalte gegen\u00fcber internen und externen Schnittstellenbeteiligten adressatengerecht. (K3)",
+            "description": "Sie kommunizieren und dokumentieren als Bindeglied anspruchsvolle technische und fachliche Inhalte gegen\u00fcber internen und externen Schnittstellenbeteiligten adressatengerecht.",
             "where": "Betrieb"
           },
           {
             "code": "b2.bs4a",
-            "description": "Sie kommunizieren anspruchsvolle technische und fachliche Inhalte in Informationen f\u00fcr verschiedene Anspruchsgruppen zielgruppengerecht, auch in einer Fremdsprache (Niveau B1). (K3)",
+            "description": "Sie kommunizieren anspruchsvolle technische und fachliche Inhalte in Informationen f\u00fcr verschiedene Anspruchsgruppen zielgruppengerecht, auch in einer Fremdsprache (Niveau B1).",
             "where": "Berufsschule"
           },
           {
             "code": "b2.bt5",
-            "description": "Sie wenden im Gesch\u00e4ftsverkehr die betrieblichen und gesellschaftlichen Regeln, Usanzen und Vorgaben an. (K3)",
+            "description": "Sie wenden im Gesch\u00e4ftsverkehr die betrieblichen und gesellschaftlichen Regeln, Usanzen und Vorgaben an.",
             "where": "Betrieb"
           },
           {
             "code": "b2.bs5a",
-            "description": "Sie erl\u00e4utern die Rolle von normativen und strategischen Zielen f\u00fcr eine Unternehmung. (K2)",
+            "description": "Sie erl\u00e4utern die Rolle von normativen und strategischen Zielen f\u00fcr eine Unternehmung.",
             "where": "Berufsschule"
           },
           {
             "code": "b2.bt6",
-            "description": "Sie reflektieren ihre Schnittstellenkoordination und schlagen den zust\u00e4ndigen Stellen Optimierungsmassnahmen vor. (K4)",
+            "description": "Sie reflektieren ihre Schnittstellenkoordination und schlagen den zust\u00e4ndigen Stellen Optimierungsmassnahmen vor.",
             "where": "Betrieb"
           },
           {
             "code": "b2.bt7",
-            "description": "Sie arbeiten mit den Fachverantwortlichen konstruktiv zusammen. (K3)",
+            "description": "Sie arbeiten mit den Fachverantwortlichen konstruktiv zusammen.",
             "where": "Betrieb"
           }
         ]
@@ -425,47 +425,47 @@
         "competencies": [
           {
             "code": "b3.bt1",
-            "description": "Sie bringen sich in wirtschaftlichen Fachdiskussionen mit Arbeitskolleg/innen zu Themen der Ethik, Moral, Technologie, \u00d6kologie, Nachhaltigkeit sowie des Rechts differenziert ein. (K3)",
+            "description": "Sie bringen sich in wirtschaftlichen Fachdiskussionen mit Arbeitskolleg/innen zu Themen der Ethik, Moral, Technologie, \u00d6kologie, Nachhaltigkeit sowie des Rechts differenziert ein.",
             "where": "Betrieb"
           },
           {
             "code": "b3.bs1a",
-            "description": "Sie beschreiben grundlegende gesamtwirtschaftliche Zusammenh\u00e4nge und Entwicklungen (volkswirtschaftliche Zusammenh\u00e4nge, marktwirtschaftliche Prinzipien, konjunkturelle Entwicklung, Wirtschafts-, Geld- und Finanzpolitik, Sozial- und Arbeitsmarktpolitik). (K2)",
+            "description": "Sie beschreiben grundlegende gesamtwirtschaftliche Zusammenh\u00e4nge und Entwicklungen (volkswirtschaftliche Zusammenh\u00e4nge, marktwirtschaftliche Prinzipien, konjunkturelle Entwicklung, Wirtschafts-, Geld- und Finanzpolitik, Sozial- und Arbeitsmarktpolitik).",
             "where": "Berufsschule"
           },
           {
             "code": "b3.bs1b",
-            "description": "Sie identifizieren in aktuellen wirtschaftlichen Fachthemen Aspekte und Themen der Ethik, Moral, Technologie, \u00d6kologie, Nachhaltigkeit sowie des Rechts und bringen diese in wirtschaftliche Fachdiskussionen ein. (K3)",
+            "description": "Sie identifizieren in aktuellen wirtschaftlichen Fachthemen Aspekte und Themen der Ethik, Moral, Technologie, \u00d6kologie, Nachhaltigkeit sowie des Rechts und bringen diese in wirtschaftliche Fachdiskussionen ein.",
             "where": "Berufsschule"
           },
           {
             "code": "b3.bt2",
-            "description": "Sie recherchieren Wissensl\u00fccken aus Fachdiskussionen in unterschiedlichen Informationsquellen. (K3)",
+            "description": "Sie recherchieren Wissensl\u00fccken aus Fachdiskussionen in unterschiedlichen Informationsquellen.",
             "where": "Betrieb"
           },
           {
             "code": "b3.bt3",
-            "description": "Sie \u00fcberpr\u00fcfen die Qualit\u00e4t und die Seriosit\u00e4t ihrer Rechercheergebnisse kritisch. (K4)",
+            "description": "Sie \u00fcberpr\u00fcfen die Qualit\u00e4t und die Seriosit\u00e4t ihrer Rechercheergebnisse kritisch.",
             "where": "Betrieb"
           },
           {
             "code": "b3.bs2a",
-            "description": "Sie recherchieren Informationen zu aktuellen und grundlegenden wirtschaftlichen Fachthemen kritisch. (K3)",
+            "description": "Sie recherchieren Informationen zu aktuellen und grundlegenden wirtschaftlichen Fachthemen kritisch.",
             "where": "Berufsschule"
           },
           {
             "code": "b3.bt4",
-            "description": "Sie leiten aus aktuellen globalen wirtschaftlichen Entwicklungen f\u00fcr ihren Betrieb und dessen Wirtschaftszweig Schlussfolgerungen ab. (K5)",
+            "description": "Sie leiten aus aktuellen globalen wirtschaftlichen Entwicklungen f\u00fcr ihren Betrieb und dessen Wirtschaftszweig Schlussfolgerungen ab.",
             "where": "Betrieb"
           },
           {
             "code": "b3.bs4a",
-            "description": "Sie beurteilen die Auswirkungen wirtschaftlicher und wirtschaftspolitischer Entwicklungen auf ein Unternehmen. (K4)",
+            "description": "Sie beurteilen die Auswirkungen wirtschaftlicher und wirtschaftspolitischer Entwicklungen auf ein Unternehmen.",
             "where": "Berufsschule"
           },
           {
             "code": "b3.bt5",
-            "description": "Sie argumentieren in Fachdiskussionen die spezifische Interessenslage des Betriebs gegen\u00fcber verschiedenen Anspruchsgruppen sachlich und \u00fcberzeugend. (K4)",
+            "description": "Sie argumentieren in Fachdiskussionen die spezifische Interessenslage des Betriebs gegen\u00fcber verschiedenen Anspruchsgruppen sachlich und \u00fcberzeugend.",
             "where": "Betrieb"
           }
         ]
@@ -477,52 +477,52 @@
         "competencies": [
           {
             "code": "b4.bt1",
-            "description": "Sie bearbeiten kleinere Arbeitspakete und Teilprojekte. (K3)",
+            "description": "Sie bearbeiten kleinere Arbeitspakete und Teilprojekte.",
             "where": "Betrieb"
           },
           {
             "code": "b4.bs1a",
-            "description": "Sie erl\u00e4utern die Grundlagen zur Planung, Organisation, Durchf\u00fchrung und Kontrolle von Projekten. (K2)",
+            "description": "Sie erl\u00e4utern die Grundlagen zur Planung, Organisation, Durchf\u00fchrung und Kontrolle von Projekten.",
             "where": "Berufsschule"
           },
           {
             "code": "b4.bt2",
-            "description": "Sie erstellen und bewirtschaften Arbeitsumgebungen f\u00fcr Teilprojekte. (K3)",
+            "description": "Sie erstellen und bewirtschaften Arbeitsumgebungen f\u00fcr Teilprojekte.",
             "where": "Betrieb"
           },
           {
             "code": "b4.bs2a",
-            "description": "Sie definieren eine f\u00fcr Projekte zweckm\u00e4ssige digitale Arbeitsumgebung und Dokumentationsstruktur. (K3)",
+            "description": "Sie definieren eine f\u00fcr Projekte zweckm\u00e4ssige digitale Arbeitsumgebung und Dokumentationsstruktur.",
             "where": "Berufsschule"
           },
           {
             "code": "b4.bt3",
-            "description": "Sie erstellen f\u00fcr kleinere Projekte oder Teilprojekte einen Entwurf f\u00fcr Terminpl\u00e4ne. (K3)",
+            "description": "Sie erstellen f\u00fcr kleinere Projekte oder Teilprojekte einen Entwurf f\u00fcr Terminpl\u00e4ne.",
             "where": "Betrieb"
           },
           {
             "code": "b4.bs3a",
-            "description": "Sie erstellen f\u00fcr einfache Projekte oder Teilprojekte Terminpl\u00e4ne. (K3)",
+            "description": "Sie erstellen f\u00fcr einfache Projekte oder Teilprojekte Terminpl\u00e4ne.",
             "where": "Berufsschule"
           },
           {
             "code": "b4.bt4",
-            "description": "Sie kontrollieren den Projektverlauf anhand der projektspezifischen Vorgaben und informieren bei Abweichungen die Projektleitung und die im Projekt involvierten Personen. (K3)",
+            "description": "Sie kontrollieren den Projektverlauf anhand der projektspezifischen Vorgaben und informieren bei Abweichungen die Projektleitung und die im Projekt involvierten Personen.",
             "where": "Betrieb"
           },
           {
             "code": "b4.bs4a",
-            "description": "Sie definieren f\u00fcr einfache Projekte Instrumente f\u00fcr die \u00dcberwachung des Projektverlaufs. (K3)",
+            "description": "Sie definieren f\u00fcr einfache Projekte Instrumente f\u00fcr die \u00dcberwachung des Projektverlaufs.",
             "where": "Berufsschule"
           },
           {
             "code": "b4.bs4b",
-            "description": "Sie kontrollieren den Projektverlauf anhand der projektspezifischen Vorgaben. (K3)",
+            "description": "Sie kontrollieren den Projektverlauf anhand der projektspezifischen Vorgaben.",
             "where": "Berufsschule"
           },
           {
             "code": "b4.bs4c",
-            "description": "Sie erstellen Protokolle und weitere projektbezogene Dokumente. (K3)",
+            "description": "Sie erstellen Protokolle und weitere projektbezogene Dokumente.",
             "where": "Berufsschule"
           }
         ]
@@ -534,47 +534,47 @@
         "competencies": [
           {
             "code": "b5.bt1",
-            "description": "Sie informieren sich \u00fcber betriebliche Neuerungen und Ver\u00e4nderungen und deren Bedeutung f\u00fcr ihren T\u00e4tigkeitsbereich. (K3)",
+            "description": "Sie informieren sich \u00fcber betriebliche Neuerungen und Ver\u00e4nderungen und deren Bedeutung f\u00fcr ihren T\u00e4tigkeitsbereich.",
             "where": "Betrieb"
           },
           {
             "code": "b5.bs1a",
-            "description": "Sie erl\u00e4utern grundlegende Ursachen, Merkmale und Auswirkungen von unternehmensbezogenen Ver\u00e4nderungsprozessen. (K2)",
+            "description": "Sie erl\u00e4utern grundlegende Ursachen, Merkmale und Auswirkungen von unternehmensbezogenen Ver\u00e4nderungsprozessen.",
             "where": "Berufsschule"
           },
           {
             "code": "b5.bt2",
-            "description": "Sie analysieren die Auswirkungen der betrieblichen Ver\u00e4nderungen auf ihren Arbeitsbereich und schlagen Umsetzungsmassnahmen vor. (K4)",
+            "description": "Sie analysieren die Auswirkungen der betrieblichen Ver\u00e4nderungen auf ihren Arbeitsbereich und schlagen Umsetzungsmassnahmen vor.",
             "where": "Betrieb"
           },
           {
             "code": "b5.bs2a",
-            "description": "Sie recherchieren aktuelle Entwicklungen im wirtschaftlichen und gesellschaftlichen Bereich und reflektieren Auswirkungen auf Betrieb und Arbeitsbereich. (K4)",
+            "description": "Sie recherchieren aktuelle Entwicklungen im wirtschaftlichen und gesellschaftlichen Bereich und reflektieren Auswirkungen auf Betrieb und Arbeitsbereich.",
             "where": "Berufsschule"
           },
           {
             "code": "b5.bs2b",
-            "description": "Sie erl\u00e4utern organisatorische Ver\u00e4nderungsm\u00f6glichkeiten im betrieblichen Bereich kritisch. (K2)",
+            "description": "Sie erl\u00e4utern organisatorische Ver\u00e4nderungsm\u00f6glichkeiten im betrieblichen Bereich kritisch.",
             "where": "Berufsschule"
           },
           {
             "code": "b5.bs2c",
-            "description": "Sie leiten von unternehmens- und betriebsbezogenen Ver\u00e4nderungsprozessen Auswirkungen auf kaufm\u00e4nnische T\u00e4tigkeiten ab. (K4)",
+            "description": "Sie leiten von unternehmens- und betriebsbezogenen Ver\u00e4nderungsprozessen Auswirkungen auf kaufm\u00e4nnische T\u00e4tigkeiten ab.",
             "where": "Berufsschule"
           },
           {
             "code": "b5.bt3",
-            "description": "Sie setzen neue betriebliche Massnahmen, Aufgaben, Verfahren oder Arbeitsweisen entsprechend den Vorgaben der vorgesetzten Stellen um. (K3)",
+            "description": "Sie setzen neue betriebliche Massnahmen, Aufgaben, Verfahren oder Arbeitsweisen entsprechend den Vorgaben der vorgesetzten Stellen um.",
             "where": "Betrieb"
           },
           {
             "code": "b5.bt4",
-            "description": "Sie fragen bei Unsicherheiten bez\u00fcglich betrieblichen Ver\u00e4nderungen bei der vorgesetzten Person nach. (K3)",
+            "description": "Sie fragen bei Unsicherheiten bez\u00fcglich betrieblichen Ver\u00e4nderungen bei der vorgesetzten Person nach.",
             "where": "Betrieb"
           },
           {
             "code": "b5.bs4a",
-            "description": "Sie reflektieren charakteristische Vorgehensweisen im pers\u00f6nlichen Umgang mit Ver\u00e4nderungen in einem Betrieb. (K4)",
+            "description": "Sie reflektieren charakteristische Vorgehensweisen im pers\u00f6nlichen Umgang mit Ver\u00e4nderungen in einem Betrieb.",
             "where": "Berufsschule"
           }
         ]
@@ -592,87 +592,87 @@
         "competencies": [
           {
             "code": "c1.bt1a",
-            "description": "Sie planen und koordinieren Aufgaben und Ressourcen in ihrem Arbeitsbereich. (K3)",
+            "description": "Sie planen und koordinieren Aufgaben und Ressourcen in ihrem Arbeitsbereich.",
             "where": "Betrieb"
           },
           {
             "code": "c1.bt2",
-            "description": "Sie setzen f\u00fcr Planungsarbeiten geeignete Hilfsmittel ein. (K3)",
+            "description": "Sie setzen f\u00fcr Planungsarbeiten geeignete Hilfsmittel ein.",
             "where": "Betrieb"
           },
           {
             "code": "c1.bt3",
-            "description": "Sie setzen ihre pers\u00f6nlichen und betrieblichen Ressourcen effizient ein. (K3)",
+            "description": "Sie setzen ihre pers\u00f6nlichen und betrieblichen Ressourcen effizient ein.",
             "where": "Betrieb"
           },
           {
             "code": "c1.bs1a",
-            "description": "Sie stellen die Grundlagen der Arbeitsorganisation dar. (K2)",
+            "description": "Sie stellen die Grundlagen der Arbeitsorganisation dar.",
             "where": "Berufsschule"
           },
           {
             "code": "c1.bs1b",
-            "description": "Sie wenden g\u00e4ngige Arbeitstechniken und digitale Hilfsmittel zur Planung, Priorisierung und Bearbeitung von Aufgaben und Terminen an. (K3)",
+            "description": "Sie wenden g\u00e4ngige Arbeitstechniken und digitale Hilfsmittel zur Planung, Priorisierung und Bearbeitung von Aufgaben und Terminen an.",
             "where": "Berufsschule"
           },
           {
             "code": "c1.bs1c",
-            "description": "Sie entwickeln f\u00fcr Auftr\u00e4ge im kaufm\u00e4nnischen Bereich systematisch Terminpl\u00e4ne und Ressourceneinsatzpl\u00e4ne. (K3)",
+            "description": "Sie entwickeln f\u00fcr Auftr\u00e4ge im kaufm\u00e4nnischen Bereich systematisch Terminpl\u00e4ne und Ressourceneinsatzpl\u00e4ne.",
             "where": "Berufsschule"
           },
           {
             "code": "c1.bs1d",
-            "description": "Sie begr\u00fcnden ihre Priorit\u00e4tensetzung betreffend Terminpl\u00e4ne und Ressourceneinsatz. (K3)",
+            "description": "Sie begr\u00fcnden ihre Priorit\u00e4tensetzung betreffend Terminpl\u00e4ne und Ressourceneinsatz.",
             "where": "Berufsschule"
           },
           {
             "code": "c1.bs1e",
-            "description": "Sie erstellen zweckm\u00e4ssige Aufbauorganisationen mit g\u00e4ngigen Anwendungsprogrammen. (K3)",
+            "description": "Sie erstellen zweckm\u00e4ssige Aufbauorganisationen mit g\u00e4ngigen Anwendungsprogrammen.",
             "where": "Berufsschule"
           },
           {
             "code": "c1.bt4",
-            "description": "Sie recherchieren im Rahmen der Planungs- und Koordinationsarbeiten Informationen. (K3)",
+            "description": "Sie recherchieren im Rahmen der Planungs- und Koordinationsarbeiten Informationen.",
             "where": "Betrieb"
           },
           {
             "code": "c1.bt5",
-            "description": "Sie arbeiten bei der Organisation von internen und externen Anl\u00e4ssen entsprechend ihrer Rolle und ihrem Aufgabenbereich mit. (K3)",
+            "description": "Sie arbeiten bei der Organisation von internen und externen Anl\u00e4ssen entsprechend ihrer Rolle und ihrem Aufgabenbereich mit.",
             "where": "Betrieb"
           },
           {
             "code": "c1.bs4a",
-            "description": "Sie planen einen kleinen Anlass. (K3)",
+            "description": "Sie planen einen kleinen Anlass.",
             "where": "Berufsschule"
           },
           {
             "code": "c1.bt6",
-            "description": "Sie setzen geeignete Massnahmen um, um bei der Organisation von Veranstaltungen die Umweltbelastung gering zu halten. (K3)",
+            "description": "Sie setzen geeignete Massnahmen um, um bei der Organisation von Veranstaltungen die Umweltbelastung gering zu halten.",
             "where": "Betrieb"
           },
           {
             "code": "c1.bs5a",
-            "description": "Sie analysieren die Umweltbelastung einer Veranstaltung und leiten geeignete Massnahmen zur Reduktion der Belastung ab. (K4)",
+            "description": "Sie analysieren die Umweltbelastung einer Veranstaltung und leiten geeignete Massnahmen zur Reduktion der Belastung ab.",
             "where": "Berufsschule"
           },
           {
             "code": "c1.bt7",
-            "description": "Sie analysieren ihre Organisationsf\u00e4higkeiten, ihr Zeitmanagement und ihre Arbeitstechniken und leiten in Absprache mit den zust\u00e4ndigen Stellen geeignete Massnahmen ab. (K4)",
+            "description": "Sie analysieren ihre Organisationsf\u00e4higkeiten, ihr Zeitmanagement und ihre Arbeitstechniken und leiten in Absprache mit den zust\u00e4ndigen Stellen geeignete Massnahmen ab.",
             "where": "Betrieb"
           },
           {
             "code": "c1.bt8",
-            "description": "Sie reflektieren den Einsatz der pers\u00f6nlichen und betrieblichen Ressourcen. (K4)",
+            "description": "Sie reflektieren den Einsatz der pers\u00f6nlichen und betrieblichen Ressourcen.",
             "where": "Betrieb"
           },
           {
             "code": "c1.bs7a",
-            "description": "Sie ermitteln und definieren M\u00f6glichkeiten, Zeit und Ressourcen bei ihrer Organisation und Planung einzusparen. (K3)",
+            "description": "Sie ermitteln und definieren M\u00f6glichkeiten, Zeit und Ressourcen bei ihrer Organisation und Planung einzusparen.",
             "where": "Berufsschule"
           },
           {
             "code": "c1.bs7b",
-            "description": "Sie \u00fcberpr\u00fcfen ihr Zeitmanagement sowie ihre Planungs- und Arbeitstechniken und leiten geeignete Massnahmen ab. (K4)",
+            "description": "Sie \u00fcberpr\u00fcfen ihr Zeitmanagement sowie ihre Planungs- und Arbeitstechniken und leiten geeignete Massnahmen ab.",
             "where": "Berufsschule"
           }
         ]
@@ -684,72 +684,72 @@
         "competencies": [
           {
             "code": "c2.bt1",
-            "description": "Sie erstellen Dokumente wie \u00dcberblicksdarstellungen, Listen, Tabellen, Protokolle und Notizen in Absprache mit der vorgesetzten Stelle. (K3)",
+            "description": "Sie erstellen Dokumente wie \u00dcberblicksdarstellungen, Listen, Tabellen, Protokolle und Notizen in Absprache mit der vorgesetzten Stelle.",
             "where": "Betrieb"
           },
           {
             "code": "c2.bs1a",
-            "description": "Sie beschreiben die grundlegenden Merkmale von betrieblichen Identit\u00e4tskonzepten (Corporate Identity und Corporate Design) anschaulich. (K2)",
+            "description": "Sie beschreiben die grundlegenden Merkmale von betrieblichen Identit\u00e4tskonzepten (Corporate Identity und Corporate Design) anschaulich.",
             "where": "Berufsschule"
           },
           {
             "code": "c2.bt2",
-            "description": "Sie f\u00fchren Terminkalender. (K3)",
+            "description": "Sie f\u00fchren Terminkalender.",
             "where": "Betrieb"
           },
           {
             "code": "c2.bt3",
-            "description": "Sie organisieren die physische und digitale Ablage. (K3)",
+            "description": "Sie organisieren die physische und digitale Ablage.",
             "where": "Betrieb"
           },
           {
             "code": "c2.bs3a",
-            "description": "Sie entwerfen physische und digitale Ablagestrukturen. (K3)",
+            "description": "Sie entwerfen physische und digitale Ablagestrukturen.",
             "where": "Berufsschule"
           },
           {
             "code": "c2.bt4",
-            "description": "Sie setzen in kaufm\u00e4nnischen Unterst\u00fctzungsprozessen betriebliche Dokumentationssysteme und -programme ein. (K3)",
+            "description": "Sie setzen in kaufm\u00e4nnischen Unterst\u00fctzungsprozessen betriebliche Dokumentationssysteme und -programme ein.",
             "where": "Betrieb"
           },
           {
             "code": "c2.bs4a",
-            "description": "Sie erstellen Text-, Tabellen- und Pr\u00e4sentationsdokumente zielgruppengerecht. (K3)",
+            "description": "Sie erstellen Text-, Tabellen- und Pr\u00e4sentationsdokumente zielgruppengerecht.",
             "where": "Berufsschule"
           },
           {
             "code": "c2.bt5",
-            "description": "Sie beantworten Anfragen zu den administrativen oder personalbezogenen Dokumenten zeitnah und nach den rechtlichen Vorgaben. (K3)",
+            "description": "Sie beantworten Anfragen zu den administrativen oder personalbezogenen Dokumenten zeitnah und nach den rechtlichen Vorgaben.",
             "where": "Betrieb"
           },
           {
             "code": "c2.bs5a",
-            "description": "Sie erkl\u00e4ren die Elemente des Lehrvertrags sowie die Rechte und die Pflichten der Vertragsparteien. (K2)",
+            "description": "Sie erkl\u00e4ren die Elemente des Lehrvertrags sowie die Rechte und die Pflichten der Vertragsparteien.",
             "where": "Berufsschule"
           },
           {
             "code": "c2.bs5b",
-            "description": "Sie erl\u00e4utern die zentralen Elemente von anderen g\u00e4ngigen Vertr\u00e4gen (Einzelarbeitsvertrag, Fahrniskauf, Einfacher Auftrag, Mietvertrag, Darlehensvertrag, Einfache Gesellschaft, Werkvertrag und Leasing) und weiteren rechtlichen Grundlagen. (K2)",
+            "description": "Sie erl\u00e4utern die zentralen Elemente von anderen g\u00e4ngigen Vertr\u00e4gen (Einzelarbeitsvertrag, Fahrniskauf, Einfacher Auftrag, Mietvertrag, Darlehensvertrag, Einfache Gesellschaft, Werkvertrag und Leasing) und weiteren rechtlichen Grundlagen.",
             "where": "Berufsschule"
           },
           {
             "code": "c2.bs5c",
-            "description": "Sie erl\u00e4utern den Aufbau und die Sprache von personalbezogenen Dokumenten. (K2)",
+            "description": "Sie erl\u00e4utern den Aufbau und die Sprache von personalbezogenen Dokumenten.",
             "where": "Berufsschule"
           },
           {
             "code": "c2.bs5d",
-            "description": "Sie definieren f\u00fcr g\u00e4ngige administrative und personalbezogene Dokumente die wesentlichen Inhalte. (K3)",
+            "description": "Sie definieren f\u00fcr g\u00e4ngige administrative und personalbezogene Dokumente die wesentlichen Inhalte.",
             "where": "Berufsschule"
           },
           {
             "code": "c2.bs5e",
-            "description": "Sie \u00fcberpr\u00fcfen die sachliche und die sprachlichformale Richtigkeit von Dokumenten. (K3)",
+            "description": "Sie \u00fcberpr\u00fcfen die sachliche und die sprachlichformale Richtigkeit von Dokumenten.",
             "where": "Berufsschule"
           },
           {
             "code": "c2.bt6",
-            "description": "Sie reflektieren ihre Unterst\u00fctzungst\u00e4tigkeiten und schlagen geeignete Massnahmen vor. (K4)",
+            "description": "Sie reflektieren ihre Unterst\u00fctzungst\u00e4tigkeiten und schlagen geeignete Massnahmen vor.",
             "where": "Betrieb"
           }
         ]
@@ -761,72 +761,72 @@
         "competencies": [
           {
             "code": "c3.bt1",
-            "description": "Sie dokumentieren Arbeitsprozesse mit geeigneten Hilfsmitteln. (K3)",
+            "description": "Sie dokumentieren Arbeitsprozesse mit geeigneten Hilfsmitteln.",
             "where": "Betrieb"
           },
           {
             "code": "c3.bs1a",
-            "description": "Sie beschreiben die typischen Leistungserstellungsprozesse eines Unternehmens. (K2)",
+            "description": "Sie beschreiben die typischen Leistungserstellungsprozesse eines Unternehmens.",
             "where": "Berufsschule"
           },
           {
             "code": "c3.bs1b",
-            "description": "Sie zeigen die grundlegenden Elemente und Schnittstellen eines betrieblichen Prozesses auf. (K2)",
+            "description": "Sie zeigen die grundlegenden Elemente und Schnittstellen eines betrieblichen Prozesses auf.",
             "where": "Berufsschule"
           },
           {
             "code": "c3.bs1c",
-            "description": "Sie erl\u00e4utern die Grundlagen des Prozessmanagements. (K2)",
+            "description": "Sie erl\u00e4utern die Grundlagen des Prozessmanagements.",
             "where": "Berufsschule"
           },
           {
             "code": "c3.bs1d",
-            "description": "Sie erstellen mit g\u00e4ngigen Anwendungsprogrammen Prozessbeschreibungen in grafischer und in Textform. (K3)",
+            "description": "Sie erstellen mit g\u00e4ngigen Anwendungsprogrammen Prozessbeschreibungen in grafischer und in Textform.",
             "where": "Berufsschule"
           },
           {
             "code": "c3.bt2",
-            "description": "Sie setzen die in ihren Zust\u00e4ndigkeitsbereich fallenden Prozessaufgaben mit den vorgegebenen Hilfsmitteln um. (K3)",
+            "description": "Sie setzen die in ihren Zust\u00e4ndigkeitsbereich fallenden Prozessaufgaben mit den vorgegebenen Hilfsmitteln um.",
             "where": "Betrieb"
           },
           {
             "code": "c3.bt3",
-            "description": "Sie erstellen und \u00fcberwachen Terminpl\u00e4ne f\u00fcr betriebliche Prozesse mit den vorgegebenen Hilfsmitteln. (K3)",
+            "description": "Sie erstellen und \u00fcberwachen Terminpl\u00e4ne f\u00fcr betriebliche Prozesse mit den vorgegebenen Hilfsmitteln.",
             "where": "Betrieb"
           },
           {
             "code": "c3.bs3a",
-            "description": "Sie erstellen Terminpl\u00e4ne f\u00fcr Arbeitsprozesse. (K3)",
+            "description": "Sie erstellen Terminpl\u00e4ne f\u00fcr Arbeitsprozesse.",
             "where": "Berufsschule"
           },
           {
             "code": "c3.bt4",
-            "description": "Sie f\u00fchren Arbeitskolleg/innen in die betrieblichen Prozesse ein. (K3)",
+            "description": "Sie f\u00fchren Arbeitskolleg/innen in die betrieblichen Prozesse ein.",
             "where": "Betrieb"
           },
           {
             "code": "c3.bs4a",
-            "description": "Sie geben Informationen und Instruktionen zu Arbeitsprozessen adressatengerecht weiter. (K3)",
+            "description": "Sie geben Informationen und Instruktionen zu Arbeitsprozessen adressatengerecht weiter.",
             "where": "Berufsschule"
           },
           {
             "code": "c3.bt5",
-            "description": "Sie setzen die Vorgaben hinsichtlich Arbeitssicherheit, Gesundheitsschutz und Nachhaltigkeit um. (K3)",
+            "description": "Sie setzen die Vorgaben hinsichtlich Arbeitssicherheit, Gesundheitsschutz und Nachhaltigkeit um.",
             "where": "Betrieb"
           },
           {
             "code": "c3.bs5a",
-            "description": "Sie zeigen die Bedeutung von Arbeitssicherheit, Gesundheitsschutz sowie Nachhaltigkeit in betrieblichen Prozessen stufengerecht auf. (K2)",
+            "description": "Sie zeigen die Bedeutung von Arbeitssicherheit, Gesundheitsschutz sowie Nachhaltigkeit in betrieblichen Prozessen stufengerecht auf.",
             "where": "Berufsschule"
           },
           {
             "code": "c3.bt6",
-            "description": "Sie identifizieren Probleme in den Prozessabl\u00e4ufen und schlagen geeignete Optimierungsmassnahmen vor. (K4)",
+            "description": "Sie identifizieren Probleme in den Prozessabl\u00e4ufen und schlagen geeignete Optimierungsmassnahmen vor.",
             "where": "Betrieb"
           },
           {
             "code": "c3.bs6a",
-            "description": "Sie analysieren Prozessabl\u00e4ufe, identifizieren Probleme und erarbeiten Optimierungsmassnahmen. (K4)",
+            "description": "Sie analysieren Prozessabl\u00e4ufe, identifizieren Probleme und erarbeiten Optimierungsmassnahmen.",
             "where": "Berufsschule"
           }
         ]
@@ -838,82 +838,82 @@
         "competencies": [
           {
             "code": "c4.bt1",
-            "description": "Sie kommunizieren mit allen betriebsinternen und externen Anspruchsgruppen \u00fcber alle Kan\u00e4le gem\u00e4ss den betrieblichen Informations- und Kommunikationsvorgaben. (K3)",
+            "description": "Sie kommunizieren mit allen betriebsinternen und externen Anspruchsgruppen \u00fcber alle Kan\u00e4le gem\u00e4ss den betrieblichen Informations- und Kommunikationsvorgaben.",
             "where": "Betrieb"
           },
           {
             "code": "c4.bs1a",
-            "description": "Sie beschreiben die grundlegenden Merkmale von betrieblichen Informations- und Kommunikationskonzepten. (K2)",
+            "description": "Sie beschreiben die grundlegenden Merkmale von betrieblichen Informations- und Kommunikationskonzepten.",
             "where": "Berufsschule"
           },
           {
             "code": "c4.bs1b",
-            "description": "Sie stellen die Wesensmerkmale der g\u00e4ngigen Kommunikationskan\u00e4le dar. (K2)",
+            "description": "Sie stellen die Wesensmerkmale der g\u00e4ngigen Kommunikationskan\u00e4le dar.",
             "where": "Berufsschule"
           },
           {
             "code": "c4.bs1c",
-            "description": "Sie planen passende Vorgehensweisen und Kommunikationsformen in der m\u00fcndlichen, schriftlichen und digitalen Kommunikation mit betriebsinternen und externen Anspruchsgruppen. (K3)",
+            "description": "Sie planen passende Vorgehensweisen und Kommunikationsformen in der m\u00fcndlichen, schriftlichen und digitalen Kommunikation mit betriebsinternen und externen Anspruchsgruppen.",
             "where": "Berufsschule"
           },
           {
             "code": "c4.bs1d",
-            "description": "Sie kommunizieren adressatengerecht auf unterschiedlichen Kan\u00e4len (digital und analog). (K3)",
+            "description": "Sie kommunizieren adressatengerecht auf unterschiedlichen Kan\u00e4len (digital und analog).",
             "where": "Berufsschule"
           },
           {
             "code": "c4.bt2",
-            "description": "Sie kommunizieren mit allen betriebsinternen und externen Anspruchsgruppen m\u00fcndlich und schriftlich in der regionalen Landessprache oder in einer Fremdsprache. (K3)",
+            "description": "Sie kommunizieren mit allen betriebsinternen und externen Anspruchsgruppen m\u00fcndlich und schriftlich in der regionalen Landessprache oder in einer Fremdsprache.",
             "where": "Betrieb"
           },
           {
             "code": "c4.bs2a",
-            "description": "Sie legen Anliegen adressatengerecht in geeigneter Form schriftlich und m\u00fcndlich dar. (K3)",
+            "description": "Sie legen Anliegen adressatengerecht in geeigneter Form schriftlich und m\u00fcndlich dar.",
             "where": "Berufsschule"
           },
           {
             "code": "c4.bs2b",
-            "description": "Sie kommunizieren m\u00fcndlich und schriftlich in der regionalen Landessprache sowie in einer Fremdsprache mit betriebsinternen und externen Anspruchsgruppen (Niveau B1). (K3)",
+            "description": "Sie kommunizieren m\u00fcndlich und schriftlich in der regionalen Landessprache sowie in einer Fremdsprache mit betriebsinternen und externen Anspruchsgruppen (Niveau B1).",
             "where": "Berufsschule"
           },
           {
             "code": "c4.bt3",
-            "description": "Sie hinterfragen ihr pers\u00f6nliches Kommunikationsverhalten gegen\u00fcber betriebsinternen und externen Anspruchsgruppen und leiten geeignete Verbesserungsmassnahmen ab. (K4)",
+            "description": "Sie hinterfragen ihr pers\u00f6nliches Kommunikationsverhalten gegen\u00fcber betriebsinternen und externen Anspruchsgruppen und leiten geeignete Verbesserungsmassnahmen ab.",
             "where": "Betrieb"
           },
           {
             "code": "c4.bs3a",
-            "description": "Sie analysieren ihre zielgruppengerechte Kommunikation und leiten Verbesserungsmassnahmen ab. (K4)",
+            "description": "Sie analysieren ihre zielgruppengerechte Kommunikation und leiten Verbesserungsmassnahmen ab.",
             "where": "Berufsschule"
           },
           {
             "code": "c4.bt4",
-            "description": "Sie informieren sich \u00fcber Entwicklungen im Kommunikationsbereich und erarbeiten passende Vorschl\u00e4ge f\u00fcr ihren Betrieb. (K4)",
+            "description": "Sie informieren sich \u00fcber Entwicklungen im Kommunikationsbereich und erarbeiten passende Vorschl\u00e4ge f\u00fcr ihren Betrieb.",
             "where": "Betrieb"
           },
           {
             "code": "c4.bs4a",
-            "description": "Sie recherchieren Entwicklungen im Kommunikationsbereich. (K3)",
+            "description": "Sie recherchieren Entwicklungen im Kommunikationsbereich.",
             "where": "Berufsschule"
           },
           {
             "code": "c4.bt5",
-            "description": "Sie testen den Einsatz neuer Kommunikationsmittel und -formen. (K3)",
+            "description": "Sie testen den Einsatz neuer Kommunikationsmittel und -formen.",
             "where": "Betrieb"
           },
           {
             "code": "c4.bt6",
-            "description": "Sie unterst\u00fctzen die Planung und die Koordination von Marketing- und Kommunikationsaktivit\u00e4ten \u00fcber verschiedene Kan\u00e4le in ihrem Arbeitsbereich zielgruppenorientiert. (K3)",
+            "description": "Sie unterst\u00fctzen die Planung und die Koordination von Marketing- und Kommunikationsaktivit\u00e4ten \u00fcber verschiedene Kan\u00e4le in ihrem Arbeitsbereich zielgruppenorientiert.",
             "where": "Betrieb"
           },
           {
             "code": "c4.bs6a",
-            "description": "Sie beschreiben die wichtigsten Merkmale von Marketingstrategien und -aktivit\u00e4ten. (K2)",
+            "description": "Sie beschreiben die wichtigsten Merkmale von Marketingstrategien und -aktivit\u00e4ten.",
             "where": "Berufsschule"
           },
           {
             "code": "c4.bs6b",
-            "description": "Sie erstellen g\u00e4ngige analoge und digitale Kommunikations- und Marketingdokumente. (K3)",
+            "description": "Sie erstellen g\u00e4ngige analoge und digitale Kommunikations- und Marketingdokumente.",
             "where": "Berufsschule"
           }
         ]
@@ -925,62 +925,62 @@
         "competencies": [
           {
             "code": "c5.bt1",
-            "description": "Sie erstellen f\u00fcr Anl\u00e4sse, Teilprojekte und weitere Auftr\u00e4ge Budgets sowie Abrechnungen \u00fcber effektive Kosten und Ertr\u00e4ge. (K3)",
+            "description": "Sie erstellen f\u00fcr Anl\u00e4sse, Teilprojekte und weitere Auftr\u00e4ge Budgets sowie Abrechnungen \u00fcber effektive Kosten und Ertr\u00e4ge.",
             "where": "Betrieb"
           },
           {
             "code": "c5.bt2",
-            "description": "Sie erkennen Abweichungen von Budget- und effektiven Kosten sowie Ertr\u00e4gen und schlagen den zust\u00e4ndigen Stellen rechtzeitig Massnahmen vor. (K4)",
+            "description": "Sie erkennen Abweichungen von Budget- und effektiven Kosten sowie Ertr\u00e4gen und schlagen den zust\u00e4ndigen Stellen rechtzeitig Massnahmen vor.",
             "where": "Betrieb"
           },
           {
             "code": "c5.bs1a",
-            "description": "Sie erl\u00e4utern die grundlegenden Funktionen des finanziellen und des betrieblichen Rechnungswesens. (K2)",
+            "description": "Sie erl\u00e4utern die grundlegenden Funktionen des finanziellen und des betrieblichen Rechnungswesens.",
             "where": "Berufsschule"
           },
           {
             "code": "c5.bs1b",
-            "description": "Sie zeigen den Aufbau einer Erfolgsrechnung und einer Bilanz auf. (K2)",
+            "description": "Sie zeigen den Aufbau einer Erfolgsrechnung und einer Bilanz auf.",
             "where": "Berufsschule"
           },
           {
             "code": "c5.bs1c",
-            "description": "Sie erl\u00e4utern Funktion und Ablauf von Zwischenund Jahresabschluss. (K2)",
+            "description": "Sie erl\u00e4utern Funktion und Ablauf von Zwischenund Jahresabschluss.",
             "where": "Berufsschule"
           },
           {
             "code": "c5.bs1d",
-            "description": "Sie erstellen Budgets, Abrechnungen, Aufstellungen und Kalkulationen \u00fcber Kosten und Erl\u00f6s und leiten Handlungsempfehlungen ab. (K4)",
+            "description": "Sie erstellen Budgets, Abrechnungen, Aufstellungen und Kalkulationen \u00fcber Kosten und Erl\u00f6s und leiten Handlungsempfehlungen ab.",
             "where": "Berufsschule"
           },
           {
             "code": "c5.bs1e",
-            "description": "Sie nutzen g\u00e4ngige digitale Hilfsmittel und Anwendungsprogramme zur Verarbeitung von Zahlen und Daten. (K3)",
+            "description": "Sie nutzen g\u00e4ngige digitale Hilfsmittel und Anwendungsprogramme zur Verarbeitung von Zahlen und Daten.",
             "where": "Berufsschule"
           },
           {
             "code": "c5.bt3",
-            "description": "Sie bearbeiten Rechnungen und leiten sie an die zust\u00e4ndigen Stellen weiter. (K3)",
+            "description": "Sie bearbeiten Rechnungen und leiten sie an die zust\u00e4ndigen Stellen weiter.",
             "where": "Betrieb"
           },
           {
             "code": "c5.bs3a",
-            "description": "Sie erstellen Rechnungsdokumente und Zahlungsauftr\u00e4ge. (K3)",
+            "description": "Sie erstellen Rechnungsdokumente und Zahlungsauftr\u00e4ge.",
             "where": "Berufsschule"
           },
           {
             "code": "c5.bt4",
-            "description": "Sie handeln gem\u00e4ss den finanziellen Rahmenbedingungen kostenbewusst. (K3)",
+            "description": "Sie handeln gem\u00e4ss den finanziellen Rahmenbedingungen kostenbewusst.",
             "where": "Betrieb"
           },
           {
             "code": "c5.bt5",
-            "description": "Sie pr\u00fcfen die finanziellen Vorg\u00e4nge in ihrem Arbeitsbereich auf Unklarheiten, Fehler, kritische Situationen sowie Plausibilit\u00e4t und korrigieren sie nach Absprache mit der vorgesetzten Stelle. (K4)",
+            "description": "Sie pr\u00fcfen die finanziellen Vorg\u00e4nge in ihrem Arbeitsbereich auf Unklarheiten, Fehler, kritische Situationen sowie Plausibilit\u00e4t und korrigieren sie nach Absprache mit der vorgesetzten Stelle.",
             "where": "Betrieb"
           },
           {
             "code": "c5.bs5a",
-            "description": "Sie \u00fcberpr\u00fcfen Zahlungsprozesse und leiten Optimierungsmassnahmen ab. (K4)",
+            "description": "Sie \u00fcberpr\u00fcfen Zahlungsprozesse und leiten Optimierungsmassnahmen ab.",
             "where": "Berufsschule"
           }
         ]
@@ -992,57 +992,57 @@
         "competencies": [
           {
             "code": "c6.bt1",
-            "description": "Sie f\u00fchren buchhalterische Aufgaben rechtskonform aus. (K3)",
+            "description": "Sie f\u00fchren buchhalterische Aufgaben rechtskonform aus.",
             "where": "Betrieb"
           },
           {
             "code": "c6.bs1a",
-            "description": "Sie erl\u00e4utern die grundlegenden Elemente und Zusammenh\u00e4nge des Finanz- und Rechnungswesen (Bilanz, Erfolgsrechnung, Liquidit\u00e4t, Hilfsb\u00fccher Deckungsbeitragsrechnung und Betriebsabrechnungsbogen) unter Ber\u00fccksichtigung der relevanten rechtlichen Vorgaben. (K2)",
+            "description": "Sie erl\u00e4utern die grundlegenden Elemente und Zusammenh\u00e4nge des Finanz- und Rechnungswesen (Bilanz, Erfolgsrechnung, Liquidit\u00e4t, Hilfsb\u00fccher Deckungsbeitragsrechnung und Betriebsabrechnungsbogen) unter Ber\u00fccksichtigung der relevanten rechtlichen Vorgaben.",
             "where": "Berufsschule"
           },
           {
             "code": "c6.bs1b",
-            "description": "Sie wenden die grundlegenden Elemente des Rechnungswesens (Erfolgsrechnung, Bilanz, Hilfsb\u00fccher, Deckungsbeitragsrechnung) an. (K3)",
+            "description": "Sie wenden die grundlegenden Elemente des Rechnungswesens (Erfolgsrechnung, Bilanz, Hilfsb\u00fccher, Deckungsbeitragsrechnung) an.",
             "where": "Berufsschule"
           },
           {
             "code": "c6.bs1c",
-            "description": "Sie verbuchen Gesch\u00e4ftsf\u00e4lle entsprechend den relevanten rechtlichen Vorgaben. (K3)",
+            "description": "Sie verbuchen Gesch\u00e4ftsf\u00e4lle entsprechend den relevanten rechtlichen Vorgaben.",
             "where": "Berufsschule"
           },
           {
             "code": "c6.bt2",
-            "description": "Sie geben zu den Lohndeklarationen Auskunft. (K3)",
+            "description": "Sie geben zu den Lohndeklarationen Auskunft.",
             "where": "Betrieb"
           },
           {
             "code": "c6.bs2a",
-            "description": "Sie beschreiben die zentralen Merkmale einer Lohnbuchhaltung inklusive der Sozialabgaben korrekt. (K2)",
+            "description": "Sie beschreiben die zentralen Merkmale einer Lohnbuchhaltung inklusive der Sozialabgaben korrekt.",
             "where": "Berufsschule"
           },
           {
             "code": "c6.bs2b",
-            "description": "Sie erkl\u00e4ren den Aufbau einer Lohnabrechnung und einer Lohndeklaration. (K2)",
+            "description": "Sie erkl\u00e4ren den Aufbau einer Lohnabrechnung und einer Lohndeklaration.",
             "where": "Berufsschule"
           },
           {
             "code": "c6.bt3",
-            "description": "Sie f\u00fchren Aufgaben und Auftr\u00e4ge bei der Erstellung des Jahresabschlusses aus. (K3)",
+            "description": "Sie f\u00fchren Aufgaben und Auftr\u00e4ge bei der Erstellung des Jahresabschlusses aus.",
             "where": "Betrieb"
           },
           {
             "code": "c6.bs3a",
-            "description": "Sie erl\u00e4utern die grundlegenden Prinzipien beim Jahresabschluss im finanziellen Rechnungswesen. (K2)",
+            "description": "Sie erl\u00e4utern die grundlegenden Prinzipien beim Jahresabschluss im finanziellen Rechnungswesen.",
             "where": "Berufsschule"
           },
           {
             "code": "c6.bt4",
-            "description": "Sie \u00fcberpr\u00fcfen die Ergebnisse ihrer buchhalterischen Aufgaben auf Plausibilit\u00e4t und leiten korrigierende Schritte ein. (K4)",
+            "description": "Sie \u00fcberpr\u00fcfen die Ergebnisse ihrer buchhalterischen Aufgaben auf Plausibilit\u00e4t und leiten korrigierende Schritte ein.",
             "where": "Betrieb"
           },
           {
             "code": "c6.bs4a",
-            "description": "Sie ermitteln Abweichungen der Budget- von den effektiven Zahlen und interpretieren diese. (K4)",
+            "description": "Sie ermitteln Abweichungen der Budget- von den effektiven Zahlen und interpretieren diese.",
             "where": "Berufsschule"
           }
         ]
@@ -1060,77 +1060,77 @@
         "competencies": [
           {
             "code": "d1.bt1",
-            "description": "Sie beantworten Kunden- oder Lieferantenanfragen \u00fcber alle Kommunikationskan\u00e4le zu Produkten und Dienstleistungen des Betriebs zeitnah. (K3)",
+            "description": "Sie beantworten Kunden- oder Lieferantenanfragen \u00fcber alle Kommunikationskan\u00e4le zu Produkten und Dienstleistungen des Betriebs zeitnah.",
             "where": "Betrieb"
           },
           {
             "code": "d1.bs1a",
-            "description": "Sie setzen die wichtigsten Faktoren f\u00fcr eine gute Dienstleistungsqualit\u00e4t um. (K3)",
+            "description": "Sie setzen die wichtigsten Faktoren f\u00fcr eine gute Dienstleistungsqualit\u00e4t um.",
             "where": "Berufsschule"
           },
           {
             "code": "d1.bs1b",
-            "description": "Sie zeigen die zentralen Faktoren f\u00fcr die Gestaltung einer Kunden- oder Lieferantenbeziehung auf. (K2)",
+            "description": "Sie zeigen die zentralen Faktoren f\u00fcr die Gestaltung einer Kunden- oder Lieferantenbeziehung auf.",
             "where": "Berufsschule"
           },
           {
             "code": "d1.bt2",
-            "description": "Sie gehen auf die Anliegen der Kund/innen oder Lieferant/innen ein. (K3)",
+            "description": "Sie gehen auf die Anliegen der Kund/innen oder Lieferant/innen ein.",
             "where": "Betrieb"
           },
           {
             "code": "d1.bt3",
-            "description": "Sie erfassen die Kunden- oder Lieferantenanliegen. (K3)",
+            "description": "Sie erfassen die Kunden- oder Lieferantenanliegen.",
             "where": "Betrieb"
           },
           {
             "code": "d1.bt4",
-            "description": "Sie leiten bei Bedarf die Anliegen der Kund/innen oder Lieferant/innen an die zust\u00e4ndige Stelle weiter. (K3)",
+            "description": "Sie leiten bei Bedarf die Anliegen der Kund/innen oder Lieferant/innen an die zust\u00e4ndige Stelle weiter.",
             "where": "Betrieb"
           },
           {
             "code": "d1.bs2a",
-            "description": "Sie nehmen Kunden- oder Lieferantenanliegen systematisch entgegen und stellen die erforderliche Weiterbearbeitung sicher. (K3)",
+            "description": "Sie nehmen Kunden- oder Lieferantenanliegen systematisch entgegen und stellen die erforderliche Weiterbearbeitung sicher.",
             "where": "Berufsschule"
           },
           {
             "code": "d1.bs2b",
-            "description": "Sie geben eine umfassende Erstauskunft und wenden dabei g\u00e4ngige Kommunikationstechniken an. (K3)",
+            "description": "Sie geben eine umfassende Erstauskunft und wenden dabei g\u00e4ngige Kommunikationstechniken an.",
             "where": "Berufsschule"
           },
           {
             "code": "d1.bt5",
-            "description": "Sie deuten verbale und nonverbale Signale der Kund/innen oder Lieferant/innen und leiten geeignete Massnahmen ab. (K4)",
+            "description": "Sie deuten verbale und nonverbale Signale der Kund/innen oder Lieferant/innen und leiten geeignete Massnahmen ab.",
             "where": "Betrieb"
           },
           {
             "code": "d1.bs5a",
-            "description": "Sie deuten nonverbale Signale. (K3)",
+            "description": "Sie deuten nonverbale Signale.",
             "where": "Berufsschule"
           },
           {
             "code": "d1.bt6",
-            "description": "Sie f\u00fchren erste Abkl\u00e4rungen der Kundenbed\u00fcrfnisse durch. (K3)",
+            "description": "Sie f\u00fchren erste Abkl\u00e4rungen der Kundenbed\u00fcrfnisse durch.",
             "where": "Betrieb"
           },
           {
             "code": "d1.bs6a",
-            "description": "Sie wenden g\u00e4ngige Fragetechniken im Rahmen der Bed\u00fcrfnisabkl\u00e4rung an. (K3)",
+            "description": "Sie wenden g\u00e4ngige Fragetechniken im Rahmen der Bed\u00fcrfnisabkl\u00e4rung an.",
             "where": "Berufsschule"
           },
           {
             "code": "d1.bt7",
-            "description": "Sie stellen den Informationsfluss zu Kund/innen oder Lieferant/innen zeitnah sicher. (K3)",
+            "description": "Sie stellen den Informationsfluss zu Kund/innen oder Lieferant/innen zeitnah sicher.",
             "where": "Betrieb"
           },
           {
             "code": "d1.bt8",
-            "description": "Sie kommunizieren mit Kund/innen oder Lieferant/innen m\u00fcndlich und schriftlich in der regionalen Landessprache oder in einer Fremdsprache. (K3)",
+            "description": "Sie kommunizieren mit Kund/innen oder Lieferant/innen m\u00fcndlich und schriftlich in der regionalen Landessprache oder in einer Fremdsprache.",
             "where": "Betrieb"
           },
           {
             "code": "d1.bs8a",
-            "description": "Sie kommunizieren in der regionalen Landessprache und in einer Fremdsprache (Niveau B1). (K3)",
+            "description": "Sie kommunizieren in der regionalen Landessprache und in einer Fremdsprache (Niveau B1).",
             "where": "Berufsschule"
           }
         ]
@@ -1142,97 +1142,97 @@
         "competencies": [
           {
             "code": "d2.bt1",
-            "description": "Sie f\u00fchren strukturierte Informations- und Beratungsgespr\u00e4che mit Kund/innen oder Lieferant/innen \u00fcber unterschiedliche Kan\u00e4le. (K3)",
+            "description": "Sie f\u00fchren strukturierte Informations- und Beratungsgespr\u00e4che mit Kund/innen oder Lieferant/innen \u00fcber unterschiedliche Kan\u00e4le.",
             "where": "Betrieb"
           },
           {
             "code": "d2.bs1a",
-            "description": "Sie erl\u00e4utern die Erfolgsfaktoren von Gespr\u00e4chssituationen \u00fcber die g\u00e4ngigen Kan\u00e4le. (K2)",
+            "description": "Sie erl\u00e4utern die Erfolgsfaktoren von Gespr\u00e4chssituationen \u00fcber die g\u00e4ngigen Kan\u00e4le.",
             "where": "Berufsschule"
           },
           {
             "code": "d2.bs1b",
-            "description": "Sie setzen die Schritte von Informationsgespr\u00e4chen um. (K3)",
+            "description": "Sie setzen die Schritte von Informationsgespr\u00e4chen um.",
             "where": "Berufsschule"
           },
           {
             "code": "d2.bs1c",
-            "description": "Sie setzen die Schritte von Beratungsgespr\u00e4chen um. (K3)",
+            "description": "Sie setzen die Schritte von Beratungsgespr\u00e4chen um.",
             "where": "Berufsschule"
           },
           {
             "code": "d2.bt2",
-            "description": "Sie kl\u00e4ren Bed\u00fcrfnisse von Kund/innen oder Lieferant/innen umfassend ab. (K3)",
+            "description": "Sie kl\u00e4ren Bed\u00fcrfnisse von Kund/innen oder Lieferant/innen umfassend ab.",
             "where": "Betrieb"
           },
           {
             "code": "d2.bs2a",
-            "description": "Sie leiten Gespr\u00e4che mithilfe g\u00e4ngiger Fragetechniken. (K3)",
+            "description": "Sie leiten Gespr\u00e4che mithilfe g\u00e4ngiger Fragetechniken.",
             "where": "Berufsschule"
           },
           {
             "code": "d2.bs2b",
-            "description": "Sie h\u00f6ren aktiv zu. (K3)",
+            "description": "Sie h\u00f6ren aktiv zu.",
             "where": "Berufsschule"
           },
           {
             "code": "d2.bs2c",
-            "description": "Sie f\u00fchren eine umfassende Bedarfsanalyse durch. (K3)",
+            "description": "Sie f\u00fchren eine umfassende Bedarfsanalyse durch.",
             "where": "Berufsschule"
           },
           {
             "code": "d2.bt3",
-            "description": "Sie schaffen eine vertrauensvolle Gespr\u00e4chsatmosph\u00e4re. (K3)",
+            "description": "Sie schaffen eine vertrauensvolle Gespr\u00e4chsatmosph\u00e4re.",
             "where": "Betrieb"
           },
           {
             "code": "d2.bs3a",
-            "description": "Sie setzen die zentralen Elemente einer wertsch\u00e4tzenden Kommunikation um. (K3)",
+            "description": "Sie setzen die zentralen Elemente einer wertsch\u00e4tzenden Kommunikation um.",
             "where": "Berufsschule"
           },
           {
             "code": "d2.bs3b",
-            "description": "Sie setzen wichtige Faktoren f\u00fcr den Vertrauensaufbau um. (K3)",
+            "description": "Sie setzen wichtige Faktoren f\u00fcr den Vertrauensaufbau um.",
             "where": "Berufsschule"
           },
           {
             "code": "d2.bt4",
-            "description": "Sie bieten den Kund/innen oder Lieferanten auf der Basis der Bed\u00fcrfnisabkl\u00e4rung sinnvolle Produkte und Dienstleistungen an. (K3)",
+            "description": "Sie bieten den Kund/innen oder Lieferanten auf der Basis der Bed\u00fcrfnisabkl\u00e4rung sinnvolle Produkte und Dienstleistungen an.",
             "where": "Betrieb"
           },
           {
             "code": "d2.bt5",
-            "description": "Sie pr\u00e4sentieren L\u00f6sungsvorschl\u00e4ge \u00fcberzeugend. (K3)",
+            "description": "Sie pr\u00e4sentieren L\u00f6sungsvorschl\u00e4ge \u00fcberzeugend.",
             "where": "Betrieb"
           },
           {
             "code": "d2.bs5a",
-            "description": "Sie setzen verschiedene Pr\u00e4sentationstechniken im Kundengespr\u00e4ch ein. (K3)",
+            "description": "Sie setzen verschiedene Pr\u00e4sentationstechniken im Kundengespr\u00e4ch ein.",
             "where": "Berufsschule"
           },
           {
             "code": "d2.bt6",
-            "description": "Sie nehmen Einw\u00e4nde von Kund/innen oder Lieferant/innen ernst und argumentieren sach- und l\u00f6sungsorientiert. (K4)",
+            "description": "Sie nehmen Einw\u00e4nde von Kund/innen oder Lieferant/innen ernst und argumentieren sach- und l\u00f6sungsorientiert.",
             "where": "Betrieb"
           },
           {
             "code": "d2.bs6a",
-            "description": "Sie setzen Argumentationstechniken ein. (K3)",
+            "description": "Sie setzen Argumentationstechniken ein.",
             "where": "Berufsschule"
           },
           {
             "code": "d2.bt7",
-            "description": "Sie f\u00fchren Informations- und Beratungsgespr\u00e4che mit Kund/innen oder Lieferant/innen in der regionalen Landessprache oder in einer Fremdsprache. (K3)",
+            "description": "Sie f\u00fchren Informations- und Beratungsgespr\u00e4che mit Kund/innen oder Lieferant/innen in der regionalen Landessprache oder in einer Fremdsprache.",
             "where": "Betrieb"
           },
           {
             "code": "d2.bs7a",
-            "description": "Sie kommunizieren in der regionalen Landessprache und in einer Fremdsprache (Niveau B1). (K3)",
+            "description": "Sie kommunizieren in der regionalen Landessprache und in einer Fremdsprache (Niveau B1).",
             "where": "Berufsschule"
           },
           {
             "code": "d2.bt8",
-            "description": "Sie analysieren ihre Informations- und Beratungsgespr\u00e4che unter Einbezug der Kunden- oder Lieferantenreaktionen und leiten Optimierungen f\u00fcr ihre zuk\u00fcnftigen Informations- und Beratungsgespr\u00e4che ab. (K4)",
+            "description": "Sie analysieren ihre Informations- und Beratungsgespr\u00e4che unter Einbezug der Kunden- oder Lieferantenreaktionen und leiten Optimierungen f\u00fcr ihre zuk\u00fcnftigen Informations- und Beratungsgespr\u00e4che ab.",
             "where": "Betrieb"
           }
         ]
@@ -1244,92 +1244,92 @@
         "competencies": [
           {
             "code": "d3.bt1",
-            "description": "Sie f\u00fchren strukturierte Verkaufs- oder Verhandlungsgespr\u00e4che mit Kund/innen oder Lieferant/innen \u00fcber unterschiedliche Kan\u00e4le. (K3)",
+            "description": "Sie f\u00fchren strukturierte Verkaufs- oder Verhandlungsgespr\u00e4che mit Kund/innen oder Lieferant/innen \u00fcber unterschiedliche Kan\u00e4le.",
             "where": "Betrieb"
           },
           {
             "code": "d3.bs1a",
-            "description": "Sie setzen die Schritte von Verkaufsgespr\u00e4chen um. (K3)",
+            "description": "Sie setzen die Schritte von Verkaufsgespr\u00e4chen um.",
             "where": "Berufsschule"
           },
           {
             "code": "d3.bs1b",
-            "description": "Sie setzen die Schritte von Verhandlungsgespr\u00e4chen um. (K3)",
+            "description": "Sie setzen die Schritte von Verhandlungsgespr\u00e4chen um.",
             "where": "Berufsschule"
           },
           {
             "code": "d3.bs1c",
-            "description": "Sie setzen g\u00e4ngige Gespr\u00e4chs- und Verkaufstechniken ein. (K3)",
+            "description": "Sie setzen g\u00e4ngige Gespr\u00e4chs- und Verkaufstechniken ein.",
             "where": "Berufsschule"
           },
           {
             "code": "d3.bs1d",
-            "description": "Sie w\u00e4hlen f\u00fcr ein Verkaufs- oder Verhandlungsgespr\u00e4ch mit Kund/innen oder Lieferant/innen eine zielf\u00fchrende Kommunikationstechnik und setzen sie um. (K3)",
+            "description": "Sie w\u00e4hlen f\u00fcr ein Verkaufs- oder Verhandlungsgespr\u00e4ch mit Kund/innen oder Lieferant/innen eine zielf\u00fchrende Kommunikationstechnik und setzen sie um.",
             "where": "Berufsschule"
           },
           {
             "code": "d3.bt2",
-            "description": "Sie kl\u00e4ren Bed\u00fcrfnisse von Kund/innen oder Lieferant/innen auch bez\u00fcglich Nachhaltigkeit umfassend ab. (K3)",
+            "description": "Sie kl\u00e4ren Bed\u00fcrfnisse von Kund/innen oder Lieferant/innen auch bez\u00fcglich Nachhaltigkeit umfassend ab.",
             "where": "Betrieb"
           },
           {
             "code": "d3.bt3",
-            "description": "Sie setzen in den Verkaufs- oder Verhandlungsgespr\u00e4chen mit Kund/innen oder Lieferant/innen situativ passende Kommunikationsinstrumente ein. (K3)",
+            "description": "Sie setzen in den Verkaufs- oder Verhandlungsgespr\u00e4chen mit Kund/innen oder Lieferant/innen situativ passende Kommunikationsinstrumente ein.",
             "where": "Betrieb"
           },
           {
             "code": "d3.bt4",
-            "description": "Sie erstellen auf Basis der Bed\u00fcrfnisabkl\u00e4rung f\u00fcr Kund/innen Offerten. (K3)",
+            "description": "Sie erstellen auf Basis der Bed\u00fcrfnisabkl\u00e4rung f\u00fcr Kund/innen Offerten.",
             "where": "Betrieb"
           },
           {
             "code": "d3.bs4a",
-            "description": "Sie erstellen eine kundenorientierte Offerte. (K3)",
+            "description": "Sie erstellen eine kundenorientierte Offerte.",
             "where": "Berufsschule"
           },
           {
             "code": "d3.bt5",
-            "description": "Sie vertreten in den Verkaufs- oder Verhandlungsgespr\u00e4chen gegen\u00fcber Kund/innen die Vorteile sowie die Nachhaltigkeitsaspekte ihrer Produkte und Dienstleistungen. (K3)",
+            "description": "Sie vertreten in den Verkaufs- oder Verhandlungsgespr\u00e4chen gegen\u00fcber Kund/innen die Vorteile sowie die Nachhaltigkeitsaspekte ihrer Produkte und Dienstleistungen.",
             "where": "Betrieb"
           },
           {
             "code": "d3.bt6",
-            "description": "Sie holen bei m\u00f6glichen Lieferant/innen Offerten ein. (K3)",
+            "description": "Sie holen bei m\u00f6glichen Lieferant/innen Offerten ein.",
             "where": "Betrieb"
           },
           {
             "code": "d3.bt7",
-            "description": "Sie pr\u00fcfen die Offerten und leiten Argumente f\u00fcr das Verhandlungs- oder das Verkaufsgespr\u00e4ch ab. (K4)",
+            "description": "Sie pr\u00fcfen die Offerten und leiten Argumente f\u00fcr das Verhandlungs- oder das Verkaufsgespr\u00e4ch ab.",
             "where": "Betrieb"
           },
           {
             "code": "d3.bs7a",
-            "description": "Sie wenden die Vorgehensmethodik bei einem Einwand des Gegen\u00fcbers an. (K3)",
+            "description": "Sie wenden die Vorgehensmethodik bei einem Einwand des Gegen\u00fcbers an.",
             "where": "Berufsschule"
           },
           {
             "code": "d3.bt8",
-            "description": "Sie schliessen Verkaufs- und Verhandlungsgespr\u00e4che zum richtigen Zeitpunkt ab. (K3)",
+            "description": "Sie schliessen Verkaufs- und Verhandlungsgespr\u00e4che zum richtigen Zeitpunkt ab.",
             "where": "Betrieb"
           },
           {
             "code": "d3.bt9",
-            "description": "Sie f\u00fchren Verkaufsgespr\u00e4che mit Kund/innen in der regionalen Landessprache oder in einer Fremdsprache. (K3)",
+            "description": "Sie f\u00fchren Verkaufsgespr\u00e4che mit Kund/innen in der regionalen Landessprache oder in einer Fremdsprache.",
             "where": "Betrieb"
           },
           {
             "code": "d3.bt10",
-            "description": "Sie f\u00fchren Verhandlungsgespr\u00e4che in der regionalen Landessprache oder in einer Fremdsprache. (K3)",
+            "description": "Sie f\u00fchren Verhandlungsgespr\u00e4che in der regionalen Landessprache oder in einer Fremdsprache.",
             "where": "Betrieb"
           },
           {
             "code": "d3.bs9a",
-            "description": "Sie kommunizieren in der regionalen Landessprache und in einer Fremdsprache (Niveau B1). (K3)",
+            "description": "Sie kommunizieren in der regionalen Landessprache und in einer Fremdsprache (Niveau B1).",
             "where": "Berufsschule"
           },
           {
             "code": "d3.bt11",
-            "description": "Sie analysieren ihre Verkaufs- oder Verhandlungsgespr\u00e4che unter Einbezug der Kunden- oder Lieferantenr\u00fcckmeldungen und leiten Optimierungen f\u00fcr ihre zuk\u00fcnftigen Verkaufs- oder Verhandlungsgespr\u00e4che ab. (K4)",
+            "description": "Sie analysieren ihre Verkaufs- oder Verhandlungsgespr\u00e4che unter Einbezug der Kunden- oder Lieferantenr\u00fcckmeldungen und leiten Optimierungen f\u00fcr ihre zuk\u00fcnftigen Verkaufs- oder Verhandlungsgespr\u00e4che ab.",
             "where": "Betrieb"
           }
         ]
@@ -1341,42 +1341,42 @@
         "competencies": [
           {
             "code": "d4.bt1",
-            "description": "Sie pflegen ihre Kunden- und Lieferantenbeziehungen. (K3)",
+            "description": "Sie pflegen ihre Kunden- und Lieferantenbeziehungen.",
             "where": "Betrieb"
           },
           {
             "code": "d4.bs1a",
-            "description": "Sie erl\u00e4utern die relevanten Faktoren f\u00fcr die Pflege von Kunden- und Lieferantenbeziehungen. (K2)",
+            "description": "Sie erl\u00e4utern die relevanten Faktoren f\u00fcr die Pflege von Kunden- und Lieferantenbeziehungen.",
             "where": "Berufsschule"
           },
           {
             "code": "d4.bt2",
-            "description": "Sie setzen die Kunden- und Lieferantenbindungsmassnahmen \u00fcber geeignete Kommunikationskan\u00e4le in der regionalen Landessprache oder in einer Fremdsprache um. (K3)",
+            "description": "Sie setzen die Kunden- und Lieferantenbindungsmassnahmen \u00fcber geeignete Kommunikationskan\u00e4le in der regionalen Landessprache oder in einer Fremdsprache um.",
             "where": "Betrieb"
           },
           {
             "code": "d4.bs2a",
-            "description": "Sie entwickeln Kundenbindungs- und Loyalit\u00e4tsmassnahmen. (K3)",
+            "description": "Sie entwickeln Kundenbindungs- und Loyalit\u00e4tsmassnahmen.",
             "where": "Berufsschule"
           },
           {
             "code": "d4.bt3",
-            "description": "Sie setzen Massnahmen, um die Kundenzufriedenheit zu erh\u00f6hen, um. (K3)",
+            "description": "Sie setzen Massnahmen, um die Kundenzufriedenheit zu erh\u00f6hen, um.",
             "where": "Betrieb"
           },
           {
             "code": "d4.bs3a",
-            "description": "Sie zeigen die Aspekte f\u00fcr die Erreichung von Kundenzufriedenheit auf. (K2)",
+            "description": "Sie zeigen die Aspekte f\u00fcr die Erreichung von Kundenzufriedenheit auf.",
             "where": "Berufsschule"
           },
           {
             "code": "d4.bt4",
-            "description": "Sie \u00fcberpr\u00fcfen die Umsetzungen der Kundenbindungsmassnahmen auf deren Wirksamkeit und schlagen Optimierungsmassnahmen vor. (K4)",
+            "description": "Sie \u00fcberpr\u00fcfen die Umsetzungen der Kundenbindungsmassnahmen auf deren Wirksamkeit und schlagen Optimierungsmassnahmen vor.",
             "where": "Betrieb"
           },
           {
             "code": "d4.bs4a",
-            "description": "Sie analysieren die Wirkung g\u00e4ngiger Kommunikationskan\u00e4le auf die Kund/innen. (K4)",
+            "description": "Sie analysieren die Wirkung g\u00e4ngiger Kommunikationskan\u00e4le auf die Kund/innen.",
             "where": "Berufsschule"
           }
         ]
@@ -1388,72 +1388,72 @@
         "competencies": [
           {
             "code": "d5.bt1",
-            "description": "Sie interagieren an Anl\u00e4ssen mit verschiedenen Anspruchsgruppen im Small Talk eloquent und situativ angemessen. (K3)",
+            "description": "Sie interagieren an Anl\u00e4ssen mit verschiedenen Anspruchsgruppen im Small Talk eloquent und situativ angemessen.",
             "where": "Betrieb"
           },
           {
             "code": "d5.bs1a",
-            "description": "Sie wenden Small Talk-Techniken an. (K3)",
+            "description": "Sie wenden Small Talk-Techniken an.",
             "where": "Berufsschule"
           },
           {
             "code": "d5.bs1b",
-            "description": "Sie pr\u00fcfen die Angemessenheit der Inhalte und die Qualit\u00e4t des Small Talks. (K3)",
+            "description": "Sie pr\u00fcfen die Angemessenheit der Inhalte und die Qualit\u00e4t des Small Talks.",
             "where": "Berufsschule"
           },
           {
             "code": "d5.bt2",
-            "description": "Sie f\u00fchren anspruchsvolle Beratungs-, Verkaufsund Verhandlungsgespr\u00e4che mit verschiedenen Anspruchsgruppen \u00fcber verschiedene Kommunikationskan\u00e4le in der regionalen Landessprache. (K3)",
+            "description": "Sie f\u00fchren anspruchsvolle Beratungs-, Verkaufsund Verhandlungsgespr\u00e4che mit verschiedenen Anspruchsgruppen \u00fcber verschiedene Kommunikationskan\u00e4le in der regionalen Landessprache.",
             "where": "Betrieb"
           },
           {
             "code": "d5.bs2a",
-            "description": "Sie wenden die wichtigsten Punkte bei der schriftlichen Kommunikation mit anspruchsvollen Kund/innen und Lieferant/innen an. (K3)",
+            "description": "Sie wenden die wichtigsten Punkte bei der schriftlichen Kommunikation mit anspruchsvollen Kund/innen und Lieferant/innen an.",
             "where": "Berufsschule"
           },
           {
             "code": "d5.bs2b",
-            "description": "Sie f\u00fchren anspruchsvolle Beratungs- und Verhandlungsgespr\u00e4che durch. (K3)",
+            "description": "Sie f\u00fchren anspruchsvolle Beratungs- und Verhandlungsgespr\u00e4che durch.",
             "where": "Berufsschule"
           },
           {
             "code": "d5.bt3",
-            "description": "Sie wenden in den anspruchsvollen Beratungs, Verkaufs- und Verhandlungsgespr\u00e4chen das Fachvokabular und die gew\u00e4hlte Landessprache zielgruppenorientiert an. (K3)",
+            "description": "Sie wenden in den anspruchsvollen Beratungs, Verkaufs- und Verhandlungsgespr\u00e4chen das Fachvokabular und die gew\u00e4hlte Landessprache zielgruppenorientiert an.",
             "where": "Betrieb"
           },
           {
             "code": "d5.bt4",
-            "description": "Sie nutzen in anspruchsvollen Gespr\u00e4chen deeskalierende Konfliktl\u00f6sungstechniken. (K3)",
+            "description": "Sie nutzen in anspruchsvollen Gespr\u00e4chen deeskalierende Konfliktl\u00f6sungstechniken.",
             "where": "Betrieb"
           },
           {
             "code": "d5.bs4a",
-            "description": "Sie erkl\u00e4ren das Modell der Eskalationsstufen eines Konflikts. (K2)",
+            "description": "Sie erkl\u00e4ren das Modell der Eskalationsstufen eines Konflikts.",
             "where": "Berufsschule"
           },
           {
             "code": "d5.bs4b",
-            "description": "Sie wenden Konfliktl\u00f6sungstechniken an. (K3)",
+            "description": "Sie wenden Konfliktl\u00f6sungstechniken an.",
             "where": "Berufsschule"
           },
           {
             "code": "d5.bt5",
-            "description": "Sie f\u00fchren anspruchsvolle Konflikt-, Reklamations- und Verhandlungsgespr\u00e4che sowie anspruchsvolle Beratungsgespr\u00e4che systematisch, sach- und l\u00f6sungsorientiert. (K4)",
+            "description": "Sie f\u00fchren anspruchsvolle Konflikt-, Reklamations- und Verhandlungsgespr\u00e4che sowie anspruchsvolle Beratungsgespr\u00e4che systematisch, sach- und l\u00f6sungsorientiert.",
             "where": "Betrieb"
           },
           {
             "code": "d5.bs5a",
-            "description": "Sie f\u00fchren anspruchsvolle Konflikt- und Reklamationsgespr\u00e4che durch. (K3)",
+            "description": "Sie f\u00fchren anspruchsvolle Konflikt- und Reklamationsgespr\u00e4che durch.",
             "where": "Berufsschule"
           },
           {
             "code": "d5.bt6",
-            "description": "Sie reflektieren anspruchsvolle Beratungs-, Verkaufs- und Verhandlungsgespr\u00e4che und leiten Optimierungsmassnahmen f\u00fcr zuk\u00fcnftige Beratungs-, Verkaufs- und Verhandlungsgespr\u00e4che ab. (K4)",
+            "description": "Sie reflektieren anspruchsvolle Beratungs-, Verkaufs- und Verhandlungsgespr\u00e4che und leiten Optimierungsmassnahmen f\u00fcr zuk\u00fcnftige Beratungs-, Verkaufs- und Verhandlungsgespr\u00e4che ab.",
             "where": "Betrieb"
           },
           {
             "code": "d5.bs6a",
-            "description": "Sie analysieren anspruchsvolle Beratungs, Verkaufs- und Verhandlungsgespr\u00e4che und leiten Optimierungen f\u00fcr zuk\u00fcnftige Beratungs-, Verkaufs- und Verhandlungsgespr\u00e4che ab. (K4)",
+            "description": "Sie analysieren anspruchsvolle Beratungs, Verkaufs- und Verhandlungsgespr\u00e4che und leiten Optimierungen f\u00fcr zuk\u00fcnftige Beratungs-, Verkaufs- und Verhandlungsgespr\u00e4che ab.",
             "where": "Berufsschule"
           }
         ]
@@ -1465,77 +1465,77 @@
         "competencies": [
           {
             "code": "d6.bt1",
-            "description": "Sie interagieren an Anl\u00e4ssen mit verschiedenen Anspruchsgruppen im Small Talk eloquent und situativ angemessen. (K3)",
+            "description": "Sie interagieren an Anl\u00e4ssen mit verschiedenen Anspruchsgruppen im Small Talk eloquent und situativ angemessen.",
             "where": "Betrieb"
           },
           {
             "code": "d6.bs1a",
-            "description": "Sie wenden Small Talk-Techniken an. (K3)",
+            "description": "Sie wenden Small Talk-Techniken an.",
             "where": "Berufsschule"
           },
           {
             "code": "d6.bs1b",
-            "description": "Sie pr\u00fcfen die Angemessenheit der Inhalte und die Qualit\u00e4t des Small Talks. (K3)",
+            "description": "Sie pr\u00fcfen die Angemessenheit der Inhalte und die Qualit\u00e4t des Small Talks.",
             "where": "Berufsschule"
           },
           {
             "code": "d6.bt2",
-            "description": "Sie f\u00fchren anspruchsvolle Beratungs-, Verkaufsund Verhandlungsgespr\u00e4che mit verschiedenen Anspruchsgruppen \u00fcber verschiedene Kommunikationskan\u00e4le in Englisch oder in einer zweiten Landessprache. (K3)",
+            "description": "Sie f\u00fchren anspruchsvolle Beratungs-, Verkaufsund Verhandlungsgespr\u00e4che mit verschiedenen Anspruchsgruppen \u00fcber verschiedene Kommunikationskan\u00e4le in Englisch oder in einer zweiten Landessprache.",
             "where": "Betrieb"
           },
           {
             "code": "d6.bs2a",
-            "description": "Sie wenden die wichtigsten Punkte bei der schriftlichen Kommunikation mit anspruchsvollen Kund/innen und Lieferant/innen an. (K3)",
+            "description": "Sie wenden die wichtigsten Punkte bei der schriftlichen Kommunikation mit anspruchsvollen Kund/innen und Lieferant/innen an.",
             "where": "Berufsschule"
           },
           {
             "code": "d6.bs2b",
-            "description": "Sie f\u00fchren anspruchsvolle Beratungs- und Verhandlungsgespr\u00e4che durch. (K3)",
+            "description": "Sie f\u00fchren anspruchsvolle Beratungs- und Verhandlungsgespr\u00e4che durch.",
             "where": "Berufsschule"
           },
           {
             "code": "d6.bs2c",
-            "description": "Sie kommunizieren sowohl in der regionalen Landessprache als auch in Englisch oder in einer zweiten Landessprache. (K3)",
+            "description": "Sie kommunizieren sowohl in der regionalen Landessprache als auch in Englisch oder in einer zweiten Landessprache.",
             "where": "Berufsschule"
           },
           {
             "code": "d6.bt3",
-            "description": "Sie wenden in den anspruchsvollen Beratungs, Verkaufs- und Verhandlungsgespr\u00e4chen das Fachvokabular und eine gew\u00e4hlte Sprache zielgruppenorientiert an. (K3)",
+            "description": "Sie wenden in den anspruchsvollen Beratungs, Verkaufs- und Verhandlungsgespr\u00e4chen das Fachvokabular und eine gew\u00e4hlte Sprache zielgruppenorientiert an.",
             "where": "Betrieb"
           },
           {
             "code": "d6.bt4",
-            "description": "Sie nutzen in anspruchsvollen Gespr\u00e4chen deeskalierende Konfliktl\u00f6sungstechniken. (K3)",
+            "description": "Sie nutzen in anspruchsvollen Gespr\u00e4chen deeskalierende Konfliktl\u00f6sungstechniken.",
             "where": "Betrieb"
           },
           {
             "code": "d6.bs4a",
-            "description": "Sie erkl\u00e4ren das Modell der Eskalationsstufen eines Konflikts. (K2)",
+            "description": "Sie erkl\u00e4ren das Modell der Eskalationsstufen eines Konflikts.",
             "where": "Berufsschule"
           },
           {
             "code": "d6.bs4b",
-            "description": "Sie wenden Konfliktl\u00f6sungstechniken an. (K3)",
+            "description": "Sie wenden Konfliktl\u00f6sungstechniken an.",
             "where": "Berufsschule"
           },
           {
             "code": "d6.bt5",
-            "description": "Sie f\u00fchren anspruchsvolle Konflikt-, Reklamations- und Verhandlungsgespr\u00e4che sowie anspruchsvolle Beratungsgespr\u00e4che systematisch, sach- und l\u00f6sungsorientiert. (K4)",
+            "description": "Sie f\u00fchren anspruchsvolle Konflikt-, Reklamations- und Verhandlungsgespr\u00e4che sowie anspruchsvolle Beratungsgespr\u00e4che systematisch, sach- und l\u00f6sungsorientiert.",
             "where": "Betrieb"
           },
           {
             "code": "d6.bs5a",
-            "description": "Sie f\u00fchren anspruchsvolle Konflikt- und Reklamationsgespr\u00e4che durch. (K3)",
+            "description": "Sie f\u00fchren anspruchsvolle Konflikt- und Reklamationsgespr\u00e4che durch.",
             "where": "Berufsschule"
           },
           {
             "code": "d6.bt6",
-            "description": "Sie reflektieren anspruchsvolle Beratungs-, Verkaufs- und Verhandlungsgespr\u00e4che und leiten Optimierungsmassnahmen f\u00fcr zuk\u00fcnftige Beratungs-, Verkaufs- und Verhandlungsgespr\u00e4che ab. (K4)",
+            "description": "Sie reflektieren anspruchsvolle Beratungs-, Verkaufs- und Verhandlungsgespr\u00e4che und leiten Optimierungsmassnahmen f\u00fcr zuk\u00fcnftige Beratungs-, Verkaufs- und Verhandlungsgespr\u00e4che ab.",
             "where": "Betrieb"
           },
           {
             "code": "d6.bs6a",
-            "description": "Sie analysieren anspruchsvolle Beratungs, Verkaufs- und Verhandlungsgespr\u00e4che und leiten Optimierungen f\u00fcr zuk\u00fcnftige Beratungs-, Verkaufs- und Verhandlungsgespr\u00e4che ab. (K4)",
+            "description": "Sie analysieren anspruchsvolle Beratungs, Verkaufs- und Verhandlungsgespr\u00e4che und leiten Optimierungen f\u00fcr zuk\u00fcnftige Beratungs-, Verkaufs- und Verhandlungsgespr\u00e4che ab.",
             "where": "Berufsschule"
           }
         ]
@@ -1553,77 +1553,77 @@
         "competencies": [
           {
             "code": "e1.bt1",
-            "description": "Sie wenden die Software und die Systeme der betrieblichen Informations- und Kommunikationstechnologien ihres Arbeitsbereichs an. (K3)",
+            "description": "Sie wenden die Software und die Systeme der betrieblichen Informations- und Kommunikationstechnologien ihres Arbeitsbereichs an.",
             "where": "Betrieb"
           },
           {
             "code": "e1.bs1a",
-            "description": "Sie wenden g\u00e4ngige Applikationen im kaufm\u00e4nnischen Bereich an. (K3)",
+            "description": "Sie wenden g\u00e4ngige Applikationen im kaufm\u00e4nnischen Bereich an.",
             "where": "Berufsschule"
           },
           {
             "code": "e1.bs1b",
-            "description": "Sie erl\u00e4utern die wesentlichen Aspekte und Herausforderungen beim Arbeiten in der Cloud. (K2)",
+            "description": "Sie erl\u00e4utern die wesentlichen Aspekte und Herausforderungen beim Arbeiten in der Cloud.",
             "where": "Berufsschule"
           },
           {
             "code": "e1.bt2",
-            "description": "Sie unterst\u00fctzen unterschiedliche Anspruchsgruppen in der Anwendung der betrieblichen Software und Systeme. (K3)",
+            "description": "Sie unterst\u00fctzen unterschiedliche Anspruchsgruppen in der Anwendung der betrieblichen Software und Systeme.",
             "where": "Betrieb"
           },
           {
             "code": "e1.bs2a",
-            "description": "Sie geben adressatengerechte Hilfestellungen zur Anwendung von Software und Systemen. (K3)",
+            "description": "Sie geben adressatengerechte Hilfestellungen zur Anwendung von Software und Systemen.",
             "where": "Berufsschule"
           },
           {
             "code": "e1.bt3",
-            "description": "Sie aktualisieren Daten und Inhalte in Datenbanken und Inhaltsverwaltungssystemen rechtskonform. (K3)",
+            "description": "Sie aktualisieren Daten und Inhalte in Datenbanken und Inhaltsverwaltungssystemen rechtskonform.",
             "where": "Betrieb"
           },
           {
             "code": "e1.bs3a",
-            "description": "Sie erkl\u00e4ren die wichtigsten Schritte bei der Aktualisierung von Anwendungsprogrammen und Betriebssystemen. (K2)",
+            "description": "Sie erkl\u00e4ren die wichtigsten Schritte bei der Aktualisierung von Anwendungsprogrammen und Betriebssystemen.",
             "where": "Berufsschule"
           },
           {
             "code": "e1.bs3b",
-            "description": "Sie aktualisieren Anwendungsprogramme sowie Daten und Inhalte in Datenbanken und Inhaltsverwaltungssystemen (Content Management Systemen). (K3)",
+            "description": "Sie aktualisieren Anwendungsprogramme sowie Daten und Inhalte in Datenbanken und Inhaltsverwaltungssystemen (Content Management Systemen).",
             "where": "Berufsschule"
           },
           {
             "code": "e1.bt4",
-            "description": "Sie erkennen g\u00e4ngige Risiken oder Gefahren bez\u00fcglich der Datensicherheit und leiten geeignete Massnahmen stufengerecht ein. (K4)",
+            "description": "Sie erkennen g\u00e4ngige Risiken oder Gefahren bez\u00fcglich der Datensicherheit und leiten geeignete Massnahmen stufengerecht ein.",
             "where": "Betrieb"
           },
           {
             "code": "e1.bs4a",
-            "description": "Sie wenden Massnahmen und Regelungen zu Datensicherheit und Datenschutz an. (K3)",
+            "description": "Sie wenden Massnahmen und Regelungen zu Datensicherheit und Datenschutz an.",
             "where": "Berufsschule"
           },
           {
             "code": "e1.bt5",
-            "description": "Sie l\u00f6sen einfachere technologische Problemstellungen bei der Nutzung der betrieblichen Software und Systeme. (K3)",
+            "description": "Sie l\u00f6sen einfachere technologische Problemstellungen bei der Nutzung der betrieblichen Software und Systeme.",
             "where": "Betrieb"
           },
           {
             "code": "e1.bs5a",
-            "description": "Sie l\u00f6sen regelm\u00e4ssig auftretende Probleme und Aufgaben bei der Nutzung g\u00e4ngiger digitaler Programme und Ger\u00e4te im kaufm\u00e4nnischen Bereich. (K3)",
+            "description": "Sie l\u00f6sen regelm\u00e4ssig auftretende Probleme und Aufgaben bei der Nutzung g\u00e4ngiger digitaler Programme und Ger\u00e4te im kaufm\u00e4nnischen Bereich.",
             "where": "Berufsschule"
           },
           {
             "code": "e1.bt6",
-            "description": "Sie erkennen technologische Problemstellungen und leiten diese zeitnah an die zust\u00e4ndige Stelle weiter. (K4)",
+            "description": "Sie erkennen technologische Problemstellungen und leiten diese zeitnah an die zust\u00e4ndige Stelle weiter.",
             "where": "Betrieb"
           },
           {
             "code": "e1.bt7",
-            "description": "Sie ergreifen in ihrem Arbeitsbereich Massnahmen, um den Energieverbrauch im IT-Bereich zu verringern. (K3)",
+            "description": "Sie ergreifen in ihrem Arbeitsbereich Massnahmen, um den Energieverbrauch im IT-Bereich zu verringern.",
             "where": "Betrieb"
           },
           {
             "code": "e1.bs7a",
-            "description": "Sie leiten Massnahmen ab, um den Energieverbrauch am Arbeitsplatz zu reduzieren. (K3)",
+            "description": "Sie leiten Massnahmen ab, um den Energieverbrauch am Arbeitsplatz zu reduzieren.",
             "where": "Berufsschule"
           }
         ]
@@ -1635,67 +1635,67 @@
         "competencies": [
           {
             "code": "e2.bt1",
-            "description": "Sie recherchieren Informationen im Rahmen eines Auftrags systematisch \u00fcber verschiedene Quellen. (K3)",
+            "description": "Sie recherchieren Informationen im Rahmen eines Auftrags systematisch \u00fcber verschiedene Quellen.",
             "where": "Betrieb"
           },
           {
             "code": "e2.bs1a",
-            "description": "Sie nutzen verschiedene Methoden und Hilfsmittel f\u00fcr die Recherche von Informationen aus dem wirtschaftlichen und kaufm\u00e4nnischen Bereich. (K3)",
+            "description": "Sie nutzen verschiedene Methoden und Hilfsmittel f\u00fcr die Recherche von Informationen aus dem wirtschaftlichen und kaufm\u00e4nnischen Bereich.",
             "where": "Berufsschule"
           },
           {
             "code": "e2.bt2",
-            "description": "Sie wenden die betrieblichen Datenbanken, Inhaltsverwaltungssysteme und andere technische Infrastruktur im Rahmen ihrer Recherchen an. (K3)",
+            "description": "Sie wenden die betrieblichen Datenbanken, Inhaltsverwaltungssysteme und andere technische Infrastruktur im Rahmen ihrer Recherchen an.",
             "where": "Betrieb"
           },
           {
             "code": "e2.bs2a",
-            "description": "Sie wenden sicherheitsrelevante Massnahmen bei Recherchen im Internet an. (K3)",
+            "description": "Sie wenden sicherheitsrelevante Massnahmen bei Recherchen im Internet an.",
             "where": "Berufsschule"
           },
           {
             "code": "e2.bt3",
-            "description": "Sie pr\u00fcfen die recherchierten Informationen auf deren Qualit\u00e4t und klassifizieren sie nach betrieblicher Relevanz. (K4)",
+            "description": "Sie pr\u00fcfen die recherchierten Informationen auf deren Qualit\u00e4t und klassifizieren sie nach betrieblicher Relevanz.",
             "where": "Betrieb"
           },
           {
             "code": "e2.bs3a",
-            "description": "Sie beschreiben die wichtigsten M\u00f6glichkeiten zur \u00dcberpr\u00fcfung der Qualit\u00e4t von Informationsquellen. (K2)",
+            "description": "Sie beschreiben die wichtigsten M\u00f6glichkeiten zur \u00dcberpr\u00fcfung der Qualit\u00e4t von Informationsquellen.",
             "where": "Berufsschule"
           },
           {
             "code": "e2.bs3b",
-            "description": "Sie erkennen und definieren an einfachen Rechercheauftr\u00e4gen die wichtigen Daten und Informationen. (K3)",
+            "description": "Sie erkennen und definieren an einfachen Rechercheauftr\u00e4gen die wichtigen Daten und Informationen.",
             "where": "Berufsschule"
           },
           {
             "code": "e2.bs3c",
-            "description": "Sie plausibilisieren Rechercheergebnisse. (K4)",
+            "description": "Sie plausibilisieren Rechercheergebnisse.",
             "where": "Berufsschule"
           },
           {
             "code": "e2.bt4",
-            "description": "Sie bereiten die relevanten Informationen f\u00fcr die auftraggebende Stelle auf. (K3)",
+            "description": "Sie bereiten die relevanten Informationen f\u00fcr die auftraggebende Stelle auf.",
             "where": "Betrieb"
           },
           {
             "code": "e2.bs4a",
-            "description": "Sie bereiten Daten und Informationen empf\u00e4ngergerecht auf. (K3)",
+            "description": "Sie bereiten Daten und Informationen empf\u00e4ngergerecht auf.",
             "where": "Berufsschule"
           },
           {
             "code": "e2.bt5",
-            "description": "Sie dokumentieren und organisieren Informationen aus Recherchen f\u00fcr eine sp\u00e4tere Verwendung rechtskonform. (K3)",
+            "description": "Sie dokumentieren und organisieren Informationen aus Recherchen f\u00fcr eine sp\u00e4tere Verwendung rechtskonform.",
             "where": "Betrieb"
           },
           {
             "code": "e2.bs5a",
-            "description": "Sie setzen die Regeln des Urheberrechts und des Datenschutzes bei Recherchen und Verwertung von Informationen sicher um. (K3)",
+            "description": "Sie setzen die Regeln des Urheberrechts und des Datenschutzes bei Recherchen und Verwertung von Informationen sicher um.",
             "where": "Berufsschule"
           },
           {
             "code": "e2.bt6",
-            "description": "Sie reflektieren ihr Vorgehen bei den Recherchen hinsichtlich Methodik und Relevanz und leiten Optimierungen f\u00fcr zuk\u00fcnftige Recherchet\u00e4tigkeiten ab. (K4)",
+            "description": "Sie reflektieren ihr Vorgehen bei den Recherchen hinsichtlich Methodik und Relevanz und leiten Optimierungen f\u00fcr zuk\u00fcnftige Recherchet\u00e4tigkeiten ab.",
             "where": "Betrieb"
           }
         ]
@@ -1707,47 +1707,47 @@
         "competencies": [
           {
             "code": "e3.bt1",
-            "description": "Sie f\u00fchren inhaltliche Analysen und kleinere quantitative Auswertungen aus. (K3)",
+            "description": "Sie f\u00fchren inhaltliche Analysen und kleinere quantitative Auswertungen aus.",
             "where": "Betrieb"
           },
           {
             "code": "e3.bs1a",
-            "description": "Sie erl\u00e4utern g\u00e4ngige Methoden zur Analyse von Daten und Statistiken. (K2)",
+            "description": "Sie erl\u00e4utern g\u00e4ngige Methoden zur Analyse von Daten und Statistiken.",
             "where": "Berufsschule"
           },
           {
             "code": "e3.bs1b",
-            "description": "Sie erstellen und interpretieren Statistiken und Datens\u00e4tze. (K3)",
+            "description": "Sie erstellen und interpretieren Statistiken und Datens\u00e4tze.",
             "where": "Berufsschule"
           },
           {
             "code": "e3.bs1c",
-            "description": "Sie f\u00fchren inhaltliche Analysen und kleinere quantitative Auswertungen aus. (K3)",
+            "description": "Sie f\u00fchren inhaltliche Analysen und kleinere quantitative Auswertungen aus.",
             "where": "Berufsschule"
           },
           {
             "code": "e3.bt2",
-            "description": "Sie stellen die Ergebnisse ihrer Analysen und Auswertungen zielgruppengerecht dar. (K3)",
+            "description": "Sie stellen die Ergebnisse ihrer Analysen und Auswertungen zielgruppengerecht dar.",
             "where": "Betrieb"
           },
           {
             "code": "e3.bs2a",
-            "description": "Sie bereiten Statistiken und Datens\u00e4tze auf und pr\u00e4sentieren sie zielgruppengerecht. (K3)",
+            "description": "Sie bereiten Statistiken und Datens\u00e4tze auf und pr\u00e4sentieren sie zielgruppengerecht.",
             "where": "Berufsschule"
           },
           {
             "code": "e3.bt3",
-            "description": "Sie ziehen aus den Ergebnissen ihrer Analysen und Auswertungen Schl\u00fcsse und leiten diese an die zust\u00e4ndige Stelle weiter. (K4)",
+            "description": "Sie ziehen aus den Ergebnissen ihrer Analysen und Auswertungen Schl\u00fcsse und leiten diese an die zust\u00e4ndige Stelle weiter.",
             "where": "Betrieb"
           },
           {
             "code": "e3.bs3a",
-            "description": "Sie berechnen und interpretieren betriebliche Kennzahlen. (K4)",
+            "description": "Sie berechnen und interpretieren betriebliche Kennzahlen.",
             "where": "Berufsschule"
           },
           {
             "code": "e3.bt4",
-            "description": "Sie \u00fcberpr\u00fcfen Datens\u00e4tze und Statistiken in ihrem Arbeitsbereich auf Plausibilit\u00e4t und leiten korrigierende Massnahmen ab. (K4)",
+            "description": "Sie \u00fcberpr\u00fcfen Datens\u00e4tze und Statistiken in ihrem Arbeitsbereich auf Plausibilit\u00e4t und leiten korrigierende Massnahmen ab.",
             "where": "Betrieb"
           }
         ]
@@ -1759,52 +1759,52 @@
         "competencies": [
           {
             "code": "e4.bt1",
-            "description": "Sie bereiten betriebsbezogene Inhalte zielgruppenorientiert mit geeigneten Programmen multimedial auf. (K3)",
+            "description": "Sie bereiten betriebsbezogene Inhalte zielgruppenorientiert mit geeigneten Programmen multimedial auf.",
             "where": "Betrieb"
           },
           {
             "code": "e4.bs1a",
-            "description": "Sie setzen die wichtigsten Aspekte bei der visuellen und auditiven Gestaltung (Bild, Ton, Film) von Informationen zielgruppenorientiert um. (K3)",
+            "description": "Sie setzen die wichtigsten Aspekte bei der visuellen und auditiven Gestaltung (Bild, Ton, Film) von Informationen zielgruppenorientiert um.",
             "where": "Berufsschule"
           },
           {
             "code": "e4.bs1b",
-            "description": "Sie erl\u00e4utern den Aufbau eines Drehbuchs f\u00fcr Audio- und Videoproduktionen. (K2)",
+            "description": "Sie erl\u00e4utern den Aufbau eines Drehbuchs f\u00fcr Audio- und Videoproduktionen.",
             "where": "Berufsschule"
           },
           {
             "code": "e4.bs1c",
-            "description": "Sie bestimmen situationsgerecht digitale Tools f\u00fcr die Aufbereitung von Unterlagen und Informationsmittel. (K3)",
+            "description": "Sie bestimmen situationsgerecht digitale Tools f\u00fcr die Aufbereitung von Unterlagen und Informationsmittel.",
             "where": "Berufsschule"
           },
           {
             "code": "e4.bs1d",
-            "description": "Sie erstellen mit g\u00e4ngigen Anwendungsprogrammen einen Gestaltungsentwurf f\u00fcr verschiedene Unterlagen und Informationsmittel. (K3)",
+            "description": "Sie erstellen mit g\u00e4ngigen Anwendungsprogrammen einen Gestaltungsentwurf f\u00fcr verschiedene Unterlagen und Informationsmittel.",
             "where": "Berufsschule"
           },
           {
             "code": "e4.bs1e",
-            "description": "Sie erstellen und pr\u00e4sentieren Inhalte (Texte, Bilder, Ton, Video) in einem g\u00e4ngigen Format. (K3)",
+            "description": "Sie erstellen und pr\u00e4sentieren Inhalte (Texte, Bilder, Ton, Video) in einem g\u00e4ngigen Format.",
             "where": "Berufsschule"
           },
           {
             "code": "e4.bt2",
-            "description": "Sie nutzen f\u00fcr die Aufbereitung der Informationsmittel und Medienformate die betrieblichen Vorlagen. (K3)",
+            "description": "Sie nutzen f\u00fcr die Aufbereitung der Informationsmittel und Medienformate die betrieblichen Vorlagen.",
             "where": "Betrieb"
           },
           {
             "code": "e4.bt3",
-            "description": "Sie bereiten Vorlagen f\u00fcr Informationsmittel und Medienformate zielgruppenorientiert auf. (K3)",
+            "description": "Sie bereiten Vorlagen f\u00fcr Informationsmittel und Medienformate zielgruppenorientiert auf.",
             "where": "Betrieb"
           },
           {
             "code": "e4.bs3a",
-            "description": "Sie erarbeiten Vorlagen f\u00fcr g\u00e4ngige Informationsmittel und Medienformate. (K3)",
+            "description": "Sie erarbeiten Vorlagen f\u00fcr g\u00e4ngige Informationsmittel und Medienformate.",
             "where": "Berufsschule"
           },
           {
             "code": "e4.bt4",
-            "description": "Sie \u00fcberpr\u00fcfen die Qualit\u00e4t von internen und externen Medienbeitr\u00e4gen/-publikationen und leiten bei Bedarf korrigierende Massnahmen ein. (K4)",
+            "description": "Sie \u00fcberpr\u00fcfen die Qualit\u00e4t von internen und externen Medienbeitr\u00e4gen/-publikationen und leiten bei Bedarf korrigierende Massnahmen ein.",
             "where": "Betrieb"
           }
         ]
@@ -1816,57 +1816,57 @@
         "competencies": [
           {
             "code": "e5.bt1",
-            "description": "Sie richten in Zusammenarbeit mit Fachverantwortlichen Strukturen in Datenbanken oder Inhaltsverwaltungssystemen ein. (K3)",
+            "description": "Sie richten in Zusammenarbeit mit Fachverantwortlichen Strukturen in Datenbanken oder Inhaltsverwaltungssystemen ein.",
             "where": "Betrieb"
           },
           {
             "code": "e5.bs1a",
-            "description": "Sie erstellen Strukturen f\u00fcr Datenbanken und Inhaltsverwaltungssysteme. (K3)",
+            "description": "Sie erstellen Strukturen f\u00fcr Datenbanken und Inhaltsverwaltungssysteme.",
             "where": "Berufsschule"
           },
           {
             "code": "e5.bt2",
-            "description": "Sie betreuen f\u00fcr ihren Arbeitsbereich Datenbanken und Inhaltsverwaltungssysteme. (K3)",
+            "description": "Sie betreuen f\u00fcr ihren Arbeitsbereich Datenbanken und Inhaltsverwaltungssysteme.",
             "where": "Betrieb"
           },
           {
             "code": "e5.bs2a",
-            "description": "Sie bauen Datenbanken und Inhaltsverwaltungssysteme (CMS) auf und pflegen sie. (K3)",
+            "description": "Sie bauen Datenbanken und Inhaltsverwaltungssysteme (CMS) auf und pflegen sie.",
             "where": "Berufsschule"
           },
           {
             "code": "e5.bt3",
-            "description": "Sie f\u00fchren Arbeitskolleg/innen in die Anwendung der branchen- und betriebsspezifischen Software, Datenbanken und Inhaltsverwaltungssysteme ein. (K3)",
+            "description": "Sie f\u00fchren Arbeitskolleg/innen in die Anwendung der branchen- und betriebsspezifischen Software, Datenbanken und Inhaltsverwaltungssysteme ein.",
             "where": "Betrieb"
           },
           {
             "code": "e5.bs3a",
-            "description": "Sie beantworten anspruchsvolle Fragen zur Anwendung von g\u00e4ngigen Anwendungsprogrammen sowie von Datenbanken und Inhaltsverwaltungssystemen im Rahmen des First-Level-Supports (K3).",
+            "description": "Sie beantworten anspruchsvolle Fragen zur Anwendung von g\u00e4ngigen Anwendungsprogrammen sowie von Datenbanken und Inhaltsverwaltungssystemen im Rahmen des First-Level-Supports.",
             "where": "Berufsschule"
           },
           {
             "code": "e5.bt4",
-            "description": "Sie beheben in ihrem Arbeitsbereich Probleme der Soft- und Hardware. (K3)",
+            "description": "Sie beheben in ihrem Arbeitsbereich Probleme der Soft- und Hardware.",
             "where": "Betrieb"
           },
           {
             "code": "e5.bs4a",
-            "description": "Sie erl\u00e4utern die grundlegende Logik von Programmiersprachen. (K2)",
+            "description": "Sie erl\u00e4utern die grundlegende Logik von Programmiersprachen.",
             "where": "Berufsschule"
           },
           {
             "code": "e5.bt5",
-            "description": "Sie pr\u00fcfen bei Anpassungen und Neuanschaffungen technischer Infrastrukturen die Qualit\u00e4t von verschiedenen Angeboten und leiten fundierte Empfehlungen ab. (K4)",
+            "description": "Sie pr\u00fcfen bei Anpassungen und Neuanschaffungen technischer Infrastrukturen die Qualit\u00e4t von verschiedenen Angeboten und leiten fundierte Empfehlungen ab.",
             "where": "Betrieb"
           },
           {
             "code": "e5.bs5a",
-            "description": "Sie erl\u00e4utern qualitative und quantitative Kriterien f\u00fcr die Auswahl von Technologien im kaufm\u00e4nnischen Bereich. (K2)",
+            "description": "Sie erl\u00e4utern qualitative und quantitative Kriterien f\u00fcr die Auswahl von Technologien im kaufm\u00e4nnischen Bereich.",
             "where": "Berufsschule"
           },
           {
             "code": "e5.bs5b",
-            "description": "Sie vergleichen verschiedene Angebote f\u00fcr die Anschaffung und Anpassung von technologischen Infrastrukturen im kaufm\u00e4nnischen Bereich und leiten Empfehlungen ab. (K4)",
+            "description": "Sie vergleichen verschiedene Angebote f\u00fcr die Anschaffung und Anpassung von technologischen Infrastrukturen im kaufm\u00e4nnischen Bereich und leiten Empfehlungen ab.",
             "where": "Berufsschule"
           }
         ]
@@ -1878,52 +1878,52 @@
         "competencies": [
           {
             "code": "e6.bt1",
-            "description": "Sie bearbeiten grosse Datenmengen auftragsbezogen aus unterschiedlichen Quellen mit geeigneten Auswertungsprogrammen und Hilfsmitteln. (K3)",
+            "description": "Sie bearbeiten grosse Datenmengen auftragsbezogen aus unterschiedlichen Quellen mit geeigneten Auswertungsprogrammen und Hilfsmitteln.",
             "where": "Betrieb"
           },
           {
             "code": "e6.bs1a",
-            "description": "Sie wenden die Vorgehensschritte bei Erfassung, Verarbeitung und Analyse von Daten an. (K3)",
+            "description": "Sie wenden die Vorgehensschritte bei Erfassung, Verarbeitung und Analyse von Daten an.",
             "where": "Berufsschule"
           },
           {
             "code": "e6.bs1b",
-            "description": "Sie werten grosse Datenmengen aus. (K3)",
+            "description": "Sie werten grosse Datenmengen aus.",
             "where": "Berufsschule"
           },
           {
             "code": "e6.bs1c",
-            "description": "Sie wenden fortgeschrittene Strategien f\u00fcr die Informationssuche im Internet an. (K3)",
+            "description": "Sie wenden fortgeschrittene Strategien f\u00fcr die Informationssuche im Internet an.",
             "where": "Berufsschule"
           },
           {
             "code": "e6.bt2",
-            "description": "Sie identifizieren aus den grossen Datenmengen die relevanten Informationen. (K4)",
+            "description": "Sie identifizieren aus den grossen Datenmengen die relevanten Informationen.",
             "where": "Betrieb"
           },
           {
             "code": "e6.bs2a",
-            "description": "Sie suchen und filtern relevante Informationen aus grossen Datenmengen. (K4)",
+            "description": "Sie suchen und filtern relevante Informationen aus grossen Datenmengen.",
             "where": "Berufsschule"
           },
           {
             "code": "e6.bt3",
-            "description": "Sie bereiten die auftrags- und themenbezogenen Datenauswertungen adressatengerecht mit geeigneten Hilfsmitteln und Programmen auf. (K3)",
+            "description": "Sie bereiten die auftrags- und themenbezogenen Datenauswertungen adressatengerecht mit geeigneten Hilfsmitteln und Programmen auf.",
             "where": "Betrieb"
           },
           {
             "code": "e6.bs3a",
-            "description": "Sie pr\u00e4sentieren Datenauswertungen adressatengerecht mit geeigneten Hilfsmitteln und Programmen. (K3)",
+            "description": "Sie pr\u00e4sentieren Datenauswertungen adressatengerecht mit geeigneten Hilfsmitteln und Programmen.",
             "where": "Berufsschule"
           },
           {
             "code": "e6.bt4",
-            "description": "Sie \u00fcberpr\u00fcfen die relevanten Informationen auf Vollst\u00e4ndigkeit sowie Korrektheit und leiten auftragsbezogene Schlussfolgerungen ab. (K5)",
+            "description": "Sie \u00fcberpr\u00fcfen die relevanten Informationen auf Vollst\u00e4ndigkeit sowie Korrektheit und leiten auftragsbezogene Schlussfolgerungen ab.",
             "where": "Betrieb"
           },
           {
             "code": "e6.bs4a",
-            "description": "Sie analysieren die Ergebnisse ihrer Recherche und leiten Schlussfolgerungen ab. (K5)",
+            "description": "Sie analysieren die Ergebnisse ihrer Recherche und leiten Schlussfolgerungen ab.",
             "where": "Berufsschule"
           }
         ]
